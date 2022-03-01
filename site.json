@@ -1,5 +1,5 @@
 {
-  "id": "#539d712b-fe26-7265-d58a-e99568684a35",
+  "id": "#72d25782-5359-2ba4-e399-ac4f424c4b2f",
   "title": "hax-camp-22",
   "author": "mayormaier",
   "description": "project documentation",
@@ -13,8 +13,8 @@
     },
     "site": {
       "name": "hax-camp-22",
-      "created": 1646151510800,
-      "updated": 1646151510800,
+      "created": 1646151706597,
+      "updated": 1646151706597,
       "git": {
         "autoPush": false,
         "branch": "master",
@@ -49,209 +49,17 @@
   },
   "items": [
     {
-      "id": "--content-examples-HAXTeam-md",
-      "indent": 0,
-      "location": "./pages/examples/HAXTeam.md",
-      "slug": "content/examples/HAXTeam/",
-      "order": -100,
-      "title": "HAXTheWeb",
-      "description": "HAXTheWeb",
-      "parent": "--content-examples-index-md",
-      "metadata": {
-        "created": 1646151493,
-        "updated": 1646151493,
-        "readtime": 1,
-        "contentDetails": {},
-        "files": [],
-        "haxcmsServiceWorker": true,
-        "tags": [
-          "content"
-        ],
-        "layout": "content.liquid",
-        "title": "HAXTheWeb",
-        "order": -100
-      }
-    },
-    {
-      "id": "--content-about-md",
-      "indent": 0,
-      "location": "./pages/about.md",
-      "slug": "content/about/",
-      "order": 1,
-      "title": "About",
-      "description": "About",
-      "parent": null,
-      "metadata": {
-        "created": 1646151493,
-        "updated": 1646151493,
-        "readtime": 1,
-        "contentDetails": {},
-        "files": [],
-        "haxcmsServiceWorker": true,
-        "tags": [
-          "content"
-        ],
-        "layout": "content.liquid",
-        "title": "About",
-        "order": 1
-      }
-    },
-    {
-      "id": "--content-install-md",
-      "indent": 0,
-      "location": "./pages/install.md",
-      "slug": "content/install/",
-      "order": 1,
-      "title": "Installation",
-      "description": "Installation",
-      "parent": null,
-      "metadata": {
-        "created": 1646151493,
-        "updated": 1646151493,
-        "readtime": 1,
-        "contentDetails": {},
-        "files": [],
-        "haxcmsServiceWorker": true,
-        "tags": [
-          "content"
-        ],
-        "layout": "content.liquid",
-        "title": "Installation",
-        "order": 1
-      }
-    },
-    {
-      "id": "--content-examples-Community-md",
-      "indent": 0,
-      "location": "./pages/examples/Community.md",
-      "slug": "content/examples/Community/",
-      "order": 1,
-      "title": "Community examples",
-      "description": "Community examples",
-      "parent": "--content-examples-index-md",
-      "metadata": {
-        "created": 1646151493,
-        "updated": 1646151493,
-        "readtime": 1,
-        "contentDetails": {},
-        "files": [],
-        "haxcmsServiceWorker": true,
-        "tags": [
-          "content"
-        ],
-        "layout": "content.liquid",
-        "title": "Community examples",
-        "order": 1
-      }
-    },
-    {
-      "id": "--content-examples-index-md",
-      "indent": 0,
-      "location": "./pages/examples/index.md",
-      "slug": "content/examples/",
-      "order": 1,
-      "title": "Examples",
-      "description": "Examples",
-      "parent": null,
-      "metadata": {
-        "created": 1646151493,
-        "updated": 1646151493,
-        "readtime": 1,
-        "contentDetails": {},
-        "files": [],
-        "haxcmsServiceWorker": true,
-        "tags": [
-          "content"
-        ],
-        "layout": "content.liquid",
-        "title": "Examples",
-        "order": 1
-      }
-    },
-    {
-      "id": "--content-why-md",
-      "indent": 0,
-      "location": "./pages/why.md",
-      "slug": "content/why/",
-      "order": 2,
-      "title": "Why this is better",
-      "description": "Why this is better",
-      "parent": null,
-      "metadata": {
-        "created": 1646151493,
-        "updated": 1646151493,
-        "readtime": 1,
-        "contentDetails": {},
-        "files": [],
-        "haxcmsServiceWorker": true,
-        "tags": [
-          "content"
-        ],
-        "layout": "content.liquid",
-        "title": "Why this is better",
-        "order": 2
-      }
-    },
-    {
-      "id": "--content-roadmap-md",
-      "indent": 0,
-      "location": "./pages/roadmap.md",
-      "slug": "content/roadmap/",
-      "order": 3,
-      "title": "Roadmap",
-      "description": "Roadmap",
-      "parent": null,
-      "metadata": {
-        "created": 1646151493,
-        "updated": 1646151493,
-        "readtime": 1,
-        "contentDetails": {},
-        "files": [],
-        "haxcmsServiceWorker": true,
-        "tags": [
-          "content"
-        ],
-        "layout": "content.liquid",
-        "title": "Roadmap",
-        "order": 3
-      }
-    },
-    {
-      "id": "--content-contact-md",
-      "indent": 0,
-      "location": "./pages/contact.md",
-      "slug": "content/contact/",
-      "order": 4,
-      "title": "Get involved!",
-      "description": "Get involved!",
-      "parent": null,
-      "metadata": {
-        "created": 1646151493,
-        "updated": 1646151493,
-        "readtime": 1,
-        "contentDetails": {},
-        "files": [],
-        "haxcmsServiceWorker": true,
-        "tags": [
-          "content"
-        ],
-        "layout": "content.liquid",
-        "title": "Get involved!",
-        "order": 4
-      }
-    },
-    {
       "id": "--content-welcome-md",
       "indent": 0,
       "location": "./pages/welcome.md",
       "slug": "content/welcome/",
-      "order": 5,
-      "title": "Welcome to HAXCamp 2022",
-      "description": "Welcome to HAXCamp 2022",
+      "order": 0,
+      "title": "Welcome to HAXCamp 2022!",
+      "description": "Welcome to HAXCamp 2022!",
       "parent": null,
       "metadata": {
-        "created": 1646151493,
-        "updated": 1646151493,
+        "created": 1646151682,
+        "updated": 1646151682,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -260,7 +68,7 @@
           "content"
         ],
         "layout": "content.liquid",
-        "title": "Welcome to HAXCamp 2022",
+        "title": "Welcome to HAXCamp 2022!",
         "order": 0
       }
     }
