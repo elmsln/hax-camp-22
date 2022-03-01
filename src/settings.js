@@ -74,7 +74,7 @@ module.exports = () => {
         // short description of the site for SEO
         siteDescription: "project documentation",
         // logo to represent the site
-        siteLogo: "assets/images/photo-1497493292307-31c376b6e479.jpeg",
+        siteLogo: "assets/haxcamp-logo-400x400.jpg",
         // theme to use HAXcms valid theme as it appears in the wc-factory listing
         themeElement: "clean-two", // clean-two, clean-one, bootstrap-theme, learn-two-theme, or any other valid HAXcms theme
         // path to the entryway for the theme file. Not required but improves load times to have this for preloading
@@ -86,7 +86,7 @@ module.exports = () => {
         // icon name if the theme uses one
         themeLogo: "lrn:network",
         // general theme color
-        themeColor: "green",
+        themeColor: "light-blue",
         // CC license, see https://creativecommons.org/licenses/ for a list
         siteLicense: "by-sa",
         // folder / machine name to represent your site
