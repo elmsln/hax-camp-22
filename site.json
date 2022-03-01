@@ -1,5 +1,5 @@
 {
-  "id": "#7aab3565-081b-739f-467d-62054956c0b9",
+  "id": "#539d712b-fe26-7265-d58a-e99568684a35",
   "title": "hax-camp-22",
   "author": "mayormaier",
   "description": "project documentation",
@@ -13,8 +13,8 @@
     },
     "site": {
       "name": "hax-camp-22",
-      "created": 1646150427853,
-      "updated": 1646150427853,
+      "created": 1646151510800,
+      "updated": 1646151510800,
       "git": {
         "autoPush": false,
         "branch": "master",
@@ -58,8 +58,8 @@
       "description": "HAXTheWeb",
       "parent": "--content-examples-index-md",
       "metadata": {
-        "created": 1646150409,
-        "updated": 1646150409,
+        "created": 1646151493,
+        "updated": 1646151493,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -82,8 +82,8 @@
       "description": "About",
       "parent": null,
       "metadata": {
-        "created": 1646150409,
-        "updated": 1646150409,
+        "created": 1646151493,
+        "updated": 1646151493,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -106,8 +106,8 @@
       "description": "Installation",
       "parent": null,
       "metadata": {
-        "created": 1646150409,
-        "updated": 1646150409,
+        "created": 1646151493,
+        "updated": 1646151493,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -130,8 +130,8 @@
       "description": "Community examples",
       "parent": "--content-examples-index-md",
       "metadata": {
-        "created": 1646150409,
-        "updated": 1646150409,
+        "created": 1646151493,
+        "updated": 1646151493,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -154,8 +154,8 @@
       "description": "Examples",
       "parent": null,
       "metadata": {
-        "created": 1646150409,
-        "updated": 1646150409,
+        "created": 1646151493,
+        "updated": 1646151493,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -178,8 +178,8 @@
       "description": "Why this is better",
       "parent": null,
       "metadata": {
-        "created": 1646150409,
-        "updated": 1646150409,
+        "created": 1646151493,
+        "updated": 1646151493,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -202,8 +202,8 @@
       "description": "Roadmap",
       "parent": null,
       "metadata": {
-        "created": 1646150409,
-        "updated": 1646150409,
+        "created": 1646151493,
+        "updated": 1646151493,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -226,8 +226,8 @@
       "description": "Get involved!",
       "parent": null,
       "metadata": {
-        "created": 1646150409,
-        "updated": 1646150409,
+        "created": 1646151493,
+        "updated": 1646151493,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -238,6 +238,30 @@
         "layout": "content.liquid",
         "title": "Get involved!",
         "order": 4
+      }
+    },
+    {
+      "id": "--content-welcome-md",
+      "indent": 0,
+      "location": "./pages/welcome.md",
+      "slug": "content/welcome/",
+      "order": 5,
+      "title": "Welcome to HAXCamp 2022",
+      "description": "Welcome to HAXCamp 2022",
+      "parent": null,
+      "metadata": {
+        "created": 1646151493,
+        "updated": 1646151493,
+        "readtime": 1,
+        "contentDetails": {},
+        "files": [],
+        "haxcmsServiceWorker": true,
+        "tags": [
+          "content"
+        ],
+        "layout": "content.liquid",
+        "title": "Welcome to HAXCamp 2022",
+        "order": 0
       }
     }
   ]

@@ -3,7 +3,7 @@
   <title>hax-camp-22</title>
   <link href="hax.camp/atom.xml" rel="self" />
   <subtitle>project documentation</subtitle>
-  <updated>2022-03-01T16:00:08.651-00:00</updated>
+  <updated>2022-03-01T16:18:12.640-00:00</updated>
   <author>
       <name>mayormaier</name>
   </author>
@@ -11,8 +11,8 @@
   <entry>
     <title>About</title>
     <id>hax.camp/content/about/</id>
-    <updated>2022-03-01T16:00:08.651-00:00</updated>
-    <published>2022-03-01T16:00:08.651-00:00</published>
+    <updated>2022-03-01T16:18:12.640-00:00</updated>
+    <published>2022-03-01T16:18:12.640-00:00</published>
     <summary></summary>
     <link href="hax.camp/content/about/"/>
     <content type="html">
@@ -29,8 +29,8 @@
   <entry>
     <title>Get involved!</title>
     <id>hax.camp/content/contact/</id>
-    <updated>2022-03-01T16:00:08.651-00:00</updated>
-    <published>2022-03-01T16:00:08.651-00:00</published>
+    <updated>2022-03-01T16:18:12.640-00:00</updated>
+    <published>2022-03-01T16:18:12.640-00:00</published>
     <summary></summary>
     <link href="hax.camp/content/contact/"/>
     <content type="html">
@@ -41,8 +41,8 @@
   <entry>
     <title>Community examples</title>
     <id>hax.camp/content/examples/Community/</id>
-    <updated>2022-03-01T16:00:08.651-00:00</updated>
-    <published>2022-03-01T16:00:08.651-00:00</published>
+    <updated>2022-03-01T16:18:12.640-00:00</updated>
+    <published>2022-03-01T16:18:12.640-00:00</published>
     <summary></summary>
     <link href="hax.camp/content/examples/Community/"/>
     <content type="html">
@@ -53,8 +53,8 @@
   <entry>
     <title>HAXTheWeb</title>
     <id>hax.camp/content/examples/HAXTeam/</id>
-    <updated>2022-03-01T16:00:08.651-00:00</updated>
-    <published>2022-03-01T16:00:08.651-00:00</published>
+    <updated>2022-03-01T16:18:12.640-00:00</updated>
+    <published>2022-03-01T16:18:12.640-00:00</published>
     <summary></summary>
     <link href="hax.camp/content/examples/HAXTeam/"/>
     <content type="html">
@@ -69,8 +69,8 @@
   <entry>
     <title>Examples</title>
     <id>hax.camp/content/examples/</id>
-    <updated>2022-03-01T16:00:08.651-00:00</updated>
-    <published>2022-03-01T16:00:08.651-00:00</published>
+    <updated>2022-03-01T16:18:12.640-00:00</updated>
+    <published>2022-03-01T16:18:12.640-00:00</published>
     <summary></summary>
     <link href="hax.camp/content/examples/"/>
     <content type="html">
@@ -81,8 +81,8 @@
   <entry>
     <title>Installation</title>
     <id>hax.camp/content/install/</id>
-    <updated>2022-03-01T16:00:08.651-00:00</updated>
-    <published>2022-03-01T16:00:08.651-00:00</published>
+    <updated>2022-03-01T16:18:12.640-00:00</updated>
+    <published>2022-03-01T16:18:12.640-00:00</published>
     <summary></summary>
     <link href="hax.camp/content/install/"/>
     <content type="html">
@@ -110,8 +110,8 @@
   <entry>
     <title>Roadmap</title>
     <id>hax.camp/content/roadmap/</id>
-    <updated>2022-03-01T16:00:08.651-00:00</updated>
-    <published>2022-03-01T16:00:08.651-00:00</published>
+    <updated>2022-03-01T16:18:12.640-00:00</updated>
+    <published>2022-03-01T16:18:12.640-00:00</published>
     <summary></summary>
     <link href="hax.camp/content/roadmap/"/>
     <content type="html">
@@ -134,10 +134,23 @@
     </content>
   </entry>
   <entry>
+    <title>Welcome to HAXCamp 2022</title>
+    <id>hax.camp/content/welcome/</id>
+    <updated>2022-03-01T16:18:12.640-00:00</updated>
+    <published>2022-03-01T16:18:12.640-00:00</published>
+    <summary></summary>
+    <link href="hax.camp/content/welcome/"/>
+    <content type="html">
+      &lt;p&gt;Get ready for Camp! We&#39;re excited to bring HAXCamp to Penn State on May 9-10, 2022.&lt;/p&gt;
+&lt;img alt=&quot;Advertisement poster for HAXCamp 2022&quot; src=&quot;/assets/images/poster.jpg&quot;&gt;
+
+    </content>
+  </entry>
+  <entry>
     <title>Why this is better</title>
     <id>hax.camp/content/why/</id>
-    <updated>2022-03-01T16:00:08.651-00:00</updated>
-    <published>2022-03-01T16:00:08.651-00:00</published>
+    <updated>2022-03-01T16:18:12.640-00:00</updated>
+    <published>2022-03-01T16:18:12.640-00:00</published>
     <summary></summary>
     <link href="hax.camp/content/why/"/>
     <content type="html">
