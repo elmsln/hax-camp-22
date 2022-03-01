@@ -1,5 +1,5 @@
 {
-  "id": "#900c00d2-d4bf-6e1f-c914-af79bba6ed74",
+  "id": "#4a2f68fa-6de6-822d-0394-e937b5e9bf05",
   "title": "hax-camp-22",
   "author": "mayormaier",
   "description": "project documentation",
@@ -13,8 +13,8 @@
     },
     "site": {
       "name": "hax-camp-22",
-      "created": 1646162413487,
-      "updated": 1646162413487,
+      "created": 1646163188523,
+      "updated": 1646163188523,
       "git": {
         "autoPush": false,
         "branch": "master",
@@ -25,7 +25,7 @@
       },
       "version": "1.2.9-11ty",
       "domain": "https://localhost:8000",
-      "logo": "assets/images/photo-1497493292307-31c376b6e479.jpeg",
+      "logo": "assets/haxcamp-logo-400x400.jpg",
       "static": {
         "cdn": "build",
         "offline": false
@@ -42,7 +42,7 @@
       "variables": {
         "image": "assets/banner.jpg",
         "hexCode": "#55FF55",
-        "cssVariable": "--simple-colors-default-theme-green-7",
+        "cssVariable": "--simple-colors-default-theme-light-blue-7",
         "logo": "lrn:network"
       }
     }
@@ -58,8 +58,8 @@
       "description": "Welcome to HAXCamp 2022!",
       "parent": null,
       "metadata": {
-        "created": 1646162394,
-        "updated": 1646162394,
+        "created": 1646163164,
+        "updated": 1646163164,
         "readtime": 1,
         "contentDetails": {},
         "files": [],

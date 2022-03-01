@@ -4,7 +4,7 @@
   <subtitle>project documentation</subtitle>
   <link href="hax.camp/rss.xml" rel="self"/>
   <link href="hax.camp"/>
-  <updated>2022-03-01T19:19:54.165-00:00</updated>
+  <updated>2022-03-01T19:32:44.286-00:00</updated>
   <id>hax.camp</id>
   <author>
     <name>mayormaier</name>
@@ -14,10 +14,11 @@
   <entry>
     <title>Welcome to HAXCamp 2022!</title>
     <link href="hax.camp/content/welcome/"/>
-    <updated>2022-03-01T19:19:54.165-00:00</updated>
+    <updated>2022-03-01T19:32:44.286-00:00</updated>
     <id>hax.camp/content/welcome/</id>
-    <content type="html">&lt;p&gt;Get ready for Camp! We&#39;re excited to bring HAXCamp to Penn State on May 9-10, 2022.&lt;/p&gt;
-&lt;img alt=&quot;Advertisement poster for HAXCamp 2022&quot; src=&quot;/assets/images/poster.jpg&quot;&gt;
+    <content type="html">&lt;p&gt;Get ready for Camp! We&#39;re excited to bring HAXCamp to Penn State on May 9-10, 2022.
+&lt;br&gt;
+&lt;img alt=&quot;Advertisement poster for HAXCamp 2022&quot; src=&quot;/assets/images/poster.jpg&quot; style=&quot;display: block; margin-left: auto; margin-right: auto; width: 50%;&quot;&gt;&lt;/p&gt;
 </content>
   </entry>
 </feed>
