@@ -38,12 +38,16 @@
 'use strict';
 var precacheConfig = [
   [
+    "/content/about/",
+    "9JOZEqvpE0iyYsEJ"
+  ],
+  [
     "/content/welcome/",
-    "Vds5JBfbpzdsAHrR"
+    "9JOZEqvpE0iyYsEJ"
   ],
   [
     "/",
-    "Vds5JBfbpzdsAHrR"
+    "9JOZEqvpE0iyYsEJ"
   ]
 ];
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');

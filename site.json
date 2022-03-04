@@ -1,5 +1,5 @@
 {
-  "id": "#4a2f68fa-6de6-822d-0394-e937b5e9bf05",
+  "id": "#b4e227ca-7bbb-d4b3-1a7a-1c0b61329dbd",
   "title": "hax-camp-22",
   "author": "mayormaier",
   "description": "project documentation",
@@ -13,8 +13,8 @@
     },
     "site": {
       "name": "hax-camp-22",
-      "created": 1646163188523,
-      "updated": 1646163188523,
+      "created": 1646414128068,
+      "updated": 1646414128068,
       "git": {
         "autoPush": false,
         "branch": "master",
@@ -49,17 +49,41 @@
   },
   "items": [
     {
+      "id": "--content-about-md",
+      "indent": 0,
+      "location": "./pages/about.md",
+      "slug": "content/about/",
+      "order": 1,
+      "title": "What is HAXCamp?",
+      "description": "What is HAXCamp?",
+      "parent": null,
+      "metadata": {
+        "created": 1646414100,
+        "updated": 1646414100,
+        "readtime": 3,
+        "contentDetails": {},
+        "files": [],
+        "haxcmsServiceWorker": true,
+        "tags": [
+          "content"
+        ],
+        "layout": "content.liquid",
+        "title": "What is HAXCamp?",
+        "order": 1
+      }
+    },
+    {
       "id": "--content-welcome-md",
       "indent": 0,
       "location": "./pages/welcome.md",
       "slug": "content/welcome/",
-      "order": 0,
+      "order": 1,
       "title": "Welcome to HAXCamp 2022!",
       "description": "Welcome to HAXCamp 2022!",
       "parent": null,
       "metadata": {
-        "created": 1646163164,
-        "updated": 1646163164,
+        "created": 1646414100,
+        "updated": 1646414100,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
