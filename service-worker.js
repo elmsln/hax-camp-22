@@ -39,15 +39,15 @@
 var precacheConfig = [
   [
     "/content/welcome/",
-    "pTdJAYck0i5rpg8T"
+    "ysdV6cesVbDTQGNd"
   ],
   [
     "/content/about/",
-    "pTdJAYck0i5rpg8T"
+    "ysdV6cesVbDTQGNd"
   ],
   [
     "/",
-    "pTdJAYck0i5rpg8T"
+    "ysdV6cesVbDTQGNd"
   ]
 ];
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');

@@ -3,7 +3,7 @@
   <title>hax-camp-22</title>
   <link href="hax.camp/atom.xml" rel="self" />
   <subtitle>project documentation</subtitle>
-  <updated>2022-03-04T17:22:06.680-00:00</updated>
+  <updated>2022-03-04T17:27:23.346-00:00</updated>
   <author>
       <name>mayormaier</name>
   </author>
@@ -11,13 +11,12 @@
   <entry>
     <title>What is HAXCamp?</title>
     <id>hax.camp/content/about/</id>
-    <updated>2022-03-04T17:22:06.680-00:00</updated>
-    <published>2022-03-04T17:22:06.680-00:00</published>
+    <updated>2022-03-04T17:27:23.346-00:00</updated>
+    <published>2022-03-04T17:27:23.346-00:00</published>
     <summary></summary>
     <link href="hax.camp/content/about/"/>
     <content type="html">
-      &lt;p&gt;&amp;lt;md-block markdown=&amp;quot;&lt;/p&gt;
-&lt;h2&gt;Description&lt;/h2&gt;
+      &lt;h2&gt;Description&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;&amp;lt; hax-camp &amp;gt;&lt;/strong&gt; is an &lt;em&gt;unconference&lt;/em&gt; dedicated to &lt;a href=&quot;https://open-wc.org/&quot;&gt;all things web components&lt;/a&gt;!&lt;/p&gt;
 &lt;p&gt;Pennsylvania State College of Information Sciences and Technology is providing space for the event. It is a fusion of students, industry professionals, and educators. This year&#39;s event is being student-run and we anticipate there being discussions about openwc, lit, performance, element composition, css, hax.psu, pedagogy, and design systems. All communities are welcome to join us for this free event.&lt;/p&gt;
 &lt;p&gt;This is the 2nd HAX camp to be held after a successful two days of sharing ideas about web components at Duke in 2019. &lt;strong&gt;&amp;lt; hax-camp &amp;gt;&lt;/strong&gt;, named after the HAXTheWeb headless block editor, is an unconference dedicated to all things web components.&lt;/p&gt;
@@ -38,14 +37,13 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/WICG/webcomponents&quot;&gt;Web components&lt;/a&gt; are a W3C standard way of allowing developers to create and attach their own, custom HTML element definitions. Their ability to stack like reusable lego pieces is the realization of the promise of a modular, reusable, and sustainable web. Working across libraries, they hack traditional ways of doing silo&#39;ed front-end application development. And thus, we will all be HAX&#39;ing how we used to work, building new reusable pieces that work across our applications!&lt;/p&gt;
 &lt;p&gt;The founders of this event work on a project called &lt;a href=&quot;https://haxtheweb.org/&quot;&gt;HAXTheWeb&lt;/a&gt;; short for Headless Authoring eXperience, which is built on top of hundreds of web components. By extending the web via web components, we&#39;ll extend the capabilities of HAX and so this event is dedicated to a mix of web components and HAX-specific discussions.&lt;/p&gt;
 &lt;p&gt;&amp;quot;&amp;gt;&lt;/md-block&gt;&lt;/p&gt;
-
     </content>
   </entry>
   <entry>
     <title>Welcome to HAXCamp 2022!</title>
     <id>hax.camp/content/welcome/</id>
-    <updated>2022-03-04T17:22:06.680-00:00</updated>
-    <published>2022-03-04T17:22:06.680-00:00</published>
+    <updated>2022-03-04T17:27:23.346-00:00</updated>
+    <published>2022-03-04T17:27:23.346-00:00</published>
     <summary></summary>
     <link href="hax.camp/content/welcome/"/>
     <content type="html">
