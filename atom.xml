@@ -3,7 +3,7 @@
   <title>hax-camp-22</title>
   <link href="hax.camp/atom.xml" rel="self" />
   <subtitle>project documentation</subtitle>
-  <updated>2022-03-04T17:15:00.310-00:00</updated>
+  <updated>2022-03-04T17:22:06.680-00:00</updated>
   <author>
       <name>mayormaier</name>
   </author>
@@ -11,8 +11,8 @@
   <entry>
     <title>What is HAXCamp?</title>
     <id>hax.camp/content/about/</id>
-    <updated>2022-03-04T17:15:00.310-00:00</updated>
-    <published>2022-03-04T17:15:00.310-00:00</published>
+    <updated>2022-03-04T17:22:06.680-00:00</updated>
+    <published>2022-03-04T17:22:06.680-00:00</published>
     <summary></summary>
     <link href="hax.camp/content/about/"/>
     <content type="html">
@@ -35,7 +35,7 @@
 &lt;h2&gt;Travel&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;&amp;lt; hax-camp &amp;gt;&lt;/strong&gt; will be held one block from Pennsylvania State University campus in a brand new co-working facially called the Innovation Hub- &lt;a href=&quot;https://innovationhub.launchbox.psu.edu/&quot;&gt;Happy Valley LaunchBox&lt;/a&gt;. The closest parking lots to our locations are the &lt;a href=&quot;https://www.google.com/maps/place/Fraser+Street+Parking+Garage/@40.7928821,-77.8618564,20z/data=!4m8!1m2!2m1!1sinnovation+hub+parking+garages!3m4!1s0x89cea898df61b223:0xc38cbf94bdf763a1!8m2!3d40.7928821!4d-77.8616338&quot;&gt;Fraser Street Parking Garage&lt;/a&gt; and the &lt;a href=&quot;https://www.google.com/maps/place/Beaver+Ave+Parking+Garage/@40.7921306,-77.8616951,20.3z/data=!4m8!1m2!2m1!1sinnovation+hub+parking+garages!3m4!1s0x89cea898f0592745:0xc3dce64a97b95508!8m2!3d40.7921022!4d-77.8614117&quot;&gt;Beaver Ave Parking Garage&lt;/a&gt; across from the Hyatt Place State College. If you are taking public transportation, Uber, Lyft, Scooter, Spin Bike, etc, use the address: &lt;a href=&quot;https://www.google.com/maps/place/Happy+Valley+LaunchBox+powered+by+PNC+Bank/@40.7922246,-77.8631356,20z/data=!4m5!3m4!1s0x89cea8989e2d42fb:0x71c7fcfc9df97861!8m2!3d40.7922763!4d-77.8628573&quot;&gt;Innovation Hub&lt;/a&gt;. Upon reaching your destination, take the elevator to the 6th floor of the building where the event will proceed.&lt;/p&gt;
 &lt;h2&gt;Why is it called &lt;strong&gt;&amp;lt; hax-camp &amp;gt;&lt;/strong&gt;?&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/WICG/webcomponents&quot;&gt;Web components&lt;/a&gt; are a W3C standard way of allowing developers to create and attach their own, custom HTML element definitions. Their ability to stack like reusable lego pieces is the realization of the promise of a modular, reusable, and sustainable web. Working across libraries, they &amp;quot;hack&amp;quot; traditional ways of doing silo&#39;ed front-end application development. And thus, we will all be HAX&#39;ing how we used to work, building new reusable pieces that work across our applications!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/WICG/webcomponents&quot;&gt;Web components&lt;/a&gt; are a W3C standard way of allowing developers to create and attach their own, custom HTML element definitions. Their ability to stack like reusable lego pieces is the realization of the promise of a modular, reusable, and sustainable web. Working across libraries, they hack traditional ways of doing silo&#39;ed front-end application development. And thus, we will all be HAX&#39;ing how we used to work, building new reusable pieces that work across our applications!&lt;/p&gt;
 &lt;p&gt;The founders of this event work on a project called &lt;a href=&quot;https://haxtheweb.org/&quot;&gt;HAXTheWeb&lt;/a&gt;; short for Headless Authoring eXperience, which is built on top of hundreds of web components. By extending the web via web components, we&#39;ll extend the capabilities of HAX and so this event is dedicated to a mix of web components and HAX-specific discussions.&lt;/p&gt;
 &lt;p&gt;&amp;quot;&amp;gt;&lt;/md-block&gt;&lt;/p&gt;
 
@@ -44,8 +44,8 @@
   <entry>
     <title>Welcome to HAXCamp 2022!</title>
     <id>hax.camp/content/welcome/</id>
-    <updated>2022-03-04T17:15:00.310-00:00</updated>
-    <published>2022-03-04T17:15:00.310-00:00</published>
+    <updated>2022-03-04T17:22:06.680-00:00</updated>
+    <published>2022-03-04T17:22:06.680-00:00</published>
     <summary></summary>
     <link href="hax.camp/content/welcome/"/>
     <content type="html">

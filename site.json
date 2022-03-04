@@ -1,5 +1,5 @@
 {
-  "id": "#b4e227ca-7bbb-d4b3-1a7a-1c0b61329dbd",
+  "id": "#e087e8c1-a8e4-d661-8b89-09a247a54da9",
   "title": "hax-camp-22",
   "author": "mayormaier",
   "description": "project documentation",
@@ -13,8 +13,8 @@
     },
     "site": {
       "name": "hax-camp-22",
-      "created": 1646414128068,
-      "updated": 1646414128068,
+      "created": 1646414550045,
+      "updated": 1646414550045,
       "git": {
         "autoPush": false,
         "branch": "master",
@@ -49,41 +49,17 @@
   },
   "items": [
     {
-      "id": "--content-about-md",
-      "indent": 0,
-      "location": "./pages/about.md",
-      "slug": "content/about/",
-      "order": 1,
-      "title": "What is HAXCamp?",
-      "description": "What is HAXCamp?",
-      "parent": null,
-      "metadata": {
-        "created": 1646414100,
-        "updated": 1646414100,
-        "readtime": 3,
-        "contentDetails": {},
-        "files": [],
-        "haxcmsServiceWorker": true,
-        "tags": [
-          "content"
-        ],
-        "layout": "content.liquid",
-        "title": "What is HAXCamp?",
-        "order": 1
-      }
-    },
-    {
       "id": "--content-welcome-md",
       "indent": 0,
       "location": "./pages/welcome.md",
       "slug": "content/welcome/",
-      "order": 1,
+      "order": 0,
       "title": "Welcome to HAXCamp 2022!",
       "description": "Welcome to HAXCamp 2022!",
       "parent": null,
       "metadata": {
-        "created": 1646414100,
-        "updated": 1646414100,
+        "created": 1646414527,
+        "updated": 1646414527,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -94,6 +70,30 @@
         "layout": "content.liquid",
         "title": "Welcome to HAXCamp 2022!",
         "order": 0
+      }
+    },
+    {
+      "id": "--content-about-md",
+      "indent": 0,
+      "location": "./pages/about.md",
+      "slug": "content/about/",
+      "order": 1,
+      "title": "What is HAXCamp?",
+      "description": "What is HAXCamp?",
+      "parent": null,
+      "metadata": {
+        "created": 1646414527,
+        "updated": 1646414527,
+        "readtime": 3,
+        "contentDetails": {},
+        "files": [],
+        "haxcmsServiceWorker": true,
+        "tags": [
+          "content"
+        ],
+        "layout": "content.liquid",
+        "title": "What is HAXCamp?",
+        "order": 1
       }
     }
   ]
