@@ -1,5 +1,5 @@
 {
-  "id": "#d4562223-b1a3-008e-dba9-335860ad3714",
+  "id": "#48750a9a-4bbb-161c-cf1f-b0498fda2238",
   "title": "hax-camp-22",
   "author": "mayormaier",
   "description": "project documentation",
@@ -13,8 +13,8 @@
     },
     "site": {
       "name": "hax-camp-22",
-      "created": 1646414862593,
-      "updated": 1646414862593,
+      "created": 1646791957636,
+      "updated": 1646791957636,
       "git": {
         "autoPush": false,
         "branch": "master",
@@ -49,30 +49,6 @@
   },
   "items": [
     {
-      "id": "--content-welcome-md",
-      "indent": 0,
-      "location": "./pages/welcome.md",
-      "slug": "content/welcome/",
-      "order": 0,
-      "title": "Welcome to HAXCamp 2022!",
-      "description": "Welcome to HAXCamp 2022!",
-      "parent": null,
-      "metadata": {
-        "created": 1646414843,
-        "updated": 1646414843,
-        "readtime": 1,
-        "contentDetails": {},
-        "files": [],
-        "haxcmsServiceWorker": true,
-        "tags": [
-          "content"
-        ],
-        "layout": "content.liquid",
-        "title": "Welcome to HAXCamp 2022!",
-        "order": 0
-      }
-    },
-    {
       "id": "--content-about-md",
       "indent": 0,
       "location": "./pages/about.md",
@@ -82,8 +58,8 @@
       "description": "What is HAXCamp?",
       "parent": null,
       "metadata": {
-        "created": 1646414843,
-        "updated": 1646414843,
+        "created": 1646791938,
+        "updated": 1646791938,
         "readtime": 3,
         "contentDetails": {},
         "files": [],
@@ -94,6 +70,30 @@
         "layout": "content.liquid",
         "title": "What is HAXCamp?",
         "order": 1
+      }
+    },
+    {
+      "id": "--content-welcome-md",
+      "indent": 0,
+      "location": "./pages/welcome.md",
+      "slug": "content/welcome/",
+      "order": 1,
+      "title": "Welcome to HAXCamp 2022!",
+      "description": "Welcome to HAXCamp 2022!",
+      "parent": null,
+      "metadata": {
+        "created": 1646791938,
+        "updated": 1646791938,
+        "readtime": 1,
+        "contentDetails": {},
+        "files": [],
+        "haxcmsServiceWorker": true,
+        "tags": [
+          "content"
+        ],
+        "layout": "content.liquid",
+        "title": "Welcome to HAXCamp 2022!",
+        "order": 0
       }
     }
   ]

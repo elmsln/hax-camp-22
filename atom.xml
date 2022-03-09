@@ -3,7 +3,7 @@
   <title>hax-camp-22</title>
   <link href="hax.camp/atom.xml" rel="self" />
   <subtitle>project documentation</subtitle>
-  <updated>2022-03-04T17:27:23.346-00:00</updated>
+  <updated>2022-03-09T02:12:17.664-00:00</updated>
   <author>
       <name>mayormaier</name>
   </author>
@@ -11,8 +11,8 @@
   <entry>
     <title>What is HAXCamp?</title>
     <id>hax.camp/content/about/</id>
-    <updated>2022-03-04T17:27:23.346-00:00</updated>
-    <published>2022-03-04T17:27:23.346-00:00</published>
+    <updated>2022-03-09T02:12:17.664-00:00</updated>
+    <published>2022-03-09T02:12:17.664-00:00</published>
     <summary></summary>
     <link href="hax.camp/content/about/"/>
     <content type="html">
@@ -42,8 +42,8 @@
   <entry>
     <title>Welcome to HAXCamp 2022!</title>
     <id>hax.camp/content/welcome/</id>
-    <updated>2022-03-04T17:27:23.346-00:00</updated>
-    <published>2022-03-04T17:27:23.346-00:00</published>
+    <updated>2022-03-09T02:12:17.664-00:00</updated>
+    <published>2022-03-09T02:12:17.664-00:00</published>
     <summary></summary>
     <link href="hax.camp/content/welcome/"/>
     <content type="html">

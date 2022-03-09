@@ -4,7 +4,7 @@
   <subtitle>project documentation</subtitle>
   <link href="hax.camp/rss.xml" rel="self"/>
   <link href="hax.camp"/>
-  <updated>2022-03-04T17:27:23.346-00:00</updated>
+  <updated>2022-03-09T02:12:17.664-00:00</updated>
   <id>hax.camp</id>
   <author>
     <name>mayormaier</name>
@@ -14,7 +14,7 @@
   <entry>
     <title>What is HAXCamp?</title>
     <link href="hax.camp/content/about/"/>
-    <updated>2022-03-04T17:27:23.346-00:00</updated>
+    <updated>2022-03-09T02:12:17.664-00:00</updated>
     <id>hax.camp/content/about/</id>
     <content type="html">&lt;h2&gt;Description&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;&amp;lt; hax-camp &amp;gt;&lt;/strong&gt; is an &lt;em&gt;unconference&lt;/em&gt; dedicated to &lt;a href=&quot;https://open-wc.org/&quot;&gt;all things web components&lt;/a&gt;!&lt;/p&gt;
@@ -42,7 +42,7 @@
   <entry>
     <title>Welcome to HAXCamp 2022!</title>
     <link href="hax.camp/content/welcome/"/>
-    <updated>2022-03-04T17:27:23.346-00:00</updated>
+    <updated>2022-03-09T02:12:17.664-00:00</updated>
     <id>hax.camp/content/welcome/</id>
     <content type="html">&lt;p&gt;Get ready for Camp! We&#39;re excited to bring HAXCamp to Penn State on May 9-10, 2022.
 &lt;br&gt;
