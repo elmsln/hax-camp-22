@@ -7,7 +7,7 @@ module.exports = () => {
     // github.com/WHATEVER
     var gitOrg = "elmsln";
     // github.com/elmsln/WHATEVER - hax11ty here implies building against the repo itself to produce it's own docs :)
-    var gitProject = "hax11ty";
+    var gitProject = "hax-camp-22";
     // if doing github builds, automatically set these to whatever the repo issuing the call is
     // the above is just for SOME default so things below publish correctly locally
     if (process.env.GITHUB_REPOSITORY) {
@@ -70,9 +70,9 @@ module.exports = () => {
         // email address, optional
         siteAuthorEmail: "",
         // optional twitter handle
-        twitterName: "",
+        twitterName: "haxcamp",
         // short description of the site for SEO
-        siteDescription: "project documentation",
+        siteDescription: "Welcome to <hax-camp>: an unconference dedicated to all things web components",
         // logo to represent the site
         siteLogo: "assets/haxcamp-logo-400x400.jpg",
         // theme to use HAXcms valid theme as it appears in the wc-factory listing
@@ -82,7 +82,7 @@ module.exports = () => {
         // banner image used in your theme
         themeImage: "assets/banner.jpg",
         // a HEX color code to represent / accent your theme
-        themeHexCode: "#55FF55",
+        themeHexCode: "#69ACFA",
         // icon name if the theme uses one
         themeLogo: "lrn:network",
         // general theme color

@@ -26,7 +26,6 @@ module.exports = function (eleventyConfig) {
     fs.mkdirSync(process.cwd() + '/' + SITEDIR + '/');
   }
   copyFolderSyncWithoutGreyMatter(CONTENTDIR, 'pages')
-
   // add plugins to handle xml and rss files
   eleventyConfig.addPlugin(xmlFiltersPlugin);
   eleventyConfig.addPlugin(pluginRss);
@@ -40,6 +39,8 @@ module.exports = function (eleventyConfig) {
     "unbundled-webcomponents/app/dist/build.js": "build.js",
     "unbundled-webcomponents/app/dist/wc-registry.json": "wc-registry.json",
   });
+  //passthrough raw markdown to fix issue
+  eleventyConfig.addPassthroughCopy("raw-markdown");
   // don't copy the build directory if we are using a CDN
   if (!process.env.HAXCMS_CDN) {
     eleventyConfig.addPassthroughCopy({
