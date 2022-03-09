@@ -1,5 +1,13 @@
 [
   {
+   "id":"Site Credits",
+   "title":"Site Credits",
+   "created": "",
+   "location":"/content/testing-page/",
+   "description":"",
+   "text":""
+  },
+  {
    "id":"Welcome to HAXCamp 2022!",
    "title":"Welcome to HAXCamp 2022!",
    "created": "",

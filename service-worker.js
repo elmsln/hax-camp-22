@@ -38,16 +38,28 @@
 'use strict';
 var precacheConfig = [
   [
-    "/content/about/",
-    "UzN8HW5W8btNQfQZ"
+    "/raw-markdown/about/",
+    "erdvyWlXo4Oq7jsH"
+  ],
+  [
+    "/raw-markdown/test/",
+    "erdvyWlXo4Oq7jsH"
+  ],
+  [
+    "/content/testing-page/",
+    "erdvyWlXo4Oq7jsH"
   ],
   [
     "/content/welcome/",
-    "UzN8HW5W8btNQfQZ"
+    "erdvyWlXo4Oq7jsH"
+  ],
+  [
+    "/content/about/",
+    "erdvyWlXo4Oq7jsH"
   ],
   [
     "/",
-    "UzN8HW5W8btNQfQZ"
+    "erdvyWlXo4Oq7jsH"
   ]
 ];
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');

@@ -5,7 +5,7 @@
 			<square70x70logo src="assets/haxcamp-logo-400x400.jpg"/>
 			<square150x150logo src="assets/haxcamp-logo-400x400.jpg"/>
 			<square310x310logo src="assets/haxcamp-logo-400x400.jpg"/>
-			<TileColor>#55FF55</TileColor>
+			<TileColor>#69ACFA</TileColor>
 		</tile>
 	</msapplication>
 </browserconfig>

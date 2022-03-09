@@ -1,7 +1,7 @@
 {
   "name": "hax-camp-22",
   "version": "1.2.9-11ty",
-  "description": "project documentation",
+  "description": "Welcome to &lt;hax-camp&gt;: an unconference dedicated to all things web components",
   "main": "index.html",
   "repository": {
     "type": "git",

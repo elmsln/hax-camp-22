@@ -1,7 +1,7 @@
 {
   "name": "hax-camp-22",
   "short_name": "hax-camp-22",
-  "description": "project documentation",
+  "description": "Welcome to <hax-camp>: an unconference dedicated to all things web components",
   "icons": [
     {
       "src": "assets/android-icon-36x36.png",
@@ -50,8 +50,8 @@
   "scope": "/",
   "start_url": "/",
   "display": "standalone",
-  "theme_color": "#55FF55",
-  "background_color": "#55FF55",
+  "theme_color": "#69ACFA",
+  "background_color": "#69ACFA",
   "url": "hax.camp",
   "lang": "en",
   "screenshots": [],
