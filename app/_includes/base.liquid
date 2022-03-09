@@ -22,10 +22,8 @@
   <link rel="preload" href="{% getGlobal 'basePath' %}theme/theme.css" as="style" />
 
   <meta name="generator" content="HAX11ty" />
-  <link rel="manifest" href="{% getGlobal 'basePath' %}manifest.json">
   <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1, user-scalable=yes">
   <title>{% getGlobal 'siteName' %}</title>
-  <link rel="icon" href="{% getGlobal 'basePath' %}assets/favicon.ico">
   <meta name="theme-color" content="{% getGlobal 'themeHexCode' %}">
   <meta name="mobile-web-app-capable" content="yes">
   <meta name="robots" content="index, follow">
@@ -33,14 +31,6 @@
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="apple-mobile-web-app-title" content="{% getGlobal 'siteName' %}">
-  <link rel="apple-touch-icon" sizes="48x48" href="{% getGlobal 'basePath' %}assets/icon-48x48.png">
-  <link rel="apple-touch-icon" sizes="72x72" href="{% getGlobal 'basePath' %}assets/icon-72x72.png">
-  <link rel="apple-touch-icon" sizes="96x96" href="{% getGlobal 'basePath' %}assets/icon-96x96.png">
-  <link rel="apple-touch-icon" sizes="144x144" href="{% getGlobal 'basePath' %}assets/icon-144x144.png">
-  <link rel="apple-touch-icon" sizes="192x192" href="{% getGlobal 'basePath' %}assets/icon-192x192.png">
-  <meta name="msapplication-TileImage" content="{% getGlobal 'basePath' %}assets/icon-144x144.png">
-  <meta name="msapplication-TileColor" content="{% getGlobal 'themeHexCode' %}">
-  <meta name="msapplication-tap-highlight" content="no">
   <meta name="description" content="{% getGlobal 'siteDescription' %}" />
   <meta name="og:sitename" property="og:sitename" content="{% getGlobal 'siteName' %}" />
   <meta name="og:title" property="og:title" content="{% getGlobal 'siteName' %}" />
@@ -55,6 +45,16 @@
   <meta name="twitter:image" property="twitter:image" content="{% getGlobal 'themeImage' %}" />
   <meta rel="cc:license" href="{% getLicenseInfo settings.siteLicense,'link' %}" content="License: {% getLicenseInfo settings.siteLicense,'name' %}"/>
   <meta name="twitter:creator" content="@{% getGlobal 'twitterName' %}" />
+  <link rel="apple-touch-icon" sizes="180x180" href="{% getGlobal 'basePath' %}assets/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="{% getGlobal 'basePath' %}assets/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="{% getGlobal 'basePath' %}assets/favicon-16x16.png">
+  <link rel="manifest" href="{% getGlobal 'basePath' %}assets/site.webmanifest">
+  <link rel="mask-icon" href="{% getGlobal 'basePath' %}assets/safari-pinned-tab.svg" color="#975bd5">
+  <link rel="shortcut icon" href="{% getGlobal 'basePath' %}assets/favicon.ico">
+  <meta name="msapplication-TileColor" content="#2d89ef">
+  <meta name="msapplication-config" content="{% getGlobal 'basePath' %}assets/browserconfig.xml">
+  <meta name="msapplication-tap-highlight" content="no">
+  <meta name="theme-color" content="#ffffff">
   {% if haxcmsServiceWorker == true %}
   <script>
     if ('serviceWorker' in navigator) {
