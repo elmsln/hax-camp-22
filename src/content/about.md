@@ -1,6 +1,6 @@
 ---
 title: What is HAXCamp?
-order: 1
+order: 2
 ---
 
 <h2>Description</h2>
@@ -23,4 +23,4 @@ order: 1
 <h2>Why is it called <strong>&lt; hax-camp &gt;</strong>?</h2>
 <p><a href="https://github.com/WICG/webcomponents">Web components</a> are a W3C standard way of allowing developers to create and attach their own, custom HTML element definitions. Their ability to stack like reusable lego pieces is the realization of the promise of a modular, reusable, and sustainable web. Working across libraries, they hack traditional ways of doing silo'ed front-end application development. And thus, we will all be HAX'ing how we used to work, building new reusable pieces that work across our applications!</p>
 <p>The founders of this event work on a project called <a href="https://haxtheweb.org/">HAXTheWeb</a>; short for Headless Authoring eXperience, which is built on top of hundreds of web components. By extending the web via web components, we'll extend the capabilities of HAX and so this event is dedicated to a mix of web components and HAX-specific discussions.</p>
-<p>&quot;&gt;</md-block></p>
+<p>&quot;&gt;</p>
