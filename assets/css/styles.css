@@ -1,4 +1,6 @@
-*, *:before, *:after {
+*,
+*:before,
+*:after {
   box-sizing: border-box;
 }
 
@@ -9,12 +11,18 @@ body {
   font-family: "Roboto";
 }
 
-h1,h2,h3,h4,h5 {
+h1,
+h2,
+h3,
+h4,
+h5 {
   font-weight: 600;
   font-family: "Roboto";
 }
 
-p,ul,blockquote {
+p,
+ul,
+blockquote {
   font-family: "Roboto";
   font-weight: 100;
 }
@@ -27,4 +35,10 @@ main {
 site-menu {
   left: 0;
   position: absolute;
+}
+
+@media (max-width: 600px) {
+  #gmap_canvas {
+    display: none !important;
+  }
 }

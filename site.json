@@ -1,5 +1,5 @@
 {
-  "id": "#ce769280-0fbb-16f4-ff4f-cf575253068e",
+  "id": "#5b639406-2291-179b-bd1b-d7824fab2042",
   "title": "hax-camp-22",
   "author": "mayormaier",
   "description": "Welcome to <hax-camp>: an unconference dedicated to all things web components",
@@ -13,8 +13,8 @@
     },
     "site": {
       "name": "hax-camp-22",
-      "created": 1646869814321,
-      "updated": 1646869814321,
+      "created": 1646875787444,
+      "updated": 1646875787444,
       "git": {
         "autoPush": false,
         "branch": "master",
@@ -25,7 +25,7 @@
       },
       "version": "1.2.9-11ty",
       "domain": "https://localhost:8000",
-      "logo": "assets/haxcamp-logo-400x400.jpg",
+      "logo": "assets/haxcamp-logo-load-in.png",
       "static": {
         "cdn": "build",
         "offline": false
@@ -58,8 +58,8 @@
       "description": "Welcome to HAXCamp 2022!",
       "parent": null,
       "metadata": {
-        "created": 1646869795,
-        "updated": 1646869795,
+        "created": 1646875768,
+        "updated": 1646875768,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -82,9 +82,9 @@
       "description": "What is HAXCamp?",
       "parent": null,
       "metadata": {
-        "created": 1646869795,
-        "updated": 1646869795,
-        "readtime": 3,
+        "created": 1646875768,
+        "updated": 1646875768,
+        "readtime": 1,
         "contentDetails": {},
         "files": [],
         "haxcmsServiceWorker": true,
@@ -97,17 +97,17 @@
       }
     },
     {
-      "id": "--content-testing-page-md",
+      "id": "--content-location-md",
       "indent": 0,
-      "location": "./pages/testing-page.md",
-      "slug": "content/testing-page/",
-      "order": 5,
-      "title": "Site Credits",
-      "description": "Site Credits",
+      "location": "./pages/location.md",
+      "slug": "content/location/",
+      "order": 3,
+      "title": "Where is HAXCamp?",
+      "description": "Where is HAXCamp?",
       "parent": null,
       "metadata": {
-        "created": 1646869795,
-        "updated": 1646869795,
+        "created": 1646875768,
+        "updated": 1646875768,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -116,8 +116,8 @@
           "content"
         ],
         "layout": "content.liquid",
-        "title": "Site Credits",
-        "order": 5
+        "title": "Where is HAXCamp?",
+        "order": 3
       }
     }
   ]

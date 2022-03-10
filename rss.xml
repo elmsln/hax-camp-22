@@ -4,7 +4,7 @@
   <subtitle>Welcome to &lt;hax-camp&gt;: an unconference dedicated to all things web components</subtitle>
   <link href="hax.camp/rss.xml" rel="self"/>
   <link href="hax.camp"/>
-  <updated>2022-03-09T23:49:54.910-00:00</updated>
+  <updated>2022-03-10T01:29:28.174-00:00</updated>
   <id>hax.camp</id>
   <author>
     <name>mayormaier</name>
@@ -14,7 +14,7 @@
   <entry>
     <title></title>
     <link href="hax.camp/raw-markdown/about/"/>
-    <updated>2022-03-09T23:49:54.130-00:00</updated>
+    <updated>2022-03-10T01:29:27.306-00:00</updated>
     <id>hax.camp/raw-markdown/about/</id>
     <content type="html">&lt;h2&gt;Description&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;&amp;lt; hax-camp &amp;gt;&lt;/strong&gt; is an &lt;em&gt;unconference&lt;/em&gt; dedicated to &lt;a href=&quot;https://open-wc.org/&quot;&gt;all things web components&lt;/a&gt;!&lt;/p&gt;
@@ -22,20 +22,20 @@
 &lt;p&gt;This is the 2nd HAX camp to be held after a successful two days of sharing ideas about web components at Duke in 2019. &lt;strong&gt;&amp;lt; hax-camp &amp;gt;&lt;/strong&gt;, named after the HAXTheWeb headless block editor, is an unconference dedicated to all things web components.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&amp;lt; hax-camp &amp;gt;&lt;/strong&gt; PSU is a unique opportunity for those interested in front-end web development to learn and share equally with a mix of industry professionals, university members, and students about the web development industry. This event is focused on the W3C standard known as web components for reusability, platform-agnostic approach, and the career longevity of learning HTML, CSS, and Javascript.&lt;/p&gt;
 &lt;h2&gt;Teaser&lt;/h2&gt;
-&lt;p&gt;Want to learn more about &lt;strong&gt;LitElement, VanillaJS,&lt;/strong&gt; and others?
-&lt;em&gt;Come learn with us!&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Interested in framework-agnostic components you can use in your existing &lt;strong&gt;React, Angular, Vue, Backbone,&lt;/strong&gt; and &lt;strong&gt;CMS&lt;/strong&gt; projects?
-&lt;em&gt;It&#39;s all we&#39;re talking about!&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Have you made some cool web components and want to show them off?
-&lt;em&gt;Join us!&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Need to figure out &lt;strong&gt;tooling, building, SEO, polyfills,&lt;/strong&gt; and other considerations?
-&lt;em&gt;Let&#39;s figure it out together!&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Do you want to learn more about web components from top to bottom?
-&lt;em&gt;Join us as we all discover together!&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Want to learn more about &lt;strong&gt;HAX, HAXcms, and all things HAXTheWeb?&lt;/strong&gt;
-&lt;em&gt;Join us and find out!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Want to learn more about &lt;strong&gt;LitElement, VanillaJS,&lt;/strong&gt; and others?&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Come learn with us!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Interested in framework-agnostic components you can use in your existing &lt;strong&gt;React, Angular, Vue, Backbone,&lt;/strong&gt; and &lt;strong&gt;CMS&lt;/strong&gt; projects?&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;It&#39;s all we&#39;re talking about!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Have you made some cool web components and want to show them off?&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Join us!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Need to figure out &lt;strong&gt;tooling, building, SEO, polyfills,&lt;/strong&gt; and other considerations?&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Let&#39;s figure it out together!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Do you want to learn more about web components from top to bottom?&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Join us as we all discover together!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Want to learn more about &lt;strong&gt;HAX, HAXcms, and all things HAXTheWeb?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Join us and find out!&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&amp;lt; hax-camp &amp;gt;&lt;/strong&gt; provides a space for collaboration, discussion, and sharing of best practices for those exploring web components. Whether you are using HAX, or anything else, you’ll learn and share valuable knowledge about web components at &lt;strong&gt;&amp;lt; hax-camp &amp;gt;&lt;/strong&gt;.&lt;/p&gt;
-&lt;h2&gt;What&#39;s included&lt;/h2&gt;
+&lt;h2&gt;What&#39;s included?&lt;/h2&gt;
 &lt;p&gt;Registration includes some giveaway items, but this is very much a free event. The cost of meals is not included, however, we’ll have a list of suggested locations where you are highly encouraged to share a bite and continue conversations.&lt;/p&gt;
 &lt;h2&gt;Travel&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;&amp;lt; hax-camp &amp;gt;&lt;/strong&gt; will be held one block from Pennsylvania State University campus in a brand new co-working facially called the Innovation Hub- &lt;a href=&quot;https://innovationhub.launchbox.psu.edu/&quot;&gt;Happy Valley LaunchBox&lt;/a&gt;. The closest parking lots to our locations are the &lt;a href=&quot;https://www.google.com/maps/place/Fraser+Street+Parking+Garage/@40.7928821,-77.8618564,20z/data=!4m8!1m2!2m1!1sinnovation+hub+parking+garages!3m4!1s0x89cea898df61b223:0xc38cbf94bdf763a1!8m2!3d40.7928821!4d-77.8616338&quot;&gt;Fraser Street Parking Garage&lt;/a&gt; and the &lt;a href=&quot;https://www.google.com/maps/place/Beaver+Ave+Parking+Garage/@40.7921306,-77.8616951,20.3z/data=!4m8!1m2!2m1!1sinnovation+hub+parking+garages!3m4!1s0x89cea898f0592745:0xc3dce64a97b95508!8m2!3d40.7921022!4d-77.8614117&quot;&gt;Beaver Ave Parking Garage&lt;/a&gt; across from the Hyatt Place State College. If you are taking public transportation, Uber, Lyft, Scooter, Spin Bike, etc, use the address: &lt;a href=&quot;https://www.google.com/maps/place/Happy+Valley+LaunchBox+powered+by+PNC+Bank/@40.7922246,-77.8631356,20z/data=!4m5!3m4!1s0x89cea8989e2d42fb:0x71c7fcfc9df97861!8m2!3d40.7922763!4d-77.8628573&quot;&gt;Innovation Hub&lt;/a&gt;. Upon reaching your destination, take the elevator to the 6th floor of the building where the event will proceed.&lt;/p&gt;
@@ -47,8 +47,55 @@
   
   <entry>
     <title></title>
+    <link href="hax.camp/raw-markdown/details/"/>
+    <updated>2022-03-10T01:29:27.306-00:00</updated>
+    <id>hax.camp/raw-markdown/details/</id>
+    <content type="html">&lt;p&gt;&lt;strong&gt;&amp;lt; hax-camp &amp;gt;&lt;/strong&gt; is an &lt;em&gt;unconference&lt;/em&gt; dedicated to &lt;a href=&quot;https://open-wc.org/&quot;&gt;all things web components&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;Pennsylvania State College of Information Sciences and Technology is providing space for the event. It is a fusion of students, industry professionals, and educators. This year&#39;s event is being student-run and we anticipate there being discussions about openwc, lit, performance, element composition, css, hax.psu, pedagogy, and design systems. All communities are welcome to join us for this free event.&lt;/p&gt;
+&lt;p&gt;This is the 2nd HAX camp to be held after a successful two days of sharing ideas about web components at Duke in 2019. &lt;strong&gt;&amp;lt; hax-camp &amp;gt;&lt;/strong&gt;, named after the HAXTheWeb headless block editor, is an unconference dedicated to all things web components.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&amp;lt; hax-camp &amp;gt;&lt;/strong&gt; PSU is a unique opportunity for those interested in front-end web development to learn and share equally with a mix of industry professionals, university members, and students about the web development industry. This event is focused on the W3C standard known as web components for reusability, platform-agnostic approach, and the career longevity of learning HTML, CSS, and Javascript.&lt;/p&gt;
+&lt;h2&gt;What&#39;s included?&lt;/h2&gt;
+&lt;p&gt;Registration includes some giveaway items, but this is very much a free event. The cost of meals is not included, however, we’ll have a list of suggested locations where you are highly encouraged to share a bite and continue conversations.&lt;/p&gt;
+&lt;h2&gt;Why is it called &lt;strong&gt;&amp;lt; hax-camp &amp;gt;&lt;/strong&gt; ?&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/WICG/webcomponents&quot;&gt;Web components&lt;/a&gt; are a W3C standard way of allowing developers to create and attach their own, custom HTML element definitions. Their ability to stack like reusable lego pieces is the realization of the promise of a modular, reusable, and sustainable web. Working across libraries, they hack traditional ways of doing silo&#39;ed front-end application development. And thus, we will all be HAX&#39;ing how we used to work, building new reusable pieces that work across our applications!&lt;/p&gt;
+&lt;p&gt;The founders of this event work on a project called &lt;a href=&quot;https://haxtheweb.org/&quot;&gt;HAXTheWeb&lt;/a&gt;; short for Headless Authoring eXperience, which is built on top of hundreds of web components. By extending the web via web components, we&#39;ll extend the capabilities of HAX and so this event is dedicated to a mix of web components and HAX-specific discussions.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="hax.camp/raw-markdown/location/"/>
+    <updated>2022-03-10T01:29:27.306-00:00</updated>
+    <id>hax.camp/raw-markdown/location/</id>
+    <content type="html">&lt;p&gt;&lt;strong&gt;&amp;lt; hax-camp &amp;gt;&lt;/strong&gt; will be held one block from Pennsylvania State University campus in a brand new co-working facially called the Innovation Hub- &lt;a href=&quot;https://innovationhub.launchbox.psu.edu/&quot;&gt;Happy Valley LaunchBox&lt;/a&gt;. The closest parking lots to our locations are the &lt;a href=&quot;https://www.google.com/maps/place/Fraser+Street+Parking+Garage/@40.7928821,-77.8618564,20z/data=!4m8!1m2!2m1!1sinnovation+hub+parking+garages!3m4!1s0x89cea898df61b223:0xc38cbf94bdf763a1!8m2!3d40.7928821!4d-77.8616338&quot;&gt;Fraser Street Parking Garage&lt;/a&gt; and the &lt;a href=&quot;https://www.google.com/maps/place/Beaver+Ave+Parking+Garage/@40.7921306,-77.8616951,20.3z/data=!4m8!1m2!2m1!1sinnovation+hub+parking+garages!3m4!1s0x89cea898f0592745:0xc3dce64a97b95508!8m2!3d40.7921022!4d-77.8614117&quot;&gt;Beaver Ave Parking Garage&lt;/a&gt; across from the Hyatt Place State College. If you are taking public transportation, Uber, Lyft, Scooter, Spin Bike, etc, use the address: &lt;a href=&quot;https://www.google.com/maps/place/Happy+Valley+LaunchBox+powered+by+PNC+Bank/@40.7922246,-77.8631356,20z/data=!4m5!3m4!1s0x89cea8989e2d42fb:0x71c7fcfc9df97861!8m2!3d40.7922763!4d-77.8628573&quot;&gt;Innovation Hub&lt;/a&gt;. Upon reaching your destination, take the elevator to the 6th floor of the building where the event will proceed.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="hax.camp/raw-markdown/teaser/"/>
+    <updated>2022-03-10T01:29:27.306-00:00</updated>
+    <id>hax.camp/raw-markdown/teaser/</id>
+    <content type="html">&lt;p&gt;Want to learn more about &lt;strong&gt;LitElement, VanillaJS,&lt;/strong&gt; and others?&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Come learn with us!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Interested in framework-agnostic components you can use in your existing &lt;strong&gt;React, Angular, Vue, Backbone,&lt;/strong&gt; and &lt;strong&gt;CMS&lt;/strong&gt; projects?&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;It&#39;s all we&#39;re talking about!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Have you made some cool web components and want to show them off?&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Join us!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Need to figure out &lt;strong&gt;tooling, building, SEO, polyfills,&lt;/strong&gt; and other considerations?&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Let&#39;s figure it out together!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Do you want to learn more about web components from top to bottom?&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Join us as we all discover together!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Want to learn more about &lt;strong&gt;HAX, HAXcms, and all things HAXTheWeb?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Join us and find out!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&amp;lt; hax-camp &amp;gt;&lt;/strong&gt; provides a space for collaboration, discussion, and sharing of best practices for those exploring web components. Whether you are using HAX, or anything else, you’ll learn and share valuable knowledge about web components at &lt;strong&gt;&amp;lt; hax-camp &amp;gt;&lt;/strong&gt;.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title></title>
     <link href="hax.camp/raw-markdown/test/"/>
-    <updated>2022-03-09T23:49:54.130-00:00</updated>
+    <updated>2022-03-10T01:29:27.306-00:00</updated>
     <id>hax.camp/raw-markdown/test/</id>
     <content type="html">&lt;p&gt;&lt;strong&gt;this site was built using &lt;a href=&quot;https://elmsln.github.io/hax11ty/&quot;&gt;hax11ty&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 </content>
@@ -57,48 +104,30 @@
   <entry>
     <title>What is HAXCamp?</title>
     <link href="hax.camp/content/about/"/>
-    <updated>2022-03-09T23:49:54.910-00:00</updated>
+    <updated>2022-03-10T01:29:28.174-00:00</updated>
     <id>hax.camp/content/about/</id>
-    <content type="html">&lt;h2&gt;Description&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;&amp;lt; hax-camp &amp;gt;&lt;/strong&gt; is an &lt;em&gt;unconference&lt;/em&gt; dedicated to &lt;a href=&quot;https://open-wc.org/&quot;&gt;all things web components&lt;/a&gt;!&lt;/p&gt;
-&lt;p&gt;Pennsylvania State College of Information Sciences and Technology is providing space for the event. It is a fusion of students, industry professionals, and educators. This year&#39;s event is being student-run and we anticipate there being discussions about openwc, lit, performance, element composition, css, hax.psu, pedagogy, and design systems. All communities are welcome to join us for this free event.&lt;/p&gt;
-&lt;p&gt;This is the 2nd HAX camp to be held after a successful two days of sharing ideas about web components at Duke in 2019. &lt;strong&gt;&amp;lt; hax-camp &amp;gt;&lt;/strong&gt;, named after the HAXTheWeb headless block editor, is an unconference dedicated to all things web components.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&amp;lt; hax-camp &amp;gt;&lt;/strong&gt; PSU is a unique opportunity for those interested in front-end web development to learn and share equally with a mix of industry professionals, university members, and students about the web development industry. This event is focused on the W3C standard known as web components for reusability, platform-agnostic approach, and the career longevity of learning HTML, CSS, and Javascript.&lt;/p&gt;
-&lt;h2&gt;Teaser&lt;/h2&gt;
-&lt;p&gt;Want to learn more about &lt;strong&gt;LitElement, VanillaJS,&lt;/strong&gt; and others? &lt;em&gt;Come learn with us!&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Interested in framework-agnostic components you can use in your existing &lt;strong&gt;React, Angular, Vue, Backbone,&lt;/strong&gt; and &lt;strong&gt;CMS&lt;/strong&gt; projects? &lt;em&gt;It&#39;s all we&#39;re talking about!&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Have you made some cool web components and want to show them off? &lt;em&gt;Join us!&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Need to figure out &lt;strong&gt;tooling, building, SEO, polyfills,&lt;/strong&gt; and other considerations? &lt;em&gt;Let&#39;s figure it out together!&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Do you want to learn more about web components from top to bottom? &lt;em&gt;Join us as we all discover together!&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Want to learn more about &lt;strong&gt;HAX, HAXcms, and all things HAXTheWeb?&lt;/strong&gt; &lt;em&gt;Join us and find out!&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&amp;lt; hax-camp &amp;gt;&lt;/strong&gt; provides a space for collaboration, discussion, and sharing of best practices for those exploring web components. Whether you are using HAX, or anything else, you’ll learn and share valuable knowledge about web components at &lt;strong&gt;&amp;lt; hax-camp &amp;gt;&lt;/strong&gt;.&lt;/p&gt;
-&lt;h2&gt;What&#39;s included&lt;/h2&gt;
-&lt;p&gt;Registration includes some giveaway items, but this is very much a free event. The cost of meals is not included, however, we’ll have a list of suggested locations where you are highly encouraged to share a bite and continue conversations.&lt;/p&gt;
-&lt;h2&gt;Travel&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;&amp;lt; hax-camp &amp;gt;&lt;/strong&gt; will be held one block from Pennsylvania State University campus in a brand new co-working facially called the Innovation Hub- &lt;a href=&quot;https://innovationhub.launchbox.psu.edu/&quot;&gt;Happy Valley LaunchBox&lt;/a&gt;. The closest parking lots to our locations are the &lt;a href=&quot;https://www.google.com/maps/place/Fraser+Street+Parking+Garage/@40.7928821,-77.8618564,20z/data=!4m8!1m2!2m1!1sinnovation+hub+parking+garages!3m4!1s0x89cea898df61b223:0xc38cbf94bdf763a1!8m2!3d40.7928821!4d-77.8616338&quot;&gt;Fraser Street Parking Garage&lt;/a&gt; and the &lt;a href=&quot;https://www.google.com/maps/place/Beaver+Ave+Parking+Garage/@40.7921306,-77.8616951,20.3z/data=!4m8!1m2!2m1!1sinnovation+hub+parking+garages!3m4!1s0x89cea898f0592745:0xc3dce64a97b95508!8m2!3d40.7921022!4d-77.8614117&quot;&gt;Beaver Ave Parking Garage&lt;/a&gt; across from the Hyatt Place State College. If you are taking public transportation, Uber, Lyft, Scooter, Spin Bike, etc, use the address: &lt;a href=&quot;https://www.google.com/maps/place/Happy+Valley+LaunchBox+powered+by+PNC+Bank/@40.7922246,-77.8631356,20z/data=!4m5!3m4!1s0x89cea8989e2d42fb:0x71c7fcfc9df97861!8m2!3d40.7922763!4d-77.8628573&quot;&gt;Innovation Hub&lt;/a&gt;. Upon reaching your destination, take the elevator to the 6th floor of the building where the event will proceed.&lt;/p&gt;
-&lt;h2&gt;Why is it called &lt;strong&gt;&amp;lt; hax-camp &amp;gt;&lt;/strong&gt;?&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/WICG/webcomponents&quot;&gt;Web components&lt;/a&gt; are a W3C standard way of allowing developers to create and attach their own, custom HTML element definitions. Their ability to stack like reusable lego pieces is the realization of the promise of a modular, reusable, and sustainable web. Working across libraries, they hack traditional ways of doing silo&#39;ed front-end application development. And thus, we will all be HAX&#39;ing how we used to work, building new reusable pieces that work across our applications!&lt;/p&gt;
-&lt;p&gt;The founders of this event work on a project called &lt;a href=&quot;https://haxtheweb.org/&quot;&gt;HAXTheWeb&lt;/a&gt;; short for Headless Authoring eXperience, which is built on top of hundreds of web components. By extending the web via web components, we&#39;ll extend the capabilities of HAX and so this event is dedicated to a mix of web components and HAX-specific discussions.&lt;/p&gt;
-&lt;p&gt;&amp;quot;&amp;gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;md-block source=&quot;/raw-markdown/details.md&quot; style=&quot;font-family: helvetica, sans-serif; word-break: normal !important;&quot;&gt;&lt;/md-block&gt;&lt;/p&gt;
+</content>
   </entry>
   
   <entry>
-    <title>Site Credits</title>
-    <link href="hax.camp/content/testing-page/"/>
-    <updated>2022-03-09T23:49:54.910-00:00</updated>
-    <id>hax.camp/content/testing-page/</id>
-    <content type="html">&lt;p&gt;&lt;md-block source=&quot;/raw-markdown/test.md&quot; style=&quot;font-family: helvetica, sans-serif; word-break: normal !important;&quot;&gt;&lt;/md-block&gt;&lt;/p&gt;
+    <title>Where is HAXCamp?</title>
+    <link href="hax.camp/content/location/"/>
+    <updated>2022-03-10T01:29:28.174-00:00</updated>
+    <id>hax.camp/content/location/</id>
+    <content type="html">&lt;p&gt;&lt;md-block source=&quot;/raw-markdown/location.md&quot; style=&quot;font-family: helvetica, sans-serif; word-break: normal !important;&quot;&gt;&lt;/md-block&gt;&lt;/p&gt;
+&lt;iframe width=&quot;500&quot; height=&quot;500&quot; id=&quot;gmap_canvas&quot; src=&quot;https://maps.google.com/maps?q=Penn%20State%20Innovation%20Hub%20State%20College,%20Pennsylvania&amp;t=&amp;z=17&amp;ie=UTF8&amp;iwloc=&amp;output=embed&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot; style=&quot;display: block; margin-left: auto; margin-right: auto; margin-top: 20px; width: 90%; max-width: 500px;&quot;&gt;&lt;/iframe&gt;
 </content>
   </entry>
   
   <entry>
     <title>Welcome to HAXCamp 2022!</title>
     <link href="hax.camp/content/welcome/"/>
-    <updated>2022-03-09T23:49:54.910-00:00</updated>
+    <updated>2022-03-10T01:29:28.174-00:00</updated>
     <id>hax.camp/content/welcome/</id>
-    <content type="html">&lt;p&gt;Get ready for Camp! We&#39;re excited to bring HAXCamp to Penn State on May 9-10, 2022.
-&lt;br&gt;
-&lt;img alt=&quot;Advertisement poster for HAXCamp 2022&quot; src=&quot;/assets/images/poster.jpg&quot; style=&quot;display: block; margin-left: auto; margin-right: auto; margin-top: 20px; width: 90%;&quot;&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;Get ready for Camp! We&#39;re excited to bring HAXCamp to Penn State on May 9-10, 2022.&lt;/p&gt;
+&lt;p&gt;&lt;md-block source=&quot;/raw-markdown/teaser.md&quot; style=&quot;font-family: helvetica, sans-serif; word-break: normal !important;&quot;&gt;&lt;/md-block&gt;&lt;/p&gt;
+&lt;img alt=&quot;Advertisement poster for HAXCamp 2022&quot; src=&quot;assets/haxBanner-01.png&quot; style=&quot;display: block; margin-left: auto; margin-right: auto; margin-top: 20px; width: 90%; max-width: 1200px;&quot;&gt;
 </content>
   </entry>
 </feed>
