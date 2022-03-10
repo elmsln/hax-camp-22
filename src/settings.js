@@ -74,7 +74,7 @@ module.exports = () => {
         // short description of the site for SEO
         siteDescription: "Welcome to <hax-camp>: an unconference dedicated to all things web components",
         // logo to represent the site
-        siteLogo: "assets/haxcamp-logo-400x400.jpg",
+        siteLogo: "assets/haxcamp-logo-load-in.png",
         // theme to use HAXcms valid theme as it appears in the wc-factory listing
         themeElement: "clean-two", // clean-two, clean-one, bootstrap-theme, learn-two-theme, or any other valid HAXcms theme
         // path to the entryway for the theme file. Not required but improves load times to have this for preloading
