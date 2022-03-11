@@ -1,0 +1,18 @@
+{
+    "name": "HAXCamp",
+    "description": "<hax-camp> is an unconference dedicated to all things web components!",
+    "events": [
+        {
+            "name": "hax-camp-22",
+            "date": "May 9-10, 2022",
+            "location": "Penn State Innovation Hub",
+            "address": "123 S. Burrowes St. University Park, PA 16801"
+        },
+        {
+            "name": "hax-camp-future",
+            "date": "A long time ago",
+            "location": "A Galaxy Far Far Away...",
+            "address": "123 Easy St. Cool Place, USA"
+        }
+    ]
+}

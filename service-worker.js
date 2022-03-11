@@ -39,39 +39,39 @@
 var precacheConfig = [
   [
     "/raw-markdown/about/",
-    "AzCPduvRKSZyLLa8"
+    "SYJnzIvzzb2fOIZB"
   ],
   [
     "/raw-markdown/details/",
-    "AzCPduvRKSZyLLa8"
+    "SYJnzIvzzb2fOIZB"
   ],
   [
     "/raw-markdown/location/",
-    "AzCPduvRKSZyLLa8"
+    "SYJnzIvzzb2fOIZB"
   ],
   [
     "/raw-markdown/teaser/",
-    "AzCPduvRKSZyLLa8"
+    "SYJnzIvzzb2fOIZB"
   ],
   [
     "/raw-markdown/test/",
-    "AzCPduvRKSZyLLa8"
+    "SYJnzIvzzb2fOIZB"
   ],
   [
     "/content/about/",
-    "5u2mCs5xOvf32Z2K"
+    "tMCrk7ewhFj57Lju"
   ],
   [
     "/content/location/",
-    "5u2mCs5xOvf32Z2K"
+    "tMCrk7ewhFj57Lju"
   ],
   [
     "/content/welcome/",
-    "5u2mCs5xOvf32Z2K"
+    "tMCrk7ewhFj57Lju"
   ],
   [
     "/",
-    "AzCPduvRKSZyLLa8"
+    "SYJnzIvzzb2fOIZB"
   ]
 ];
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');
