@@ -1,5 +1,5 @@
 {
-  "id": "#1332d1d3-f05a-fc33-5e17-bd5eb2f50d13",
+  "id": "#6d957c2f-56b9-e141-14be-bc83d6a88b58",
   "title": "hax-camp-22",
   "author": "mayormaier",
   "description": "Welcome to <hax-camp>: an unconference dedicated to all things web components",
@@ -13,8 +13,8 @@
     },
     "site": {
       "name": "hax-camp-22",
-      "created": 1647401007385,
-      "updated": 1647401007385,
+      "created": 1647403748240,
+      "updated": 1647403748240,
       "git": {
         "autoPush": false,
         "branch": "master",
@@ -58,8 +58,8 @@
       "description": "Welcome to HAXCamp 2022!",
       "parent": null,
       "metadata": {
-        "created": 1647400989,
-        "updated": 1647400989,
+        "created": 1647403729,
+        "updated": 1647403729,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -82,8 +82,8 @@
       "description": "What is HAXCamp?",
       "parent": null,
       "metadata": {
-        "created": 1647400989,
-        "updated": 1647400989,
+        "created": 1647403729,
+        "updated": 1647403729,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -106,8 +106,8 @@
       "description": "Where is HAXCamp?",
       "parent": null,
       "metadata": {
-        "created": 1647400989,
-        "updated": 1647400989,
+        "created": 1647403729,
+        "updated": 1647403729,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -130,8 +130,8 @@
       "description": "Register for Camp!",
       "parent": null,
       "metadata": {
-        "created": 1647400989,
-        "updated": 1647400989,
+        "created": 1647403729,
+        "updated": 1647403729,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
