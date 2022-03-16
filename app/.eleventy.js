@@ -40,6 +40,8 @@ module.exports = function (eleventyConfig) {
     "unbundled-webcomponents/app/dist/wc-registry.json": "wc-registry.json",
   });
   //passthrough raw markdown to fix issue
+  eleventyConfig.addPassthroughCopy("register");
+  //passthrough raw markdown to fix issue
   eleventyConfig.addPassthroughCopy("raw-markdown");
   // don't copy the build directory if we are using a CDN
   if (!process.env.HAXCMS_CDN) {
