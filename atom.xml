@@ -3,7 +3,7 @@
   <title>hax-camp-22</title>
   <link href="hax.camp/atom.xml" rel="self" />
   <subtitle>Welcome to &lt;hax-camp&gt;: an unconference dedicated to all things web components</subtitle>
-  <updated>2022-03-11T18:50:03.571-00:00</updated>
+  <updated>2022-03-16T03:23:08.552-00:00</updated>
   <author>
       <name>mayormaier</name>
   </author>
@@ -11,8 +11,8 @@
   <entry>
     <title></title>
     <id>hax.camp/raw-markdown/about/</id>
-    <updated>2022-03-11T18:50:02.515-00:00</updated>
-    <published>2022-03-11T18:50:02.515-00:00</published>
+    <updated>2022-03-16T03:23:07.696-00:00</updated>
+    <published>2022-03-16T03:23:07.696-00:00</published>
     <summary></summary>
     <link href="hax.camp/raw-markdown/about/"/>
     <content type="html">
@@ -48,8 +48,8 @@
   <entry>
     <title></title>
     <id>hax.camp/raw-markdown/details/</id>
-    <updated>2022-03-11T18:50:02.515-00:00</updated>
-    <published>2022-03-11T18:50:02.515-00:00</published>
+    <updated>2022-03-16T03:23:07.696-00:00</updated>
+    <published>2022-03-16T03:23:07.696-00:00</published>
     <summary></summary>
     <link href="hax.camp/raw-markdown/details/"/>
     <content type="html">
@@ -68,8 +68,8 @@
   <entry>
     <title></title>
     <id>hax.camp/raw-markdown/location/</id>
-    <updated>2022-03-11T18:50:02.515-00:00</updated>
-    <published>2022-03-11T18:50:02.515-00:00</published>
+    <updated>2022-03-16T03:23:07.696-00:00</updated>
+    <published>2022-03-16T03:23:07.696-00:00</published>
     <summary></summary>
     <link href="hax.camp/raw-markdown/location/"/>
     <content type="html">
@@ -80,8 +80,8 @@
   <entry>
     <title></title>
     <id>hax.camp/raw-markdown/teaser/</id>
-    <updated>2022-03-11T18:50:02.515-00:00</updated>
-    <published>2022-03-11T18:50:02.515-00:00</published>
+    <updated>2022-03-16T03:23:07.696-00:00</updated>
+    <published>2022-03-16T03:23:07.696-00:00</published>
     <summary></summary>
     <link href="hax.camp/raw-markdown/teaser/"/>
     <content type="html">
@@ -104,8 +104,8 @@
   <entry>
     <title></title>
     <id>hax.camp/raw-markdown/test/</id>
-    <updated>2022-03-11T18:50:02.515-00:00</updated>
-    <published>2022-03-11T18:50:02.515-00:00</published>
+    <updated>2022-03-16T03:23:07.696-00:00</updated>
+    <published>2022-03-16T03:23:07.696-00:00</published>
     <summary></summary>
     <link href="hax.camp/raw-markdown/test/"/>
     <content type="html">
@@ -116,8 +116,8 @@
   <entry>
     <title>What is HAXCamp?</title>
     <id>hax.camp/content/about/</id>
-    <updated>2022-03-11T18:50:03.571-00:00</updated>
-    <published>2022-03-11T18:50:03.571-00:00</published>
+    <updated>2022-03-16T03:23:08.552-00:00</updated>
+    <published>2022-03-16T03:23:08.552-00:00</published>
     <summary></summary>
     <link href="hax.camp/content/about/"/>
     <content type="html">
@@ -128,8 +128,8 @@
   <entry>
     <title>Where is HAXCamp?</title>
     <id>hax.camp/content/location/</id>
-    <updated>2022-03-11T18:50:03.571-00:00</updated>
-    <published>2022-03-11T18:50:03.571-00:00</published>
+    <updated>2022-03-16T03:23:08.552-00:00</updated>
+    <published>2022-03-16T03:23:08.552-00:00</published>
     <summary></summary>
     <link href="hax.camp/content/location/"/>
     <content type="html">
@@ -139,10 +139,29 @@
     </content>
   </entry>
   <entry>
+    <title>Register for Camp!</title>
+    <id>hax.camp/content/register/</id>
+    <updated>2022-03-16T03:23:08.552-00:00</updated>
+    <published>2022-03-16T03:23:08.552-00:00</published>
+    <summary></summary>
+    <link href="hax.camp/content/register/"/>
+    <content type="html">
+      
+&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+    &lt;meta charset=&quot;UTF-8&quot;&gt;
+    &lt;meta http-equiv=&quot;refresh&quot; content=&quot;0;url=https://www.eventbrite.com/e/hax-camp-web-components-all-the-things-tickets-288109562457&quot; /&gt;
+    &lt;title&gt;Redirect&lt;/title&gt;
+&lt;/head&gt;
+&lt;/html&gt;
+    </content>
+  </entry>
+  <entry>
     <title>Welcome to HAXCamp 2022!</title>
     <id>hax.camp/content/welcome/</id>
-    <updated>2022-03-11T18:50:03.571-00:00</updated>
-    <published>2022-03-11T18:50:03.571-00:00</published>
+    <updated>2022-03-16T03:23:08.552-00:00</updated>
+    <published>2022-03-16T03:23:08.552-00:00</published>
     <summary></summary>
     <link href="hax.camp/content/welcome/"/>
     <content type="html">

@@ -1,5 +1,5 @@
 {
-  "id": "#fda759f1-dd7a-259b-a0c9-3223e4c96e35",
+  "id": "#1332d1d3-f05a-fc33-5e17-bd5eb2f50d13",
   "title": "hax-camp-22",
   "author": "mayormaier",
   "description": "Welcome to <hax-camp>: an unconference dedicated to all things web components",
@@ -13,8 +13,8 @@
     },
     "site": {
       "name": "hax-camp-22",
-      "created": 1647024630558,
-      "updated": 1647024630558,
+      "created": 1647401007385,
+      "updated": 1647401007385,
       "git": {
         "autoPush": false,
         "branch": "master",
@@ -58,8 +58,8 @@
       "description": "Welcome to HAXCamp 2022!",
       "parent": null,
       "metadata": {
-        "created": 1647024604,
-        "updated": 1647024604,
+        "created": 1647400989,
+        "updated": 1647400989,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -82,8 +82,8 @@
       "description": "What is HAXCamp?",
       "parent": null,
       "metadata": {
-        "created": 1647024604,
-        "updated": 1647024604,
+        "created": 1647400989,
+        "updated": 1647400989,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -106,8 +106,8 @@
       "description": "Where is HAXCamp?",
       "parent": null,
       "metadata": {
-        "created": 1647024604,
-        "updated": 1647024604,
+        "created": 1647400989,
+        "updated": 1647400989,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -118,6 +118,30 @@
         "layout": "content.liquid",
         "title": "Where is HAXCamp?",
         "order": 3
+      }
+    },
+    {
+      "id": "--content-register-html",
+      "indent": 0,
+      "location": "./pages/register.html",
+      "slug": "content/register/",
+      "order": 7,
+      "title": "Register for Camp!",
+      "description": "Register for Camp!",
+      "parent": null,
+      "metadata": {
+        "created": 1647400989,
+        "updated": 1647400989,
+        "readtime": 1,
+        "contentDetails": {},
+        "files": [],
+        "haxcmsServiceWorker": true,
+        "tags": [
+          "content"
+        ],
+        "layout": "content.liquid",
+        "template": "notemplate.html",
+        "title": "Register for Camp!"
       }
     }
   ]
