@@ -39,47 +39,47 @@
 var precacheConfig = [
   [
     "/raw-markdown/about/",
-    "MEoPHInkwuyHNWzj"
+    "YpGcVjBbRiEEjFAc"
   ],
   [
     "/raw-markdown/details/",
-    "MEoPHInkwuyHNWzj"
+    "YpGcVjBbRiEEjFAc"
   ],
   [
     "/raw-markdown/location/",
-    "MEoPHInkwuyHNWzj"
+    "YpGcVjBbRiEEjFAc"
   ],
   [
     "/raw-markdown/teaser/",
-    "MEoPHInkwuyHNWzj"
+    "YpGcVjBbRiEEjFAc"
   ],
   [
     "/raw-markdown/test/",
-    "MEoPHInkwuyHNWzj"
+    "YpGcVjBbRiEEjFAc"
   ],
   [
     "/register/",
-    "MEoPHInkwuyHNWzj"
+    "YpGcVjBbRiEEjFAc"
   ],
   [
     "/content/about/",
-    "dAypd2vxgZ8AQ9ct"
-  ],
-  [
-    "/content/register/",
-    "dAypd2vxgZ8AQ9ct"
-  ],
-  [
-    "/content/welcome/",
-    "dAypd2vxgZ8AQ9ct"
+    "vzDfdSfVZFO1qNTC"
   ],
   [
     "/content/location/",
-    "dAypd2vxgZ8AQ9ct"
+    "vzDfdSfVZFO1qNTC"
+  ],
+  [
+    "/content/register/",
+    "vzDfdSfVZFO1qNTC"
+  ],
+  [
+    "/content/welcome/",
+    "vzDfdSfVZFO1qNTC"
   ],
   [
     "/",
-    "MEoPHInkwuyHNWzj"
+    "YpGcVjBbRiEEjFAc"
   ]
 ];
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');

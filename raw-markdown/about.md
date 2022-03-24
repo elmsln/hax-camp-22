@@ -2,7 +2,7 @@
 
 **< hax-camp >** is an *unconference* dedicated to [all things web components](https://open-wc.org/)!
 
-Pennsylvania State College of Information Sciences and Technology is providing space for the event. It is a fusion of students, industry professionals, and educators. This year's event is being student-run and we anticipate there being discussions about openwc, lit, performance, element composition, css, hax.psu, pedagogy, and design systems. All communities are welcome to join us for this free event.
+Penn State's College of Information Sciences and Technology is providing space for the event. It is a fusion of students, industry professionals, and educators. This year's event is being student-run and we anticipate there being discussions about openwc, lit, performance, element composition, css, hax.psu, pedagogy, and design systems. All communities are welcome to join us for this free event.
 
 This is the 2nd HAX camp to be held after a successful two days of sharing ideas about web components at Duke in 2019. **< hax-camp >**, named after the HAXTheWeb headless block editor, is an unconference dedicated to all things web components.
 
