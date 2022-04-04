@@ -1,5 +1,5 @@
 {
-  "id": "#920c197e-9cc8-05d1-bef4-cec1a709e954",
+  "id": "#070960f4-d0fe-287b-121a-204c2a64d5a7",
   "title": "hax-camp-22",
   "author": "mayormaier",
   "description": "Welcome to <hax-camp>: an unconference dedicated to all things web components",
@@ -13,8 +13,8 @@
     },
     "site": {
       "name": "hax-camp-22",
-      "created": 1648140717061,
-      "updated": 1648140717061,
+      "created": 1649039628930,
+      "updated": 1649039628930,
       "git": {
         "autoPush": false,
         "branch": "master",
@@ -40,7 +40,7 @@
     "theme": {
       "element": "clean-two",
       "variables": {
-        "image": "assets/banner.jpg",
+        "image": "assets/haxBanner-01.png",
         "hexCode": "#69ACFA",
         "cssVariable": "--simple-colors-default-theme-light-blue-7",
         "logo": "lrn:network"
@@ -58,8 +58,8 @@
       "description": "Welcome to HAXCamp 2022!",
       "parent": null,
       "metadata": {
-        "created": 1648140696,
-        "updated": 1648140696,
+        "created": 1649039604,
+        "updated": 1649039604,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -82,8 +82,8 @@
       "description": "What is HAXCamp?",
       "parent": null,
       "metadata": {
-        "created": 1648140696,
-        "updated": 1648140696,
+        "created": 1649039604,
+        "updated": 1649039604,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -106,8 +106,8 @@
       "description": "Where is HAXCamp?",
       "parent": null,
       "metadata": {
-        "created": 1648140696,
-        "updated": 1648140696,
+        "created": 1649039604,
+        "updated": 1649039604,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -121,17 +121,41 @@
       }
     },
     {
+      "id": "--content-who-is-coming-html",
+      "indent": 0,
+      "location": "./pages/who-is-coming.html",
+      "slug": "content/who-is-coming/",
+      "order": 4,
+      "title": "Who's Coming to HAXCamp?",
+      "description": "Who's Coming to HAXCamp?",
+      "parent": null,
+      "metadata": {
+        "created": 1649039604,
+        "updated": 1649039604,
+        "readtime": 1,
+        "contentDetails": {},
+        "files": [],
+        "haxcmsServiceWorker": true,
+        "tags": [
+          "content"
+        ],
+        "layout": "content.liquid",
+        "title": "Who's Coming to HAXCamp?",
+        "order": 4
+      }
+    },
+    {
       "id": "--content-register-html",
       "indent": 0,
       "location": "./pages/register.html",
       "slug": "content/register/",
-      "order": 8,
+      "order": 10,
       "title": "Register for Camp!",
       "description": "Register for Camp!",
       "parent": null,
       "metadata": {
-        "created": 1648140696,
-        "updated": 1648140696,
+        "created": 1649039604,
+        "updated": 1649039604,
         "readtime": 1,
         "contentDetails": {},
         "files": [],

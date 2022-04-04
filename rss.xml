@@ -4,7 +4,7 @@
   <subtitle>Welcome to &lt;hax-camp&gt;: an unconference dedicated to all things web components</subtitle>
   <link href="hax.camp/rss.xml" rel="self"/>
   <link href="hax.camp"/>
-  <updated>2022-03-24T16:51:36.030-00:00</updated>
+  <updated>2022-04-04T02:33:24.315-00:00</updated>
   <id>hax.camp</id>
   <author>
     <name>mayormaier</name>
@@ -14,7 +14,7 @@
   <entry>
     <title></title>
     <link href="hax.camp/raw-markdown/about/"/>
-    <updated>2022-03-24T16:51:35.162-00:00</updated>
+    <updated>2022-04-04T02:33:23.255-00:00</updated>
     <id>hax.camp/raw-markdown/about/</id>
     <content type="html">&lt;h2&gt;Description&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;&amp;lt; hax-camp &amp;gt;&lt;/strong&gt; is an &lt;em&gt;unconference&lt;/em&gt; dedicated to &lt;a href=&quot;https://open-wc.org/&quot;&gt;all things web components&lt;/a&gt;!&lt;/p&gt;
@@ -48,7 +48,7 @@
   <entry>
     <title></title>
     <link href="hax.camp/raw-markdown/details/"/>
-    <updated>2022-03-24T16:51:35.162-00:00</updated>
+    <updated>2022-04-04T02:33:23.255-00:00</updated>
     <id>hax.camp/raw-markdown/details/</id>
     <content type="html">&lt;p&gt;&lt;strong&gt;&amp;lt; hax-camp &amp;gt;&lt;/strong&gt; is an &lt;em&gt;unconference&lt;/em&gt; dedicated to &lt;a href=&quot;https://open-wc.org/&quot;&gt;all things web components&lt;/a&gt;!&lt;/p&gt;
 &lt;p&gt;Pennsylvania State College of Information Sciences and Technology is providing space for the event. It is a fusion of students, industry professionals, and educators. This year&#39;s event is being student-run and we anticipate there being discussions about openwc, lit, performance, element composition, css, hax.psu, pedagogy, and design systems. All communities are welcome to join us for this free event.&lt;/p&gt;
@@ -65,7 +65,7 @@
   <entry>
     <title></title>
     <link href="hax.camp/raw-markdown/location/"/>
-    <updated>2022-03-24T16:51:35.162-00:00</updated>
+    <updated>2022-04-04T02:33:23.255-00:00</updated>
     <id>hax.camp/raw-markdown/location/</id>
     <content type="html">&lt;p&gt;&lt;strong&gt;&amp;lt; hax-camp &amp;gt;&lt;/strong&gt; will be held one block from Pennsylvania State University campus in a brand new co-working facility called the Innovation Hub- &lt;a href=&quot;https://innovationhub.launchbox.psu.edu/&quot;&gt;Happy Valley LaunchBox&lt;/a&gt;. The closest parking lots to our locations are the &lt;a href=&quot;https://www.google.com/maps/place/Fraser+Street+Parking+Garage/@40.7928821,-77.8618564,20z/data=!4m8!1m2!2m1!1sinnovation+hub+parking+garages!3m4!1s0x89cea898df61b223:0xc38cbf94bdf763a1!8m2!3d40.7928821!4d-77.8616338&quot;&gt;Fraser Street Parking Garage&lt;/a&gt; and the &lt;a href=&quot;https://www.google.com/maps/place/Beaver+Ave+Parking+Garage/@40.7921306,-77.8616951,20.3z/data=!4m8!1m2!2m1!1sinnovation+hub+parking+garages!3m4!1s0x89cea898f0592745:0xc3dce64a97b95508!8m2!3d40.7921022!4d-77.8614117&quot;&gt;Beaver Ave Parking Garage&lt;/a&gt; across from the Hyatt Place State College. If you are taking public transportation, Uber, Lyft, Scooter, Spin Bike, etc, use the address: &lt;a href=&quot;https://www.google.com/maps/place/Happy+Valley+LaunchBox+powered+by+PNC+Bank/@40.7922246,-77.8631356,20z/data=!4m5!3m4!1s0x89cea8989e2d42fb:0x71c7fcfc9df97861!8m2!3d40.7922763!4d-77.8628573&quot;&gt;Innovation Hub&lt;/a&gt;. Upon reaching your destination, take the elevator to the 6th floor of the building where the event will proceed.&lt;/p&gt;
 </content>
@@ -74,7 +74,7 @@
   <entry>
     <title></title>
     <link href="hax.camp/raw-markdown/teaser/"/>
-    <updated>2022-03-24T16:51:35.162-00:00</updated>
+    <updated>2022-04-04T02:33:23.255-00:00</updated>
     <id>hax.camp/raw-markdown/teaser/</id>
     <content type="html">&lt;p&gt;Want to learn more about &lt;strong&gt;LitElement, VanillaJS,&lt;/strong&gt; and others?&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Come learn with us!&lt;/em&gt;&lt;/p&gt;
@@ -95,7 +95,7 @@
   <entry>
     <title></title>
     <link href="hax.camp/raw-markdown/test/"/>
-    <updated>2022-03-24T16:51:35.162-00:00</updated>
+    <updated>2022-04-04T02:33:23.255-00:00</updated>
     <id>hax.camp/raw-markdown/test/</id>
     <content type="html">&lt;p&gt;&lt;strong&gt;this site was built using &lt;a href=&quot;https://elmsln.github.io/hax11ty/&quot;&gt;hax11ty&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 </content>
@@ -103,8 +103,46 @@
   
   <entry>
     <title></title>
+    <link href="hax.camp/raw-markdown/who/"/>
+    <updated>2022-04-04T02:33:23.255-00:00</updated>
+    <id>hax.camp/raw-markdown/who/</id>
+    <content type="html">&lt;h2&gt;Mark Milutinovic&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Cybersecurity Professional&lt;/strong&gt;&lt;/p&gt;
+&lt;h5&gt;How did you become interested in web development?&lt;/h5&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;“Back when I was a student at Penn State I worked on the ELMS Platform right as web components were first adopted. When I began working at my first job out of school, I transitioned into more cybersecurity work. Even though I’m a full time cybersecurity professional, I’m looking to get back into open source development, testing, and working in that space.”&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h5&gt;What are you hoping to learn at HAXCamp?&lt;/h5&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;“If I can understand more of what things might be able to bne compromised within a web component, then I can use that knowledge in the penetration tests that I execute when a client uses that technology. HAXCamp is a great way to stay up to date with what is out there and what people are actually building.”&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;Becca Goodman&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Web and Compliance Lead,&lt;/strong&gt; U.S. Securities and Exchange Commission&lt;/p&gt;
+&lt;h5&gt;How did you become interested in web development?&lt;/h5&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&amp;quot;I took a class during my senior year in college after I decided that I wasn’t going to continue on for a PhD in physics and I knew that I wouldn’t achieve my dream of becoming an award winning novelist overnight — I had to make myself more marketable. After the class and graduation, I got an unpaid internship at a web design firm and the rest is history. I have been working my way up and through ever since.&amp;quot;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h5&gt;What are you hoping to learn at HAXCamp?&lt;/h5&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&amp;quot;Mostly hoping to annoy Bryan and Potter. In all seriousness, I always enjoy the networking aspects as well as a chance to discuss emerging tech and anything people might be developing that could help make the user experience better for the end user of government websites.&amp;quot;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;Sonya Woods&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Lead Accessibility Consultant,&lt;/strong&gt; Penn State World Campus&lt;/p&gt;
+&lt;h5&gt;How did you become interested in web development?&lt;/h5&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&amp;quot;I started at the Penn State College of Earth and Mineral Sciences as a Technical Proofreader, using Drupal to deliver content digitally. As I continued in my career I began to become more interested in accessible practice, particularly when it comes to online content. Now, as I work on projects for World Campus, I not only want to tell developers the areas of the site that need to be fixed, but also give them a technical recommendation of how to do that. I&#39;ve learned HTML and CSS along the way, and now I&#39;m exploring JavaScript.&amp;quot;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h5&gt;What are you hoping to learn at HAXCamp?&lt;/h5&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&amp;quot;I&#39;m hoping to learn more about web components and how to apply accessability to them. I&#39;ve become interested in web components because they enable people to bake in accessible practice right into their websites. It&#39;s amazing that you can make changes in one place and have them show up everywhere.&amp;quot;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title></title>
     <link href="hax.camp/register/"/>
-    <updated>2022-03-24T16:51:35.162-00:00</updated>
+    <updated>2022-04-04T02:33:23.255-00:00</updated>
     <id>hax.camp/register/</id>
     <content type="html">&lt;!DOCTYPE html&gt;
 &lt;html lang=&quot;en&quot;&gt;
@@ -119,7 +157,7 @@
   <entry>
     <title>What is HAXCamp?</title>
     <link href="hax.camp/content/about/"/>
-    <updated>2022-03-24T16:51:36.030-00:00</updated>
+    <updated>2022-04-04T02:33:24.315-00:00</updated>
     <id>hax.camp/content/about/</id>
     <content type="html">&lt;p&gt;&lt;md-block source=&quot;/raw-markdown/details.md&quot; style=&quot;font-family: helvetica, sans-serif; word-break: normal !important;&quot;&gt;&lt;/md-block&gt;&lt;/p&gt;
 </content>
@@ -128,7 +166,7 @@
   <entry>
     <title>Where is HAXCamp?</title>
     <link href="hax.camp/content/location/"/>
-    <updated>2022-03-24T16:51:36.030-00:00</updated>
+    <updated>2022-04-04T02:33:24.315-00:00</updated>
     <id>hax.camp/content/location/</id>
     <content type="html">&lt;p&gt;&lt;md-block source=&quot;/raw-markdown/location.md&quot; style=&quot;font-family: helvetica, sans-serif; word-break: normal !important;&quot;&gt;&lt;/md-block&gt;&lt;/p&gt;
 &lt;iframe width=&quot;500&quot; height=&quot;500&quot; id=&quot;gmap_canvas&quot; src=&quot;https://maps.google.com/maps?q=Penn%20State%20Innovation%20Hub%20State%20College,%20Pennsylvania&amp;t=&amp;z=17&amp;ie=UTF8&amp;iwloc=&amp;output=embed&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot; style=&quot;display: block; margin-left: auto; margin-right: auto; margin-top: 20px; width: 90%; max-width: 500px;&quot;&gt;&lt;/iframe&gt;
@@ -138,7 +176,7 @@
   <entry>
     <title>Register for Camp!</title>
     <link href="hax.camp/content/register/"/>
-    <updated>2022-03-24T16:51:36.030-00:00</updated>
+    <updated>2022-04-04T02:33:24.315-00:00</updated>
     <id>hax.camp/content/register/</id>
     <content type="html">
 &lt;!DOCTYPE html&gt;
@@ -154,11 +192,24 @@
   <entry>
     <title>Welcome to HAXCamp 2022!</title>
     <link href="hax.camp/content/welcome/"/>
-    <updated>2022-03-24T16:51:36.030-00:00</updated>
+    <updated>2022-04-04T02:33:24.315-00:00</updated>
     <id>hax.camp/content/welcome/</id>
     <content type="html">&lt;p&gt;Get ready for Camp! We&#39;re excited to bring HAXCamp to Penn State on May 9-10, 2022.&lt;/p&gt;
 &lt;p&gt;&lt;md-block source=&quot;/raw-markdown/teaser.md&quot; style=&quot;font-family: helvetica, sans-serif; word-break: normal !important;&quot;&gt;&lt;/md-block&gt;&lt;/p&gt;
 &lt;img alt=&quot;Advertisement poster for HAXCamp 2022&quot; src=&quot;assets/haxBanner-01.png&quot; style=&quot;display: block; margin-left: auto; margin-right: auto; margin-top: 20px; width: 90%; max-width: 1200px;&quot;&gt;
 </content>
+  </entry>
+  
+  <entry>
+    <title>Who&#39;s Coming to HAXCamp?</title>
+    <link href="hax.camp/content/who-is-coming/"/>
+    <updated>2022-04-04T02:33:24.315-00:00</updated>
+    <id>hax.camp/content/who-is-coming/</id>
+    <content type="html">
+&lt;div class=&quot;text-block&quot; style=&quot;font-family: helvetica, sans-serif; word-break: normal !important;&quot;&gt;
+    &lt;p&gt;&lt;strong&gt;&lt; hax-camp &gt;&lt;/strong&gt; is excited to welcome attendees from every area of the web-development space. Every attendee brings a unique background and an incredible wealth of knowledge that we can&#39;t wait to explore. Come and join the &lt;strong&gt;&lt; hax-camp &gt; family along side these great industry professionals!&lt;/strong&gt; &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;md-block source=&quot;/raw-markdown/who.md&quot; style=&quot;font-family: helvetica, sans-serif; word-break: normal !important;&quot;&gt;&lt;/md-block&gt;</content>
   </entry>
 </feed>

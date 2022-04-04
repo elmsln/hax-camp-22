@@ -17,6 +17,8 @@
   <link rel="modulepreload" href="https://cdn.webcomponents.psu.edu/cdn/build/es6/node_modules/@lrnwebcomponents/wc-autoload/wc-autoload.js" />
   <link rel="preload" href="https://cdn.webcomponents.psu.edu/cdn/build/es6/node_modules/@lrnwebcomponents/clean-two/clean-two.js" as="script" crossorigin="anonymous" />
   <link rel="modulepreload" href="https://cdn.webcomponents.psu.edu/cdn/build/es6/node_modules/@lrnwebcomponents/clean-two/clean-two.js" />
+  <link rel="preload" href="https://cdn.webcomponents.psu.edu/cdn/build/es6/node_modules/@lrnwebcomponents/md-block/md-block.js" as="script" crossorigin="anonymous" />
+  <link rel="modulepreload" href="https://cdn.webcomponents.psu.edu/cdn/build/es6/node_modules/@lrnwebcomponents/md-block/md-block.js" />
   <link rel="preload" href="https://cdn.webcomponents.psu.edu/cdn/build/es6/node_modules/web-animations-js/web-animations-next-lite.min.js" as="script" />  
   <link rel="preload" href="https://cdn.webcomponents.psu.edu/cdn/build/es6/node_modules/@lrnwebcomponents/haxcms-elements/lib/base.css" as="style" />
   <link rel="preload" href="/theme/theme.css" as="style" />
@@ -256,14 +258,11 @@
   </div>
   <haxcms-site-builder id="site" file="site.json">
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="refresh" content="0;url=https://www.eventbrite.com/e/hax-camp-web-components-all-the-things-tickets-288109562457" />
-    <title>Redirect</title>
-</head>
-</html>
+<div class="text-block" style="font-family: helvetica, sans-serif; word-break: normal !important;">
+    <p><strong>< hax-camp ></strong> is excited to welcome attendees from every area of the web-development space. Every attendee brings a unique background and an incredible wealth of knowledge that we can't wait to explore. Come and join the <strong>< hax-camp > family along side these great industry professionals!</strong> </p>
+</div>
+
+<md-block source="/raw-markdown/who.md" style="font-family: helvetica, sans-serif; word-break: normal !important;"></md-block>
 </haxcms-site-builder>
   <div id="haxcmsoutdatedfallback">
     <div id="haxcmsoutdatedfallbacksuperold"> 
