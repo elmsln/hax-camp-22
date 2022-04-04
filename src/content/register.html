@@ -6,6 +6,20 @@ title: Register for Camp!
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <meta name="description" content="{% getGlobal 'siteDescription' %}" />
+    <meta name="og:sitename" property="og:sitename" content="{% getGlobal 'siteName' %}" />
+    <meta name="og:title" property="og:title" content="{% getGlobal 'siteName' %}" />
+    <meta name="og:type" property="og:type" content="article" />
+    <meta name="og:url" property="og:url" content="{% getGlobal 'url' %}" />
+    <meta name="og:description" property="og:description" content="{% getGlobal 'siteDescription' %}" />
+    <meta name="og:image" property="og:image" content="{% getGlobal 'themeImage' %}" />
+    <meta name="twitter:card" property="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" property="twitter:site" content="{% getGlobal 'url' %}" />
+    <meta name="twitter:title" property="twitter:title" content="{% getGlobal 'siteName' %}" />
+    <meta name="twitter:description" property="twitter:description" content="{% getGlobal 'siteDescription' %}" />
+    <meta name="twitter:image" property="twitter:image" content="{% getGlobal 'themeImage' %}" />
+    <meta rel="cc:license" href="{% getLicenseInfo settings.siteLicense,'link' %}" content="License: {% getLicenseInfo settings.siteLicense,'name' %}"/>
+    <meta name="twitter:creator" content="@{% getGlobal 'twitterName' %}" />
     <meta charset="UTF-8">
     <meta http-equiv="refresh" content="0;url=https://www.eventbrite.com/e/hax-camp-web-components-all-the-things-tickets-288109562457" />
     <title>Redirect</title>
