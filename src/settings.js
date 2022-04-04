@@ -80,7 +80,7 @@ module.exports = () => {
         // path to the entryway for the theme file. Not required but improves load times to have this for preloading
         themePath: "@lrnwebcomponents/clean-two/clean-two.js", // @lrnwebcomponents/clean-two/clean-two.js, @lrnwebcomponents/learn-two-theme/learn-two-theme.js, or any other valid HAXcms theme path
         // banner image used in your theme
-        themeImage: "assets/haxBanner-01.png",
+        themeImage: "https://hax.camp/assets/haxBanner-01.png",
         // a HEX color code to represent / accent your theme
         themeHexCode: "#69ACFA",
         // icon name if the theme uses one
