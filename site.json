@@ -1,5 +1,5 @@
 {
-  "id": "#bd4c7347-a378-678e-e24a-8da5303fcb27",
+  "id": "#53442128-a95c-0967-94a2-78ac2e22a75e",
   "title": "hax-camp-22",
   "author": "mayormaier",
   "description": "Welcome to <hax-camp>: an unconference dedicated to all things web components",
@@ -13,8 +13,8 @@
     },
     "site": {
       "name": "hax-camp-22",
-      "created": 1649090041791,
-      "updated": 1649090041791,
+      "created": 1649090402410,
+      "updated": 1649090402410,
       "git": {
         "autoPush": false,
         "branch": "master",
@@ -40,7 +40,7 @@
     "theme": {
       "element": "clean-two",
       "variables": {
-        "image": "assets/haxBanner-01.png",
+        "image": "https://hax.camp/assets/haxBanner-01.png",
         "hexCode": "#69ACFA",
         "cssVariable": "--simple-colors-default-theme-light-blue-7",
         "logo": "lrn:network"
@@ -58,8 +58,8 @@
       "description": "Welcome to HAXCamp 2022!",
       "parent": null,
       "metadata": {
-        "created": 1649090022,
-        "updated": 1649090022,
+        "created": 1649090382,
+        "updated": 1649090382,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -82,8 +82,8 @@
       "description": "What is HAXCamp?",
       "parent": null,
       "metadata": {
-        "created": 1649090022,
-        "updated": 1649090022,
+        "created": 1649090382,
+        "updated": 1649090382,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -106,8 +106,8 @@
       "description": "Where is HAXCamp?",
       "parent": null,
       "metadata": {
-        "created": 1649090022,
-        "updated": 1649090022,
+        "created": 1649090382,
+        "updated": 1649090382,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -130,8 +130,8 @@
       "description": "Who's Coming to HAXCamp?",
       "parent": null,
       "metadata": {
-        "created": 1649090022,
-        "updated": 1649090022,
+        "created": 1649090382,
+        "updated": 1649090382,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -149,13 +149,13 @@
       "indent": 0,
       "location": "./pages/register.html",
       "slug": "content/register/",
-      "order": 8,
+      "order": 11,
       "title": "Register for Camp!",
       "description": "Register for Camp!",
       "parent": null,
       "metadata": {
-        "created": 1649090022,
-        "updated": 1649090022,
+        "created": 1649090382,
+        "updated": 1649090382,
         "readtime": 1,
         "contentDetails": {},
         "files": [],

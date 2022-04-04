@@ -4,7 +4,7 @@
   <subtitle>Welcome to &lt;hax-camp&gt;: an unconference dedicated to all things web components</subtitle>
   <link href="hax.camp/rss.xml" rel="self"/>
   <link href="hax.camp"/>
-  <updated>2022-04-04T16:33:41.842-00:00</updated>
+  <updated>2022-04-04T16:39:42.215-00:00</updated>
   <id>hax.camp</id>
   <author>
     <name>mayormaier</name>
@@ -14,7 +14,7 @@
   <entry>
     <title></title>
     <link href="hax.camp/raw-markdown/about/"/>
-    <updated>2022-04-04T16:33:40.970-00:00</updated>
+    <updated>2022-04-04T16:39:41.447-00:00</updated>
     <id>hax.camp/raw-markdown/about/</id>
     <content type="html">&lt;h2&gt;Description&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;&amp;lt; hax-camp &amp;gt;&lt;/strong&gt; is an &lt;em&gt;unconference&lt;/em&gt; dedicated to &lt;a href=&quot;https://open-wc.org/&quot;&gt;all things web components&lt;/a&gt;!&lt;/p&gt;
@@ -48,7 +48,7 @@
   <entry>
     <title></title>
     <link href="hax.camp/raw-markdown/details/"/>
-    <updated>2022-04-04T16:33:40.970-00:00</updated>
+    <updated>2022-04-04T16:39:41.447-00:00</updated>
     <id>hax.camp/raw-markdown/details/</id>
     <content type="html">&lt;p&gt;&lt;strong&gt;&amp;lt; hax-camp &amp;gt;&lt;/strong&gt; is an &lt;em&gt;unconference&lt;/em&gt; dedicated to &lt;a href=&quot;https://open-wc.org/&quot;&gt;all things web components&lt;/a&gt;!&lt;/p&gt;
 &lt;p&gt;Pennsylvania State College of Information Sciences and Technology is providing space for the event. It is a fusion of students, industry professionals, and educators. This year&#39;s event is being student-run and we anticipate there being discussions about openwc, lit, performance, element composition, css, hax.psu, pedagogy, and design systems. All communities are welcome to join us for this free event.&lt;/p&gt;
@@ -65,7 +65,7 @@
   <entry>
     <title></title>
     <link href="hax.camp/raw-markdown/location/"/>
-    <updated>2022-04-04T16:33:40.970-00:00</updated>
+    <updated>2022-04-04T16:39:41.447-00:00</updated>
     <id>hax.camp/raw-markdown/location/</id>
     <content type="html">&lt;p&gt;&lt;strong&gt;&amp;lt; hax-camp &amp;gt;&lt;/strong&gt; will be held one block from Pennsylvania State University campus in a brand new co-working facility called the Innovation Hub- &lt;a href=&quot;https://innovationhub.launchbox.psu.edu/&quot;&gt;Happy Valley LaunchBox&lt;/a&gt;. The closest parking lots to our locations are the &lt;a href=&quot;https://www.google.com/maps/place/Fraser+Street+Parking+Garage/@40.7928821,-77.8618564,20z/data=!4m8!1m2!2m1!1sinnovation+hub+parking+garages!3m4!1s0x89cea898df61b223:0xc38cbf94bdf763a1!8m2!3d40.7928821!4d-77.8616338&quot;&gt;Fraser Street Parking Garage&lt;/a&gt; and the &lt;a href=&quot;https://www.google.com/maps/place/Beaver+Ave+Parking+Garage/@40.7921306,-77.8616951,20.3z/data=!4m8!1m2!2m1!1sinnovation+hub+parking+garages!3m4!1s0x89cea898f0592745:0xc3dce64a97b95508!8m2!3d40.7921022!4d-77.8614117&quot;&gt;Beaver Ave Parking Garage&lt;/a&gt; across from the Hyatt Place State College. If you are taking public transportation, Uber, Lyft, Scooter, Spin Bike, etc, use the address: &lt;a href=&quot;https://www.google.com/maps/place/Happy+Valley+LaunchBox+powered+by+PNC+Bank/@40.7922246,-77.8631356,20z/data=!4m5!3m4!1s0x89cea8989e2d42fb:0x71c7fcfc9df97861!8m2!3d40.7922763!4d-77.8628573&quot;&gt;Innovation Hub&lt;/a&gt;. Upon reaching your destination, take the elevator to the 6th floor of the building where the event will proceed.&lt;/p&gt;
 </content>
@@ -74,7 +74,7 @@
   <entry>
     <title></title>
     <link href="hax.camp/raw-markdown/teaser/"/>
-    <updated>2022-04-04T16:33:40.970-00:00</updated>
+    <updated>2022-04-04T16:39:41.447-00:00</updated>
     <id>hax.camp/raw-markdown/teaser/</id>
     <content type="html">&lt;p&gt;Want to learn more about &lt;strong&gt;LitElement, VanillaJS,&lt;/strong&gt; and others?&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Come learn with us!&lt;/em&gt;&lt;/p&gt;
@@ -95,7 +95,7 @@
   <entry>
     <title></title>
     <link href="hax.camp/raw-markdown/test/"/>
-    <updated>2022-04-04T16:33:40.970-00:00</updated>
+    <updated>2022-04-04T16:39:41.447-00:00</updated>
     <id>hax.camp/raw-markdown/test/</id>
     <content type="html">&lt;p&gt;&lt;strong&gt;this site was built using &lt;a href=&quot;https://elmsln.github.io/hax11ty/&quot;&gt;hax11ty&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 </content>
@@ -104,7 +104,7 @@
   <entry>
     <title></title>
     <link href="hax.camp/raw-markdown/who/"/>
-    <updated>2022-04-04T16:33:40.970-00:00</updated>
+    <updated>2022-04-04T16:39:41.447-00:00</updated>
     <id>hax.camp/raw-markdown/who/</id>
     <content type="html">&lt;h2&gt;Mark Milutinovic&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Cybersecurity Professional&lt;/strong&gt;&lt;/p&gt;
@@ -142,7 +142,7 @@
   <entry>
     <title></title>
     <link href="hax.camp/register/"/>
-    <updated>2022-04-04T16:33:40.970-00:00</updated>
+    <updated>2022-04-04T16:39:41.451-00:00</updated>
     <id>hax.camp/register/</id>
     <content type="html">&lt;!DOCTYPE html&gt;
 &lt;html lang=&quot;en&quot;&gt;
@@ -153,12 +153,12 @@
     &lt;meta name=&quot;og:type&quot; property=&quot;og:type&quot; content=&quot;article&quot;&gt;
     &lt;meta name=&quot;og:url&quot; property=&quot;og:url&quot; content=&quot;hax.camp&quot;&gt;
     &lt;meta name=&quot;og:description&quot; property=&quot;og:description&quot; content=&quot;Welcome to &lt;hax-camp&gt;: an unconference dedicated to all things web components&quot;&gt;
-    &lt;meta name=&quot;og:image&quot; property=&quot;og:image&quot; content=&quot;assets/haxBanner-01.png&quot;&gt;
+    &lt;meta name=&quot;og:image&quot; property=&quot;og:image&quot; content=&quot;https://hax.camp/assets/haxBanner-01.png&quot;&gt;
     &lt;meta name=&quot;twitter:card&quot; property=&quot;twitter:card&quot; content=&quot;summary_large_image&quot;&gt;
     &lt;meta name=&quot;twitter:site&quot; property=&quot;twitter:site&quot; content=&quot;hax.camp&quot;&gt;
     &lt;meta name=&quot;twitter:title&quot; property=&quot;twitter:title&quot; content=&quot;hax-camp-22&quot;&gt;
     &lt;meta name=&quot;twitter:description&quot; property=&quot;twitter:description&quot; content=&quot;Welcome to &lt;hax-camp&gt;: an unconference dedicated to all things web components&quot;&gt;
-    &lt;meta name=&quot;twitter:image&quot; property=&quot;twitter:image&quot; content=&quot;assets/haxBanner-01.png&quot;&gt;
+    &lt;meta name=&quot;twitter:image&quot; property=&quot;twitter:image&quot; content=&quot;https://hax.camp/assets/haxBanner-01.png&quot;&gt;
     &lt;meta name=&quot;twitter:creator&quot; content=&quot;@mayormaier&quot;&gt;
     &lt;meta charset=&quot;UTF-8&quot;&gt;
     &lt;meta http-equiv=&quot;refresh&quot; content=&quot;0; url=https://www.eventbrite.com/e/hax-camp-web-components-all-the-things-tickets-288109562457&quot;&gt;
@@ -170,7 +170,7 @@
   <entry>
     <title>What is HAXCamp?</title>
     <link href="hax.camp/content/about/"/>
-    <updated>2022-04-04T16:33:41.842-00:00</updated>
+    <updated>2022-04-04T16:39:42.215-00:00</updated>
     <id>hax.camp/content/about/</id>
     <content type="html">&lt;p&gt;&lt;md-block source=&quot;/raw-markdown/details.md&quot; style=&quot;font-family: helvetica, sans-serif; word-break: normal !important;&quot;&gt;&lt;/md-block&gt;&lt;/p&gt;
 </content>
@@ -179,7 +179,7 @@
   <entry>
     <title>Where is HAXCamp?</title>
     <link href="hax.camp/content/location/"/>
-    <updated>2022-04-04T16:33:41.842-00:00</updated>
+    <updated>2022-04-04T16:39:42.215-00:00</updated>
     <id>hax.camp/content/location/</id>
     <content type="html">&lt;p&gt;&lt;md-block source=&quot;/raw-markdown/location.md&quot; style=&quot;font-family: helvetica, sans-serif; word-break: normal !important;&quot;&gt;&lt;/md-block&gt;&lt;/p&gt;
 &lt;iframe width=&quot;500&quot; height=&quot;500&quot; id=&quot;gmap_canvas&quot; src=&quot;https://maps.google.com/maps?q=Penn%20State%20Innovation%20Hub%20State%20College,%20Pennsylvania&amp;t=&amp;z=17&amp;ie=UTF8&amp;iwloc=&amp;output=embed&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot; style=&quot;display: block; margin-left: auto; margin-right: auto; margin-top: 20px; width: 90%; max-width: 500px;&quot;&gt;&lt;/iframe&gt;
@@ -189,7 +189,7 @@
   <entry>
     <title>Register for Camp!</title>
     <link href="hax.camp/content/register/"/>
-    <updated>2022-04-04T16:33:41.842-00:00</updated>
+    <updated>2022-04-04T16:39:42.215-00:00</updated>
     <id>hax.camp/content/register/</id>
     <content type="html">
 &lt;!DOCTYPE html&gt;
@@ -201,12 +201,12 @@
     &lt;meta name=&quot;og:type&quot; property=&quot;og:type&quot; content=&quot;article&quot;&gt;
     &lt;meta name=&quot;og:url&quot; property=&quot;og:url&quot; content=&quot;hax.camp&quot;&gt;
     &lt;meta name=&quot;og:description&quot; property=&quot;og:description&quot; content=&quot;Welcome to &lt;hax-camp&gt;: an unconference dedicated to all things web components&quot;&gt;
-    &lt;meta name=&quot;og:image&quot; property=&quot;og:image&quot; content=&quot;assets/haxBanner-01.png&quot;&gt;
+    &lt;meta name=&quot;og:image&quot; property=&quot;og:image&quot; content=&quot;https://hax.camp/assets/haxBanner-01.png&quot;&gt;
     &lt;meta name=&quot;twitter:card&quot; property=&quot;twitter:card&quot; content=&quot;summary_large_image&quot;&gt;
     &lt;meta name=&quot;twitter:site&quot; property=&quot;twitter:site&quot; content=&quot;hax.camp&quot;&gt;
     &lt;meta name=&quot;twitter:title&quot; property=&quot;twitter:title&quot; content=&quot;hax-camp-22&quot;&gt;
     &lt;meta name=&quot;twitter:description&quot; property=&quot;twitter:description&quot; content=&quot;Welcome to &lt;hax-camp&gt;: an unconference dedicated to all things web components&quot;&gt;
-    &lt;meta name=&quot;twitter:image&quot; property=&quot;twitter:image&quot; content=&quot;assets/haxBanner-01.png&quot;&gt;
+    &lt;meta name=&quot;twitter:image&quot; property=&quot;twitter:image&quot; content=&quot;https://hax.camp/assets/haxBanner-01.png&quot;&gt;
     &lt;meta rel=&quot;cc:license&quot; href=&quot;https://creativecommons.org/licenses/by-sa/4.0/&quot; content=&quot;License: Creative Commons: Attribution Share a like&quot;&gt;
     &lt;meta name=&quot;twitter:creator&quot; content=&quot;@haxcamp&quot;&gt;
     &lt;meta charset=&quot;UTF-8&quot;&gt;
@@ -219,7 +219,7 @@
   <entry>
     <title>Welcome to HAXCamp 2022!</title>
     <link href="hax.camp/content/welcome/"/>
-    <updated>2022-04-04T16:33:41.842-00:00</updated>
+    <updated>2022-04-04T16:39:42.215-00:00</updated>
     <id>hax.camp/content/welcome/</id>
     <content type="html">&lt;p&gt;Get ready for Camp! We&#39;re excited to bring HAXCamp to Penn State on May 9-10, 2022.&lt;/p&gt;
 &lt;p&gt;&lt;md-block source=&quot;/raw-markdown/teaser.md&quot; style=&quot;font-family: helvetica, sans-serif; word-break: normal !important;&quot;&gt;&lt;/md-block&gt;&lt;/p&gt;
@@ -230,7 +230,7 @@
   <entry>
     <title>Who&#39;s Coming to HAXCamp?</title>
     <link href="hax.camp/content/who-is-coming/"/>
-    <updated>2022-04-04T16:33:41.842-00:00</updated>
+    <updated>2022-04-04T16:39:42.215-00:00</updated>
     <id>hax.camp/content/who-is-coming/</id>
     <content type="html">
 &lt;div class=&quot;text-block&quot; style=&quot;font-family: helvetica, sans-serif; word-break: normal !important;&quot;&gt;
