@@ -39,55 +39,55 @@
 var precacheConfig = [
   [
     "/raw-markdown/about/",
-    "TtUun22rOQ8WDYdB"
+    "4TKWIZw6zIhCe5in"
   ],
   [
     "/raw-markdown/details/",
-    "TtUun22rOQ8WDYdB"
+    "4TKWIZw6zIhCe5in"
   ],
   [
     "/raw-markdown/location/",
-    "TtUun22rOQ8WDYdB"
+    "4TKWIZw6zIhCe5in"
   ],
   [
     "/raw-markdown/teaser/",
-    "TtUun22rOQ8WDYdB"
+    "4TKWIZw6zIhCe5in"
   ],
   [
     "/raw-markdown/test/",
-    "TtUun22rOQ8WDYdB"
+    "4TKWIZw6zIhCe5in"
   ],
   [
     "/raw-markdown/who/",
-    "TtUun22rOQ8WDYdB"
+    "4TKWIZw6zIhCe5in"
   ],
   [
     "/register/",
-    "TtUun22rOQ8WDYdB"
+    "4TKWIZw6zIhCe5in"
   ],
   [
     "/content/about/",
-    "ByWqoGrL11s2iHHl"
-  ],
-  [
-    "/content/location/",
-    "ByWqoGrL11s2iHHl"
-  ],
-  [
-    "/content/welcome/",
-    "ByWqoGrL11s2iHHl"
+    "9OjnRGb2LtlWSV9P"
   ],
   [
     "/content/register/",
-    "ByWqoGrL11s2iHHl"
+    "9OjnRGb2LtlWSV9P"
+  ],
+  [
+    "/content/location/",
+    "9OjnRGb2LtlWSV9P"
+  ],
+  [
+    "/content/welcome/",
+    "9OjnRGb2LtlWSV9P"
   ],
   [
     "/content/who-is-coming/",
-    "ByWqoGrL11s2iHHl"
+    "9OjnRGb2LtlWSV9P"
   ],
   [
     "/",
-    "TtUun22rOQ8WDYdB"
+    "4TKWIZw6zIhCe5in"
   ]
 ];
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');

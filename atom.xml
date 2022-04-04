@@ -3,7 +3,7 @@
   <title>hax-camp-22</title>
   <link href="hax.camp/atom.xml" rel="self" />
   <subtitle>Welcome to &lt;hax-camp&gt;: an unconference dedicated to all things web components</subtitle>
-  <updated>2022-04-04T02:33:24.315-00:00</updated>
+  <updated>2022-04-04T16:33:41.842-00:00</updated>
   <author>
       <name>mayormaier</name>
   </author>
@@ -11,8 +11,8 @@
   <entry>
     <title></title>
     <id>hax.camp/raw-markdown/about/</id>
-    <updated>2022-04-04T02:33:23.255-00:00</updated>
-    <published>2022-04-04T02:33:23.255-00:00</published>
+    <updated>2022-04-04T16:33:40.970-00:00</updated>
+    <published>2022-04-04T16:33:40.970-00:00</published>
     <summary></summary>
     <link href="hax.camp/raw-markdown/about/"/>
     <content type="html">
@@ -48,8 +48,8 @@
   <entry>
     <title></title>
     <id>hax.camp/raw-markdown/details/</id>
-    <updated>2022-04-04T02:33:23.255-00:00</updated>
-    <published>2022-04-04T02:33:23.255-00:00</published>
+    <updated>2022-04-04T16:33:40.970-00:00</updated>
+    <published>2022-04-04T16:33:40.970-00:00</published>
     <summary></summary>
     <link href="hax.camp/raw-markdown/details/"/>
     <content type="html">
@@ -68,8 +68,8 @@
   <entry>
     <title></title>
     <id>hax.camp/raw-markdown/location/</id>
-    <updated>2022-04-04T02:33:23.255-00:00</updated>
-    <published>2022-04-04T02:33:23.255-00:00</published>
+    <updated>2022-04-04T16:33:40.970-00:00</updated>
+    <published>2022-04-04T16:33:40.970-00:00</published>
     <summary></summary>
     <link href="hax.camp/raw-markdown/location/"/>
     <content type="html">
@@ -80,8 +80,8 @@
   <entry>
     <title></title>
     <id>hax.camp/raw-markdown/teaser/</id>
-    <updated>2022-04-04T02:33:23.255-00:00</updated>
-    <published>2022-04-04T02:33:23.255-00:00</published>
+    <updated>2022-04-04T16:33:40.970-00:00</updated>
+    <published>2022-04-04T16:33:40.970-00:00</published>
     <summary></summary>
     <link href="hax.camp/raw-markdown/teaser/"/>
     <content type="html">
@@ -104,8 +104,8 @@
   <entry>
     <title></title>
     <id>hax.camp/raw-markdown/test/</id>
-    <updated>2022-04-04T02:33:23.255-00:00</updated>
-    <published>2022-04-04T02:33:23.255-00:00</published>
+    <updated>2022-04-04T16:33:40.970-00:00</updated>
+    <published>2022-04-04T16:33:40.970-00:00</published>
     <summary></summary>
     <link href="hax.camp/raw-markdown/test/"/>
     <content type="html">
@@ -116,8 +116,8 @@
   <entry>
     <title></title>
     <id>hax.camp/raw-markdown/who/</id>
-    <updated>2022-04-04T02:33:23.255-00:00</updated>
-    <published>2022-04-04T02:33:23.255-00:00</published>
+    <updated>2022-04-04T16:33:40.970-00:00</updated>
+    <published>2022-04-04T16:33:40.970-00:00</published>
     <summary></summary>
     <link href="hax.camp/raw-markdown/who/"/>
     <content type="html">
@@ -157,14 +157,27 @@
   <entry>
     <title></title>
     <id>hax.camp/register/</id>
-    <updated>2022-04-04T02:33:23.255-00:00</updated>
-    <published>2022-04-04T02:33:23.255-00:00</published>
+    <updated>2022-04-04T16:33:40.970-00:00</updated>
+    <published>2022-04-04T16:33:40.970-00:00</published>
     <summary></summary>
     <link href="hax.camp/register/"/>
     <content type="html">
       &lt;!DOCTYPE html&gt;
 &lt;html lang=&quot;en&quot;&gt;
 &lt;head&gt;
+    &lt;meta name=&quot;description&quot; content=&quot;Welcome to &lt;hax-camp&gt;: an unconference dedicated to all things web components&quot; /&gt;
+    &lt;meta name=&quot;og:sitename&quot; property=&quot;og:sitename&quot; content=&quot;hax-camp-22&quot; /&gt;
+    &lt;meta name=&quot;og:title&quot; property=&quot;og:title&quot; content=&quot;Register for HAXCamp!&quot; /&gt;
+    &lt;meta name=&quot;og:type&quot; property=&quot;og:type&quot; content=&quot;article&quot; /&gt;
+    &lt;meta name=&quot;og:url&quot; property=&quot;og:url&quot; content=&quot;hax.camp&quot; /&gt;
+    &lt;meta name=&quot;og:description&quot; property=&quot;og:description&quot; content=&quot;Welcome to &lt;hax-camp&gt;: an unconference dedicated to all things web components&quot; /&gt;
+    &lt;meta name=&quot;og:image&quot; property=&quot;og:image&quot; content=&quot;assets/haxBanner-01.png&quot; /&gt;
+    &lt;meta name=&quot;twitter:card&quot; property=&quot;twitter:card&quot; content=&quot;summary_large_image&quot; /&gt;
+    &lt;meta name=&quot;twitter:site&quot; property=&quot;twitter:site&quot; content=&quot;hax.camp&quot; /&gt;
+    &lt;meta name=&quot;twitter:title&quot; property=&quot;twitter:title&quot; content=&quot;hax-camp-22&quot; /&gt;
+    &lt;meta name=&quot;twitter:description&quot; property=&quot;twitter:description&quot; content=&quot;Welcome to &lt;hax-camp&gt;: an unconference dedicated to all things web components&quot; /&gt;
+    &lt;meta name=&quot;twitter:image&quot; property=&quot;twitter:image&quot; content=&quot;assets/haxBanner-01.png&quot; /&gt;
+    &lt;meta name=&quot;twitter:creator&quot; content=&quot;@mayormaier&quot; /&gt;
     &lt;meta charset=&quot;UTF-8&quot;&gt;
     &lt;meta http-equiv=&quot;refresh&quot; content=&quot;0;url=https://www.eventbrite.com/e/hax-camp-web-components-all-the-things-tickets-288109562457&quot; /&gt;
     &lt;title&gt;Redirect&lt;/title&gt;
@@ -175,8 +188,8 @@
   <entry>
     <title>What is HAXCamp?</title>
     <id>hax.camp/content/about/</id>
-    <updated>2022-04-04T02:33:24.315-00:00</updated>
-    <published>2022-04-04T02:33:24.315-00:00</published>
+    <updated>2022-04-04T16:33:41.842-00:00</updated>
+    <published>2022-04-04T16:33:41.842-00:00</published>
     <summary></summary>
     <link href="hax.camp/content/about/"/>
     <content type="html">
@@ -187,8 +200,8 @@
   <entry>
     <title>Where is HAXCamp?</title>
     <id>hax.camp/content/location/</id>
-    <updated>2022-04-04T02:33:24.315-00:00</updated>
-    <published>2022-04-04T02:33:24.315-00:00</published>
+    <updated>2022-04-04T16:33:41.842-00:00</updated>
+    <published>2022-04-04T16:33:41.842-00:00</published>
     <summary></summary>
     <link href="hax.camp/content/location/"/>
     <content type="html">
@@ -200,8 +213,8 @@
   <entry>
     <title>Register for Camp!</title>
     <id>hax.camp/content/register/</id>
-    <updated>2022-04-04T02:33:24.315-00:00</updated>
-    <published>2022-04-04T02:33:24.315-00:00</published>
+    <updated>2022-04-04T16:33:41.842-00:00</updated>
+    <published>2022-04-04T16:33:41.842-00:00</published>
     <summary></summary>
     <link href="hax.camp/content/register/"/>
     <content type="html">
@@ -209,6 +222,20 @@
 &lt;!DOCTYPE html&gt;
 &lt;html lang=&quot;en&quot;&gt;
 &lt;head&gt;
+    &lt;meta name=&quot;description&quot; content=&quot;Welcome to &lt;hax-camp&gt;: an unconference dedicated to all things web components&quot; /&gt;
+    &lt;meta name=&quot;og:sitename&quot; property=&quot;og:sitename&quot; content=&quot;hax-camp-22&quot; /&gt;
+    &lt;meta name=&quot;og:title&quot; property=&quot;og:title&quot; content=&quot;hax-camp-22&quot; /&gt;
+    &lt;meta name=&quot;og:type&quot; property=&quot;og:type&quot; content=&quot;article&quot; /&gt;
+    &lt;meta name=&quot;og:url&quot; property=&quot;og:url&quot; content=&quot;hax.camp&quot; /&gt;
+    &lt;meta name=&quot;og:description&quot; property=&quot;og:description&quot; content=&quot;Welcome to &lt;hax-camp&gt;: an unconference dedicated to all things web components&quot; /&gt;
+    &lt;meta name=&quot;og:image&quot; property=&quot;og:image&quot; content=&quot;assets/haxBanner-01.png&quot; /&gt;
+    &lt;meta name=&quot;twitter:card&quot; property=&quot;twitter:card&quot; content=&quot;summary_large_image&quot; /&gt;
+    &lt;meta name=&quot;twitter:site&quot; property=&quot;twitter:site&quot; content=&quot;hax.camp&quot; /&gt;
+    &lt;meta name=&quot;twitter:title&quot; property=&quot;twitter:title&quot; content=&quot;hax-camp-22&quot; /&gt;
+    &lt;meta name=&quot;twitter:description&quot; property=&quot;twitter:description&quot; content=&quot;Welcome to &lt;hax-camp&gt;: an unconference dedicated to all things web components&quot; /&gt;
+    &lt;meta name=&quot;twitter:image&quot; property=&quot;twitter:image&quot; content=&quot;assets/haxBanner-01.png&quot; /&gt;
+    &lt;meta rel=&quot;cc:license&quot; href=&quot;https://creativecommons.org/licenses/by-sa/4.0/&quot; content=&quot;License: Creative Commons: Attribution Share a like&quot;/&gt;
+    &lt;meta name=&quot;twitter:creator&quot; content=&quot;@haxcamp&quot; /&gt;
     &lt;meta charset=&quot;UTF-8&quot;&gt;
     &lt;meta http-equiv=&quot;refresh&quot; content=&quot;0;url=https://www.eventbrite.com/e/hax-camp-web-components-all-the-things-tickets-288109562457&quot; /&gt;
     &lt;title&gt;Redirect&lt;/title&gt;
@@ -219,8 +246,8 @@
   <entry>
     <title>Welcome to HAXCamp 2022!</title>
     <id>hax.camp/content/welcome/</id>
-    <updated>2022-04-04T02:33:24.315-00:00</updated>
-    <published>2022-04-04T02:33:24.315-00:00</published>
+    <updated>2022-04-04T16:33:41.842-00:00</updated>
+    <published>2022-04-04T16:33:41.842-00:00</published>
     <summary></summary>
     <link href="hax.camp/content/welcome/"/>
     <content type="html">
@@ -233,8 +260,8 @@
   <entry>
     <title>Who&#39;s Coming to HAXCamp?</title>
     <id>hax.camp/content/who-is-coming/</id>
-    <updated>2022-04-04T02:33:24.315-00:00</updated>
-    <published>2022-04-04T02:33:24.315-00:00</published>
+    <updated>2022-04-04T16:33:41.842-00:00</updated>
+    <published>2022-04-04T16:33:41.842-00:00</published>
     <summary></summary>
     <link href="hax.camp/content/who-is-coming/"/>
     <content type="html">
