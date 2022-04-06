@@ -7,7 +7,7 @@
 
 ##### What are you hoping to learn at HAXCamp?
 
-> *“If I can understand more of what things might be able to bne compromised within a web component, then I can use that knowledge in the penetration tests that I execute when a client uses that technology. HAXCamp is a great way to stay up to date with what is out there and what people are actually building.”*
+> *“If I can understand more of what things might be able to be compromised within a web component, then I can use that knowledge in the penetration tests that I execute when a client uses that technology. HAXCamp is a great way to stay up to date with what is out there and what people are actually building.”*
 
 ## Becca Goodman
 **Web and Compliance Lead,** U.S. Securities and Exchange Commission
@@ -18,7 +18,7 @@
 
 ##### What are you hoping to learn at HAXCamp?
 
-> *"Mostly hoping to annoy Bryan and Potter. In all seriousness, I always enjoy the networking aspects as well as a chance to discuss emerging tech and anything people might be developing that could help make the user experience better for the end user of government websites."*
+> *I always enjoy the networking aspects as well as a chance to discuss emerging tech and anything people might be developing that could help make the user experience better for the end user of government websites."*
 
 ## Sonya Woods
 **Lead Accessibility Consultant,** Penn State World Campus
