@@ -1,5 +1,5 @@
 {
-  "id": "#53442128-a95c-0967-94a2-78ac2e22a75e",
+  "id": "#158d1ccb-d78f-7785-4913-b2c9faab403d",
   "title": "hax-camp-22",
   "author": "mayormaier",
   "description": "Welcome to <hax-camp>: an unconference dedicated to all things web components",
@@ -13,8 +13,8 @@
     },
     "site": {
       "name": "hax-camp-22",
-      "created": 1649090402410,
-      "updated": 1649090402410,
+      "created": 1649211992506,
+      "updated": 1649211992506,
       "git": {
         "autoPush": false,
         "branch": "master",
@@ -58,8 +58,8 @@
       "description": "Welcome to HAXCamp 2022!",
       "parent": null,
       "metadata": {
-        "created": 1649090382,
-        "updated": 1649090382,
+        "created": 1649211973,
+        "updated": 1649211973,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -82,8 +82,8 @@
       "description": "What is HAXCamp?",
       "parent": null,
       "metadata": {
-        "created": 1649090382,
-        "updated": 1649090382,
+        "created": 1649211973,
+        "updated": 1649211973,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -106,8 +106,8 @@
       "description": "Where is HAXCamp?",
       "parent": null,
       "metadata": {
-        "created": 1649090382,
-        "updated": 1649090382,
+        "created": 1649211973,
+        "updated": 1649211973,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -130,8 +130,8 @@
       "description": "Who's Coming to HAXCamp?",
       "parent": null,
       "metadata": {
-        "created": 1649090382,
-        "updated": 1649090382,
+        "created": 1649211973,
+        "updated": 1649211973,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -149,13 +149,13 @@
       "indent": 0,
       "location": "./pages/register.html",
       "slug": "content/register/",
-      "order": 11,
+      "order": 9,
       "title": "Register for Camp!",
       "description": "Register for Camp!",
       "parent": null,
       "metadata": {
-        "created": 1649090382,
-        "updated": 1649090382,
+        "created": 1649211973,
+        "updated": 1649211973,
         "readtime": 1,
         "contentDetails": {},
         "files": [],

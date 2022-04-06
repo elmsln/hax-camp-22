@@ -3,7 +3,7 @@
   <title>hax-camp-22</title>
   <link href="hax.camp/atom.xml" rel="self" />
   <subtitle>Welcome to &lt;hax-camp&gt;: an unconference dedicated to all things web components</subtitle>
-  <updated>2022-04-04T16:39:42.215-00:00</updated>
+  <updated>2022-04-06T02:26:13.465-00:00</updated>
   <author>
       <name>mayormaier</name>
   </author>
@@ -11,8 +11,8 @@
   <entry>
     <title></title>
     <id>hax.camp/raw-markdown/about/</id>
-    <updated>2022-04-04T16:39:41.447-00:00</updated>
-    <published>2022-04-04T16:39:41.447-00:00</published>
+    <updated>2022-04-06T02:26:12.605-00:00</updated>
+    <published>2022-04-06T02:26:12.605-00:00</published>
     <summary></summary>
     <link href="hax.camp/raw-markdown/about/"/>
     <content type="html">
@@ -48,8 +48,8 @@
   <entry>
     <title></title>
     <id>hax.camp/raw-markdown/details/</id>
-    <updated>2022-04-04T16:39:41.447-00:00</updated>
-    <published>2022-04-04T16:39:41.447-00:00</published>
+    <updated>2022-04-06T02:26:12.605-00:00</updated>
+    <published>2022-04-06T02:26:12.605-00:00</published>
     <summary></summary>
     <link href="hax.camp/raw-markdown/details/"/>
     <content type="html">
@@ -68,8 +68,8 @@
   <entry>
     <title></title>
     <id>hax.camp/raw-markdown/location/</id>
-    <updated>2022-04-04T16:39:41.447-00:00</updated>
-    <published>2022-04-04T16:39:41.447-00:00</published>
+    <updated>2022-04-06T02:26:12.605-00:00</updated>
+    <published>2022-04-06T02:26:12.605-00:00</published>
     <summary></summary>
     <link href="hax.camp/raw-markdown/location/"/>
     <content type="html">
@@ -80,8 +80,8 @@
   <entry>
     <title></title>
     <id>hax.camp/raw-markdown/teaser/</id>
-    <updated>2022-04-04T16:39:41.447-00:00</updated>
-    <published>2022-04-04T16:39:41.447-00:00</published>
+    <updated>2022-04-06T02:26:12.605-00:00</updated>
+    <published>2022-04-06T02:26:12.605-00:00</published>
     <summary></summary>
     <link href="hax.camp/raw-markdown/teaser/"/>
     <content type="html">
@@ -104,8 +104,8 @@
   <entry>
     <title></title>
     <id>hax.camp/raw-markdown/test/</id>
-    <updated>2022-04-04T16:39:41.447-00:00</updated>
-    <published>2022-04-04T16:39:41.447-00:00</published>
+    <updated>2022-04-06T02:26:12.605-00:00</updated>
+    <published>2022-04-06T02:26:12.605-00:00</published>
     <summary></summary>
     <link href="hax.camp/raw-markdown/test/"/>
     <content type="html">
@@ -116,8 +116,8 @@
   <entry>
     <title></title>
     <id>hax.camp/raw-markdown/who/</id>
-    <updated>2022-04-04T16:39:41.447-00:00</updated>
-    <published>2022-04-04T16:39:41.447-00:00</published>
+    <updated>2022-04-06T02:26:12.605-00:00</updated>
+    <published>2022-04-06T02:26:12.605-00:00</published>
     <summary></summary>
     <link href="hax.camp/raw-markdown/who/"/>
     <content type="html">
@@ -129,7 +129,7 @@
 &lt;/blockquote&gt;
 &lt;h5&gt;What are you hoping to learn at HAXCamp?&lt;/h5&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;“If I can understand more of what things might be able to bne compromised within a web component, then I can use that knowledge in the penetration tests that I execute when a client uses that technology. HAXCamp is a great way to stay up to date with what is out there and what people are actually building.”&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;“If I can understand more of what things might be able to be compromised within a web component, then I can use that knowledge in the penetration tests that I execute when a client uses that technology. HAXCamp is a great way to stay up to date with what is out there and what people are actually building.”&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2&gt;Becca Goodman&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Web and Compliance Lead,&lt;/strong&gt; U.S. Securities and Exchange Commission&lt;/p&gt;
@@ -139,7 +139,7 @@
 &lt;/blockquote&gt;
 &lt;h5&gt;What are you hoping to learn at HAXCamp?&lt;/h5&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;&amp;quot;Mostly hoping to annoy Bryan and Potter. In all seriousness, I always enjoy the networking aspects as well as a chance to discuss emerging tech and anything people might be developing that could help make the user experience better for the end user of government websites.&amp;quot;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;I always enjoy the networking aspects as well as a chance to discuss emerging tech and anything people might be developing that could help make the user experience better for the end user of government websites.&amp;quot;&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2&gt;Sonya Woods&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Lead Accessibility Consultant,&lt;/strong&gt; Penn State World Campus&lt;/p&gt;
@@ -157,8 +157,8 @@
   <entry>
     <title></title>
     <id>hax.camp/register/</id>
-    <updated>2022-04-04T16:39:41.451-00:00</updated>
-    <published>2022-04-04T16:39:41.451-00:00</published>
+    <updated>2022-04-06T02:26:12.605-00:00</updated>
+    <published>2022-04-06T02:26:12.605-00:00</published>
     <summary></summary>
     <link href="hax.camp/register/"/>
     <content type="html">
@@ -188,8 +188,8 @@
   <entry>
     <title>What is HAXCamp?</title>
     <id>hax.camp/content/about/</id>
-    <updated>2022-04-04T16:39:42.215-00:00</updated>
-    <published>2022-04-04T16:39:42.215-00:00</published>
+    <updated>2022-04-06T02:26:13.465-00:00</updated>
+    <published>2022-04-06T02:26:13.465-00:00</published>
     <summary></summary>
     <link href="hax.camp/content/about/"/>
     <content type="html">
@@ -200,8 +200,8 @@
   <entry>
     <title>Where is HAXCamp?</title>
     <id>hax.camp/content/location/</id>
-    <updated>2022-04-04T16:39:42.215-00:00</updated>
-    <published>2022-04-04T16:39:42.215-00:00</published>
+    <updated>2022-04-06T02:26:13.465-00:00</updated>
+    <published>2022-04-06T02:26:13.465-00:00</published>
     <summary></summary>
     <link href="hax.camp/content/location/"/>
     <content type="html">
@@ -213,8 +213,8 @@
   <entry>
     <title>Register for Camp!</title>
     <id>hax.camp/content/register/</id>
-    <updated>2022-04-04T16:39:42.215-00:00</updated>
-    <published>2022-04-04T16:39:42.215-00:00</published>
+    <updated>2022-04-06T02:26:13.465-00:00</updated>
+    <published>2022-04-06T02:26:13.465-00:00</published>
     <summary></summary>
     <link href="hax.camp/content/register/"/>
     <content type="html">
@@ -246,8 +246,8 @@
   <entry>
     <title>Welcome to HAXCamp 2022!</title>
     <id>hax.camp/content/welcome/</id>
-    <updated>2022-04-04T16:39:42.215-00:00</updated>
-    <published>2022-04-04T16:39:42.215-00:00</published>
+    <updated>2022-04-06T02:26:13.465-00:00</updated>
+    <published>2022-04-06T02:26:13.465-00:00</published>
     <summary></summary>
     <link href="hax.camp/content/welcome/"/>
     <content type="html">
@@ -260,8 +260,8 @@
   <entry>
     <title>Who&#39;s Coming to HAXCamp?</title>
     <id>hax.camp/content/who-is-coming/</id>
-    <updated>2022-04-04T16:39:42.215-00:00</updated>
-    <published>2022-04-04T16:39:42.215-00:00</published>
+    <updated>2022-04-06T02:26:13.465-00:00</updated>
+    <published>2022-04-06T02:26:13.465-00:00</published>
     <summary></summary>
     <link href="hax.camp/content/who-is-coming/"/>
     <content type="html">
