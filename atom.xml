@@ -3,7 +3,7 @@
   <title>hax-camp-22</title>
   <link href="hax.camp/atom.xml" rel="self" />
   <subtitle>Welcome to &lt;hax-camp&gt;: an unconference dedicated to all things web components</subtitle>
-  <updated>2022-04-06T02:26:13.465-00:00</updated>
+  <updated>2022-04-11T04:33:00.150-00:00</updated>
   <author>
       <name>mayormaier</name>
   </author>
@@ -11,8 +11,8 @@
   <entry>
     <title></title>
     <id>hax.camp/raw-markdown/about/</id>
-    <updated>2022-04-06T02:26:12.605-00:00</updated>
-    <published>2022-04-06T02:26:12.605-00:00</published>
+    <updated>2022-04-11T04:32:59.126-00:00</updated>
+    <published>2022-04-11T04:32:59.126-00:00</published>
     <summary></summary>
     <link href="hax.camp/raw-markdown/about/"/>
     <content type="html">
@@ -48,8 +48,8 @@
   <entry>
     <title></title>
     <id>hax.camp/raw-markdown/details/</id>
-    <updated>2022-04-06T02:26:12.605-00:00</updated>
-    <published>2022-04-06T02:26:12.605-00:00</published>
+    <updated>2022-04-11T04:32:59.126-00:00</updated>
+    <published>2022-04-11T04:32:59.126-00:00</published>
     <summary></summary>
     <link href="hax.camp/raw-markdown/details/"/>
     <content type="html">
@@ -68,8 +68,8 @@
   <entry>
     <title></title>
     <id>hax.camp/raw-markdown/location/</id>
-    <updated>2022-04-06T02:26:12.605-00:00</updated>
-    <published>2022-04-06T02:26:12.605-00:00</published>
+    <updated>2022-04-11T04:32:59.126-00:00</updated>
+    <published>2022-04-11T04:32:59.126-00:00</published>
     <summary></summary>
     <link href="hax.camp/raw-markdown/location/"/>
     <content type="html">
@@ -80,8 +80,8 @@
   <entry>
     <title></title>
     <id>hax.camp/raw-markdown/teaser/</id>
-    <updated>2022-04-06T02:26:12.605-00:00</updated>
-    <published>2022-04-06T02:26:12.605-00:00</published>
+    <updated>2022-04-11T04:32:59.126-00:00</updated>
+    <published>2022-04-11T04:32:59.126-00:00</published>
     <summary></summary>
     <link href="hax.camp/raw-markdown/teaser/"/>
     <content type="html">
@@ -104,8 +104,8 @@
   <entry>
     <title></title>
     <id>hax.camp/raw-markdown/test/</id>
-    <updated>2022-04-06T02:26:12.605-00:00</updated>
-    <published>2022-04-06T02:26:12.605-00:00</published>
+    <updated>2022-04-11T04:32:59.126-00:00</updated>
+    <published>2022-04-11T04:32:59.126-00:00</published>
     <summary></summary>
     <link href="hax.camp/raw-markdown/test/"/>
     <content type="html">
@@ -116,12 +116,13 @@
   <entry>
     <title></title>
     <id>hax.camp/raw-markdown/who/</id>
-    <updated>2022-04-06T02:26:12.605-00:00</updated>
-    <published>2022-04-06T02:26:12.605-00:00</published>
+    <updated>2022-04-11T04:32:59.126-00:00</updated>
+    <published>2022-04-11T04:32:59.126-00:00</published>
     <summary></summary>
     <link href="hax.camp/raw-markdown/who/"/>
     <content type="html">
-      &lt;h2&gt;Mark Milutinovic&lt;/h2&gt;
+      &lt;p&gt;&lt;img src=&quot;/assets/images/Mark-Milutinovic.jpeg&quot; alt=&quot;Mark Milutinovic&quot;&gt;&lt;/p&gt;
+&lt;h2&gt;Mark Milutinovic&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Cybersecurity Professional&lt;/strong&gt;&lt;/p&gt;
 &lt;h5&gt;How did you become interested in web development?&lt;/h5&gt;
 &lt;blockquote&gt;
@@ -141,6 +142,7 @@
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;I always enjoy the networking aspects as well as a chance to discuss emerging tech and anything people might be developing that could help make the user experience better for the end user of government websites.&amp;quot;&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/Sonya-Woods.jpeg&quot; alt=&quot;Sonya Woods&quot;&gt;&lt;/p&gt;
 &lt;h2&gt;Sonya Woods&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Lead Accessibility Consultant,&lt;/strong&gt; Penn State World Campus&lt;/p&gt;
 &lt;h5&gt;How did you become interested in web development?&lt;/h5&gt;
@@ -151,14 +153,24 @@
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;&amp;quot;I&#39;m hoping to learn more about web components and how to apply accessability to them. I&#39;ve become interested in web components because they enable people to bake in accessible practice right into their websites. It&#39;s amazing that you can make changes in one place and have them show up everywhere.&amp;quot;&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;h2&gt;Andy Donato&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Associate Software Developer&lt;/strong&gt;, Neudesic&lt;/p&gt;
+&lt;h5&gt;How did you become interested in web development?&lt;/h5&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&amp;quot;I broke into web development through my experience in college with THON. I worked as a developer and eventual product manager Dash, one of THON&#39;s logistics management applications that powers THON Weekend operations. Later into my THON experience, I got to interact with other web technologies, like the content management system WordPress. In my day-to-day on the job, I write a ton of React and work extensively with NextJS, its more opinionated over-achieving cousin. Getting involved with web development felt like drinking from a firehose at first - coming from a background of purely console applications running in a single file, the vast ecosystem of web development felt like a faraway land. Over time, I began to see the forest through the trees so to speak and recognize the underlying patterns common across languages and frameworks. Now I get to do it for a living!&amp;quot;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h5&gt;What are you hoping to learn at HAXCamp?&lt;/h5&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&amp;quot;I am looking forward to returning to my alma mater to meet similar-minded individuals who are interested in the web development space. I am also looking forward to learning about Web Components - I have yet to come across this technology in my day-to-day work, so I&#39;m hoping to learn enough to possibly bring it back into my team at Neudesic.&amp;quot;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 
     </content>
   </entry>
   <entry>
     <title></title>
     <id>hax.camp/register/</id>
-    <updated>2022-04-06T02:26:12.605-00:00</updated>
-    <published>2022-04-06T02:26:12.605-00:00</published>
+    <updated>2022-04-11T04:32:59.126-00:00</updated>
+    <published>2022-04-11T04:32:59.126-00:00</published>
     <summary></summary>
     <link href="hax.camp/register/"/>
     <content type="html">
@@ -188,8 +200,8 @@
   <entry>
     <title>What is HAXCamp?</title>
     <id>hax.camp/content/about/</id>
-    <updated>2022-04-06T02:26:13.465-00:00</updated>
-    <published>2022-04-06T02:26:13.465-00:00</published>
+    <updated>2022-04-11T04:33:00.150-00:00</updated>
+    <published>2022-04-11T04:33:00.150-00:00</published>
     <summary></summary>
     <link href="hax.camp/content/about/"/>
     <content type="html">
@@ -200,8 +212,8 @@
   <entry>
     <title>Where is HAXCamp?</title>
     <id>hax.camp/content/location/</id>
-    <updated>2022-04-06T02:26:13.465-00:00</updated>
-    <published>2022-04-06T02:26:13.465-00:00</published>
+    <updated>2022-04-11T04:33:00.150-00:00</updated>
+    <published>2022-04-11T04:33:00.150-00:00</published>
     <summary></summary>
     <link href="hax.camp/content/location/"/>
     <content type="html">
@@ -213,8 +225,8 @@
   <entry>
     <title>Register for Camp!</title>
     <id>hax.camp/content/register/</id>
-    <updated>2022-04-06T02:26:13.465-00:00</updated>
-    <published>2022-04-06T02:26:13.465-00:00</published>
+    <updated>2022-04-11T04:33:00.150-00:00</updated>
+    <published>2022-04-11T04:33:00.150-00:00</published>
     <summary></summary>
     <link href="hax.camp/content/register/"/>
     <content type="html">
@@ -246,8 +258,8 @@
   <entry>
     <title>Welcome to HAXCamp 2022!</title>
     <id>hax.camp/content/welcome/</id>
-    <updated>2022-04-06T02:26:13.465-00:00</updated>
-    <published>2022-04-06T02:26:13.465-00:00</published>
+    <updated>2022-04-11T04:33:00.150-00:00</updated>
+    <published>2022-04-11T04:33:00.150-00:00</published>
     <summary></summary>
     <link href="hax.camp/content/welcome/"/>
     <content type="html">
@@ -260,8 +272,8 @@
   <entry>
     <title>Who&#39;s Coming to HAXCamp?</title>
     <id>hax.camp/content/who-is-coming/</id>
-    <updated>2022-04-06T02:26:13.465-00:00</updated>
-    <published>2022-04-06T02:26:13.465-00:00</published>
+    <updated>2022-04-11T04:33:00.150-00:00</updated>
+    <published>2022-04-11T04:33:00.150-00:00</published>
     <summary></summary>
     <link href="hax.camp/content/who-is-coming/"/>
     <content type="html">

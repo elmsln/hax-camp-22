@@ -1,5 +1,5 @@
 {
-  "id": "#158d1ccb-d78f-7785-4913-b2c9faab403d",
+  "id": "#67f3dfc4-6806-960c-7ecd-3a97e635da01",
   "title": "hax-camp-22",
   "author": "mayormaier",
   "description": "Welcome to <hax-camp>: an unconference dedicated to all things web components",
@@ -13,8 +13,8 @@
     },
     "site": {
       "name": "hax-camp-22",
-      "created": 1649211992506,
-      "updated": 1649211992506,
+      "created": 1649651605125,
+      "updated": 1649651605125,
       "git": {
         "autoPush": false,
         "branch": "master",
@@ -58,8 +58,8 @@
       "description": "Welcome to HAXCamp 2022!",
       "parent": null,
       "metadata": {
-        "created": 1649211973,
-        "updated": 1649211973,
+        "created": 1649651580,
+        "updated": 1649651580,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -82,8 +82,8 @@
       "description": "What is HAXCamp?",
       "parent": null,
       "metadata": {
-        "created": 1649211973,
-        "updated": 1649211973,
+        "created": 1649651580,
+        "updated": 1649651580,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -106,8 +106,8 @@
       "description": "Where is HAXCamp?",
       "parent": null,
       "metadata": {
-        "created": 1649211973,
-        "updated": 1649211973,
+        "created": 1649651580,
+        "updated": 1649651580,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -130,8 +130,8 @@
       "description": "Who's Coming to HAXCamp?",
       "parent": null,
       "metadata": {
-        "created": 1649211973,
-        "updated": 1649211973,
+        "created": 1649651580,
+        "updated": 1649651580,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -154,8 +154,8 @@
       "description": "Register for Camp!",
       "parent": null,
       "metadata": {
-        "created": 1649211973,
-        "updated": 1649211973,
+        "created": 1649651580,
+        "updated": 1649651580,
         "readtime": 1,
         "contentDetails": {},
         "files": [],

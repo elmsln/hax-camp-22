@@ -1,3 +1,5 @@
+![Mark Milutinovic](/assets/images/Mark-Milutinovic.jpeg)
+
 ## Mark Milutinovic
 **Cybersecurity Professional**
 
@@ -20,6 +22,8 @@
 
 > *I always enjoy the networking aspects as well as a chance to discuss emerging tech and anything people might be developing that could help make the user experience better for the end user of government websites."*
 
+![Sonya Woods](/assets/images/Sonya-Woods.jpeg)
+
 ## Sonya Woods
 **Lead Accessibility Consultant,** Penn State World Campus
 
@@ -30,3 +34,15 @@
 ##### What are you hoping to learn at HAXCamp?
 
 > *"I'm hoping to learn more about web components and how to apply accessability to them. I've become interested in web components because they enable people to bake in accessible practice right into their websites. It's amazing that you can make changes in one place and have them show up everywhere."*
+
+
+## Andy Donato
+**Associate Software Developer**, Neudesic
+
+##### How did you become interested in web development?
+
+> *"I broke into web development through my experience in college with THON. I worked as a developer and eventual product manager Dash, one of THON's logistics management applications that powers THON Weekend operations. Later into my THON experience, I got to interact with other web technologies, like the content management system WordPress. In my day-to-day on the job, I write a ton of React and work extensively with NextJS, its more opinionated over-achieving cousin. Getting involved with web development felt like drinking from a firehose at first - coming from a background of purely console applications running in a single file, the vast ecosystem of web development felt like a faraway land. Over time, I began to see the forest through the trees so to speak and recognize the underlying patterns common across languages and frameworks. Now I get to do it for a living!"*
+
+##### What are you hoping to learn at HAXCamp?
+
+> *"I am looking forward to returning to my alma mater to meet similar-minded individuals who are interested in the web development space. I am also looking forward to learning about Web Components - I have yet to come across this technology in my day-to-day work, so I'm hoping to learn enough to possibly bring it back into my team at Neudesic."*

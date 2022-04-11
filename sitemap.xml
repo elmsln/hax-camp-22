@@ -2,84 +2,84 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <pre><code>&lt;url&gt;
   &lt;loc&gt;hax.camp/raw-markdown/about/&lt;/loc&gt;
-  &lt;lastmod&gt;2022-04-06T02:26:12+00:00&lt;/lastmod&gt;
+  &lt;lastmod&gt;2022-04-11T04:32:59+00:00&lt;/lastmod&gt;
   &lt;changefreq&gt;daily&lt;/changefreq&gt;
   &lt;priority&gt;1.0&lt;/priority&gt;
 &lt;/url&gt;
 
 &lt;url&gt;
   &lt;loc&gt;hax.camp/raw-markdown/details/&lt;/loc&gt;
-  &lt;lastmod&gt;2022-04-06T02:26:12+00:00&lt;/lastmod&gt;
+  &lt;lastmod&gt;2022-04-11T04:32:59+00:00&lt;/lastmod&gt;
   &lt;changefreq&gt;daily&lt;/changefreq&gt;
   &lt;priority&gt;1.0&lt;/priority&gt;
 &lt;/url&gt;
 
 &lt;url&gt;
   &lt;loc&gt;hax.camp/raw-markdown/location/&lt;/loc&gt;
-  &lt;lastmod&gt;2022-04-06T02:26:12+00:00&lt;/lastmod&gt;
+  &lt;lastmod&gt;2022-04-11T04:32:59+00:00&lt;/lastmod&gt;
   &lt;changefreq&gt;daily&lt;/changefreq&gt;
   &lt;priority&gt;1.0&lt;/priority&gt;
 &lt;/url&gt;
 
 &lt;url&gt;
   &lt;loc&gt;hax.camp/raw-markdown/teaser/&lt;/loc&gt;
-  &lt;lastmod&gt;2022-04-06T02:26:12+00:00&lt;/lastmod&gt;
+  &lt;lastmod&gt;2022-04-11T04:32:59+00:00&lt;/lastmod&gt;
   &lt;changefreq&gt;daily&lt;/changefreq&gt;
   &lt;priority&gt;1.0&lt;/priority&gt;
 &lt;/url&gt;
 
 &lt;url&gt;
   &lt;loc&gt;hax.camp/raw-markdown/test/&lt;/loc&gt;
-  &lt;lastmod&gt;2022-04-06T02:26:12+00:00&lt;/lastmod&gt;
+  &lt;lastmod&gt;2022-04-11T04:32:59+00:00&lt;/lastmod&gt;
   &lt;changefreq&gt;daily&lt;/changefreq&gt;
   &lt;priority&gt;1.0&lt;/priority&gt;
 &lt;/url&gt;
 
 &lt;url&gt;
   &lt;loc&gt;hax.camp/raw-markdown/who/&lt;/loc&gt;
-  &lt;lastmod&gt;2022-04-06T02:26:12+00:00&lt;/lastmod&gt;
+  &lt;lastmod&gt;2022-04-11T04:32:59+00:00&lt;/lastmod&gt;
   &lt;changefreq&gt;daily&lt;/changefreq&gt;
   &lt;priority&gt;1.0&lt;/priority&gt;
 &lt;/url&gt;
 
 &lt;url&gt;
   &lt;loc&gt;hax.camp/register/&lt;/loc&gt;
-  &lt;lastmod&gt;2022-04-06T02:26:12+00:00&lt;/lastmod&gt;
+  &lt;lastmod&gt;2022-04-11T04:32:59+00:00&lt;/lastmod&gt;
   &lt;changefreq&gt;daily&lt;/changefreq&gt;
   &lt;priority&gt;1.0&lt;/priority&gt;
 &lt;/url&gt;
 
 &lt;url&gt;
   &lt;loc&gt;hax.camp/content/about/&lt;/loc&gt;
-  &lt;lastmod&gt;2022-04-06T02:26:13+00:00&lt;/lastmod&gt;
+  &lt;lastmod&gt;2022-04-11T04:33:00+00:00&lt;/lastmod&gt;
   &lt;changefreq&gt;daily&lt;/changefreq&gt;
   &lt;priority&gt;1.0&lt;/priority&gt;
 &lt;/url&gt;
 
 &lt;url&gt;
   &lt;loc&gt;hax.camp/content/location/&lt;/loc&gt;
-  &lt;lastmod&gt;2022-04-06T02:26:13+00:00&lt;/lastmod&gt;
+  &lt;lastmod&gt;2022-04-11T04:33:00+00:00&lt;/lastmod&gt;
   &lt;changefreq&gt;daily&lt;/changefreq&gt;
   &lt;priority&gt;1.0&lt;/priority&gt;
 &lt;/url&gt;
 
 &lt;url&gt;
   &lt;loc&gt;hax.camp/content/register/&lt;/loc&gt;
-  &lt;lastmod&gt;2022-04-06T02:26:13+00:00&lt;/lastmod&gt;
+  &lt;lastmod&gt;2022-04-11T04:33:00+00:00&lt;/lastmod&gt;
   &lt;changefreq&gt;daily&lt;/changefreq&gt;
   &lt;priority&gt;1.0&lt;/priority&gt;
 &lt;/url&gt;
 
 &lt;url&gt;
   &lt;loc&gt;hax.camp/content/welcome/&lt;/loc&gt;
-  &lt;lastmod&gt;2022-04-06T02:26:13+00:00&lt;/lastmod&gt;
+  &lt;lastmod&gt;2022-04-11T04:33:00+00:00&lt;/lastmod&gt;
   &lt;changefreq&gt;daily&lt;/changefreq&gt;
   &lt;priority&gt;1.0&lt;/priority&gt;
 &lt;/url&gt;
 
 &lt;url&gt;
   &lt;loc&gt;hax.camp/content/who-is-coming/&lt;/loc&gt;
-  &lt;lastmod&gt;2022-04-06T02:26:13+00:00&lt;/lastmod&gt;
+  &lt;lastmod&gt;2022-04-11T04:33:00+00:00&lt;/lastmod&gt;
   &lt;changefreq&gt;daily&lt;/changefreq&gt;
   &lt;priority&gt;1.0&lt;/priority&gt;
 &lt;/url&gt;
