@@ -1,5 +1,4 @@
 ![Mark Milutinovic](/assets/images/Mark-Milutinovic.jpeg)
-
 ## Mark Milutinovic
 **Cybersecurity Professional**
 
@@ -22,8 +21,19 @@
 
 > *I always enjoy the networking aspects as well as a chance to discuss emerging tech and anything people might be developing that could help make the user experience better for the end user of government websites."*
 
-![Sonya Woods](/assets/images/Sonya-Woods.jpeg)
+![Michael Potter](/assets/images/Michael-Potter.jpeg)
+## Michael Potter
+**Principal Front End Developer,** Red Hat
 
+##### How did you become interested in web development?
+
+> *"After graduating with a political science degree, I wound up working at a place that had a few Drupal sites. Their web guy was leaving, so I learned as much as I could from him in the two weeks before he left. That led me to learn HTML, CSS on the front end side and later backend development development to develop my own Drupal modules. It was off to the races from there- I fell in love with coding a web development."*
+
+##### What are you hoping to learn at HAXCamp?
+
+> *"I'm looking to see what patterns people are using to solve similar problems to what I'm working on. You can get so creative with web components- they're a fundamental building block and there's so many creative ways that you can use them to build many different things! When you see the way that other people are using web components it totally changes the way that you think about using them."*
+
+![Sonya Woods](/assets/images/Sonya-Woods.jpeg)
 ## Sonya Woods
 **Lead Accessibility Consultant,** Penn State World Campus
 
@@ -34,7 +44,6 @@
 ##### What are you hoping to learn at HAXCamp?
 
 > *"I'm hoping to learn more about web components and how to apply accessability to them. I've become interested in web components because they enable people to bake in accessible practice right into their websites. It's amazing that you can make changes in one place and have them show up everywhere."*
-
 
 ## Andy Donato
 **Associate Software Developer**, Neudesic

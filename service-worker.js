@@ -39,63 +39,63 @@
 var precacheConfig = [
   [
     "/housing/",
-    "oluD5zrZRRaGpRxw"
+    "kuQuS8Ulx37Hmv4m"
   ],
   [
     "/raw-markdown/about/",
-    "oluD5zrZRRaGpRxw"
+    "kuQuS8Ulx37Hmv4m"
   ],
   [
     "/raw-markdown/details/",
-    "oluD5zrZRRaGpRxw"
+    "kuQuS8Ulx37Hmv4m"
   ],
   [
     "/raw-markdown/location/",
-    "oluD5zrZRRaGpRxw"
+    "kuQuS8Ulx37Hmv4m"
   ],
   [
     "/raw-markdown/teaser/",
-    "oluD5zrZRRaGpRxw"
+    "kuQuS8Ulx37Hmv4m"
   ],
   [
     "/raw-markdown/test/",
-    "oluD5zrZRRaGpRxw"
+    "kuQuS8Ulx37Hmv4m"
   ],
   [
     "/raw-markdown/who/",
-    "oluD5zrZRRaGpRxw"
+    "kuQuS8Ulx37Hmv4m"
   ],
   [
     "/register/",
-    "oluD5zrZRRaGpRxw"
-  ],
-  [
-    "/content/housing/",
-    "DWwfoCJd03zcBBuy"
+    "kuQuS8Ulx37Hmv4m"
   ],
   [
     "/content/about/",
-    "DWwfoCJd03zcBBuy"
+    "NEboprTOEYSGNt2S"
   ],
   [
-    "/content/location/",
-    "DWwfoCJd03zcBBuy"
+    "/content/housing/",
+    "NEboprTOEYSGNt2S"
   ],
   [
     "/content/register/",
-    "DWwfoCJd03zcBBuy"
+    "NEboprTOEYSGNt2S"
+  ],
+  [
+    "/content/location/",
+    "NEboprTOEYSGNt2S"
   ],
   [
     "/content/welcome/",
-    "DWwfoCJd03zcBBuy"
+    "NEboprTOEYSGNt2S"
   ],
   [
     "/content/who-is-coming/",
-    "DWwfoCJd03zcBBuy"
+    "NEboprTOEYSGNt2S"
   ],
   [
     "/",
-    "oluD5zrZRRaGpRxw"
+    "kuQuS8Ulx37Hmv4m"
   ]
 ];
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');

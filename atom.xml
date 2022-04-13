@@ -3,7 +3,7 @@
   <title>hax-camp-22</title>
   <link href="hax.camp/atom.xml" rel="self" />
   <subtitle>Welcome to &lt;hax-camp&gt;: an unconference dedicated to all things web components</subtitle>
-  <updated>2022-04-13T02:36:25.764-00:00</updated>
+  <updated>2022-04-13T03:11:09.569-00:00</updated>
   <author>
       <name>mayormaier</name>
   </author>
@@ -11,8 +11,8 @@
   <entry>
     <title></title>
     <id>hax.camp/housing/</id>
-    <updated>2022-04-13T02:36:24.844-00:00</updated>
-    <published>2022-04-13T02:36:24.844-00:00</published>
+    <updated>2022-04-13T03:11:08.517-00:00</updated>
+    <published>2022-04-13T03:11:08.517-00:00</published>
     <summary></summary>
     <link href="hax.camp/housing/"/>
     <content type="html">
@@ -42,13 +42,13 @@
   <entry>
     <title></title>
     <id>hax.camp/raw-markdown/about/</id>
-    <updated>2022-04-13T02:36:24.844-00:00</updated>
-    <published>2022-04-13T02:36:24.844-00:00</published>
+    <updated>2022-04-13T03:11:08.517-00:00</updated>
+    <published>2022-04-13T03:11:08.517-00:00</published>
     <summary></summary>
     <link href="hax.camp/raw-markdown/about/"/>
     <content type="html">
       &lt;h2&gt;Description&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;&amp;lt; hax-camp &amp;gt;&lt;/strong&gt; is an &lt;em&gt;unconference&lt;/em&gt; dedicated to &lt;a href=&quot;https://open-wc.org/&quot;&gt;all things web components&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&amp;lt; hax-camp &amp;gt;&lt;/strong&gt; is an &lt;em&gt;unconference&lt;/em&gt; dedicated to all things web development and &lt;a href=&quot;https://open-wc.org/&quot;&gt;web components!&lt;/a&gt;!&lt;/p&gt;
 &lt;p&gt;Penn State&#39;s College of Information Sciences and Technology is providing space for the event. It is a fusion of students, industry professionals, and educators. This year&#39;s event is being student-run and we anticipate there being discussions about openwc, lit, performance, element composition, css, hax.psu, pedagogy, and design systems. All communities are welcome to join us for this free event.&lt;/p&gt;
 &lt;p&gt;This is the 2nd HAX camp to be held after a successful two days of sharing ideas about web components at Duke in 2019. &lt;strong&gt;&amp;lt; hax-camp &amp;gt;&lt;/strong&gt;, named after the HAXTheWeb headless block editor, is an unconference dedicated to all things web components.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&amp;lt; hax-camp &amp;gt;&lt;/strong&gt; PSU is a unique opportunity for those interested in front-end web development to learn and share equally with a mix of industry professionals, university members, and students about the web development industry. This event is focused on the W3C standard known as web components for reusability, platform-agnostic approach, and the career longevity of learning HTML, CSS, and Javascript.&lt;/p&gt;
@@ -79,12 +79,12 @@
   <entry>
     <title></title>
     <id>hax.camp/raw-markdown/details/</id>
-    <updated>2022-04-13T02:36:24.844-00:00</updated>
-    <published>2022-04-13T02:36:24.844-00:00</published>
+    <updated>2022-04-13T03:11:08.517-00:00</updated>
+    <published>2022-04-13T03:11:08.517-00:00</published>
     <summary></summary>
     <link href="hax.camp/raw-markdown/details/"/>
     <content type="html">
-      &lt;p&gt;&lt;strong&gt;&amp;lt; hax-camp &amp;gt;&lt;/strong&gt; is an &lt;em&gt;unconference&lt;/em&gt; dedicated to &lt;a href=&quot;https://open-wc.org/&quot;&gt;all things web components&lt;/a&gt;!&lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;&amp;lt; hax-camp &amp;gt;&lt;/strong&gt; is an &lt;em&gt;unconference&lt;/em&gt; dedicated to all things &lt;strong&gt;web development&lt;/strong&gt; and &lt;a href=&quot;https://open-wc.org/&quot;&gt;web components!&lt;/a&gt;!&lt;/p&gt;
 &lt;p&gt;Pennsylvania State College of Information Sciences and Technology is providing space for the event. It is a fusion of students, industry professionals, and educators. This year&#39;s event is being student-run and we anticipate there being discussions about openwc, lit, performance, element composition, css, hax.psu, pedagogy, and design systems. All communities are welcome to join us for this free event.&lt;/p&gt;
 &lt;p&gt;This is the 2nd HAX camp to be held after a successful two days of sharing ideas about web components at Duke in 2019. &lt;strong&gt;&amp;lt; hax-camp &amp;gt;&lt;/strong&gt;, named after the HAXTheWeb headless block editor, is an unconference dedicated to all things web components.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&amp;lt; hax-camp &amp;gt;&lt;/strong&gt; PSU is a unique opportunity for those interested in front-end web development to learn and share equally with a mix of industry professionals, university members, and students about the web development industry. This event is focused on the W3C standard known as web components for reusability, platform-agnostic approach, and the career longevity of learning HTML, CSS, and Javascript.&lt;/p&gt;
@@ -99,8 +99,8 @@
   <entry>
     <title></title>
     <id>hax.camp/raw-markdown/location/</id>
-    <updated>2022-04-13T02:36:24.844-00:00</updated>
-    <published>2022-04-13T02:36:24.844-00:00</published>
+    <updated>2022-04-13T03:11:08.517-00:00</updated>
+    <published>2022-04-13T03:11:08.517-00:00</published>
     <summary></summary>
     <link href="hax.camp/raw-markdown/location/"/>
     <content type="html">
@@ -111,8 +111,8 @@
   <entry>
     <title></title>
     <id>hax.camp/raw-markdown/teaser/</id>
-    <updated>2022-04-13T02:36:24.844-00:00</updated>
-    <published>2022-04-13T02:36:24.844-00:00</published>
+    <updated>2022-04-13T03:11:08.517-00:00</updated>
+    <published>2022-04-13T03:11:08.517-00:00</published>
     <summary></summary>
     <link href="hax.camp/raw-markdown/teaser/"/>
     <content type="html">
@@ -135,8 +135,8 @@
   <entry>
     <title></title>
     <id>hax.camp/raw-markdown/test/</id>
-    <updated>2022-04-13T02:36:24.844-00:00</updated>
-    <published>2022-04-13T02:36:24.844-00:00</published>
+    <updated>2022-04-13T03:11:08.517-00:00</updated>
+    <published>2022-04-13T03:11:08.517-00:00</published>
     <summary></summary>
     <link href="hax.camp/raw-markdown/test/"/>
     <content type="html">
@@ -147,8 +147,8 @@
   <entry>
     <title></title>
     <id>hax.camp/raw-markdown/who/</id>
-    <updated>2022-04-13T02:36:24.844-00:00</updated>
-    <published>2022-04-13T02:36:24.844-00:00</published>
+    <updated>2022-04-13T03:11:08.517-00:00</updated>
+    <published>2022-04-13T03:11:08.517-00:00</published>
     <summary></summary>
     <link href="hax.camp/raw-markdown/who/"/>
     <content type="html">
@@ -172,6 +172,17 @@
 &lt;h5&gt;What are you hoping to learn at HAXCamp?&lt;/h5&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;I always enjoy the networking aspects as well as a chance to discuss emerging tech and anything people might be developing that could help make the user experience better for the end user of government websites.&amp;quot;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/Michael-Potter.jpeg&quot; alt=&quot;Michael Potter&quot;&gt;&lt;/p&gt;
+&lt;h2&gt;Michael Potter&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Principal Front End Developer,&lt;/strong&gt; Red Hat&lt;/p&gt;
+&lt;h5&gt;How did you become interested in web development?&lt;/h5&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&amp;quot;After graduating with a political science degree, I wound up working at a place that had a few Drupal sites. Their web guy was leaving, so I learned as much as I could from him in the two weeks before he left. That led me to learn HTML, CSS on the front end side and later backend development development to develop my own Drupal modules. It was off to the races from there- I fell in love with coding a web development.&amp;quot;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h5&gt;What are you hoping to learn at HAXCamp?&lt;/h5&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&amp;quot;I&#39;m looking to see what patterns people are using to solve similar problems to what I&#39;m working on. You can get so creative with web components- they&#39;re a fundamental building block and there&#39;s so many creative ways that you can use them to build many different things! When you see the way that other people are using web components it totally changes the way that you think about using them.&amp;quot;&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;img src=&quot;/assets/images/Sonya-Woods.jpeg&quot; alt=&quot;Sonya Woods&quot;&gt;&lt;/p&gt;
 &lt;h2&gt;Sonya Woods&lt;/h2&gt;
@@ -200,8 +211,8 @@
   <entry>
     <title></title>
     <id>hax.camp/register/</id>
-    <updated>2022-04-13T02:36:24.844-00:00</updated>
-    <published>2022-04-13T02:36:24.844-00:00</published>
+    <updated>2022-04-13T03:11:08.517-00:00</updated>
+    <published>2022-04-13T03:11:08.517-00:00</published>
     <summary></summary>
     <link href="hax.camp/register/"/>
     <content type="html">
@@ -231,8 +242,8 @@
   <entry>
     <title>What is HAXCamp?</title>
     <id>hax.camp/content/about/</id>
-    <updated>2022-04-13T02:36:25.764-00:00</updated>
-    <published>2022-04-13T02:36:25.764-00:00</published>
+    <updated>2022-04-13T03:11:09.569-00:00</updated>
+    <published>2022-04-13T03:11:09.569-00:00</published>
     <summary></summary>
     <link href="hax.camp/content/about/"/>
     <content type="html">
@@ -243,8 +254,8 @@
   <entry>
     <title>Apply for HAXCamp Housing!</title>
     <id>hax.camp/content/housing/</id>
-    <updated>2022-04-13T02:36:25.764-00:00</updated>
-    <published>2022-04-13T02:36:25.764-00:00</published>
+    <updated>2022-04-13T03:11:09.569-00:00</updated>
+    <published>2022-04-13T03:11:09.569-00:00</published>
     <summary></summary>
     <link href="hax.camp/content/housing/"/>
     <content type="html">
@@ -254,8 +265,8 @@
   <entry>
     <title>Where is HAXCamp?</title>
     <id>hax.camp/content/location/</id>
-    <updated>2022-04-13T02:36:25.764-00:00</updated>
-    <published>2022-04-13T02:36:25.764-00:00</published>
+    <updated>2022-04-13T03:11:09.569-00:00</updated>
+    <published>2022-04-13T03:11:09.569-00:00</published>
     <summary></summary>
     <link href="hax.camp/content/location/"/>
     <content type="html">
@@ -267,8 +278,8 @@
   <entry>
     <title>Register for Camp!</title>
     <id>hax.camp/content/register/</id>
-    <updated>2022-04-13T02:36:25.764-00:00</updated>
-    <published>2022-04-13T02:36:25.764-00:00</published>
+    <updated>2022-04-13T03:11:09.569-00:00</updated>
+    <published>2022-04-13T03:11:09.569-00:00</published>
     <summary></summary>
     <link href="hax.camp/content/register/"/>
     <content type="html">
@@ -300,8 +311,8 @@
   <entry>
     <title>Welcome to HAXCamp 2022!</title>
     <id>hax.camp/content/welcome/</id>
-    <updated>2022-04-13T02:36:25.764-00:00</updated>
-    <published>2022-04-13T02:36:25.764-00:00</published>
+    <updated>2022-04-13T03:11:09.569-00:00</updated>
+    <published>2022-04-13T03:11:09.569-00:00</published>
     <summary></summary>
     <link href="hax.camp/content/welcome/"/>
     <content type="html">
@@ -314,8 +325,8 @@
   <entry>
     <title>Who&#39;s Coming to HAXCamp?</title>
     <id>hax.camp/content/who-is-coming/</id>
-    <updated>2022-04-13T02:36:25.764-00:00</updated>
-    <published>2022-04-13T02:36:25.764-00:00</published>
+    <updated>2022-04-13T03:11:09.569-00:00</updated>
+    <published>2022-04-13T03:11:09.569-00:00</published>
     <summary></summary>
     <link href="hax.camp/content/who-is-coming/"/>
     <content type="html">
