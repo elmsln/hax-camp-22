@@ -1,5 +1,5 @@
 {
-  "id": "#67f3dfc4-6806-960c-7ecd-3a97e635da01",
+  "id": "#b48c72ae-1640-2f34-5778-3febba8ee100",
   "title": "hax-camp-22",
   "author": "mayormaier",
   "description": "Welcome to <hax-camp>: an unconference dedicated to all things web components",
@@ -13,8 +13,8 @@
     },
     "site": {
       "name": "hax-camp-22",
-      "created": 1649651605125,
-      "updated": 1649651605125,
+      "created": 1649817404042,
+      "updated": 1649817404042,
       "git": {
         "autoPush": false,
         "branch": "master",
@@ -58,8 +58,8 @@
       "description": "Welcome to HAXCamp 2022!",
       "parent": null,
       "metadata": {
-        "created": 1649651580,
-        "updated": 1649651580,
+        "created": 1649817386,
+        "updated": 1649817386,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -82,8 +82,8 @@
       "description": "What is HAXCamp?",
       "parent": null,
       "metadata": {
-        "created": 1649651580,
-        "updated": 1649651580,
+        "created": 1649817386,
+        "updated": 1649817386,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -106,8 +106,8 @@
       "description": "Where is HAXCamp?",
       "parent": null,
       "metadata": {
-        "created": 1649651580,
-        "updated": 1649651580,
+        "created": 1649817386,
+        "updated": 1649817386,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -130,8 +130,8 @@
       "description": "Who's Coming to HAXCamp?",
       "parent": null,
       "metadata": {
-        "created": 1649651580,
-        "updated": 1649651580,
+        "created": 1649817386,
+        "updated": 1649817386,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -145,17 +145,41 @@
       }
     },
     {
+      "id": "--content-housing-md",
+      "indent": 0,
+      "location": "./pages/housing.md",
+      "slug": "content/housing/",
+      "order": 6,
+      "title": "Apply for HAXCamp Housing!",
+      "description": "Apply for HAXCamp Housing!",
+      "parent": null,
+      "metadata": {
+        "created": 1649817386,
+        "updated": 1649817386,
+        "readtime": 1,
+        "contentDetails": {},
+        "files": [],
+        "haxcmsServiceWorker": true,
+        "tags": [
+          "content"
+        ],
+        "layout": "content.liquid",
+        "title": "Apply for HAXCamp Housing!",
+        "order": 6
+      }
+    },
+    {
       "id": "--content-register-html",
       "indent": 0,
       "location": "./pages/register.html",
       "slug": "content/register/",
-      "order": 9,
+      "order": 11,
       "title": "Register for Camp!",
       "description": "Register for Camp!",
       "parent": null,
       "metadata": {
-        "created": 1649651580,
-        "updated": 1649651580,
+        "created": 1649817386,
+        "updated": 1649817386,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
