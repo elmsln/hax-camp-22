@@ -3,6 +3,35 @@
     "description": "<hax-camp> is an unconference dedicated to all things web components!",
     "events": [
         {
+            "name": "hax-camp-19",
+            "date": "October 7-8, 2019",
+            "location": "The Link at Perkins Library, Duke University",
+            "address":"411 Chapel Drive Durham, NC 27708",
+            "topics": [
+                "Introduction to W3C",
+                "Web Components and Microservices",
+                "Legacy to Modern",
+                "Framework Integration",
+                "Web Components: Hello World",
+                "Front End Build Tools",
+                "Deployment Automation and Hosting",
+                "Vue, React, and Angular with Web Components",
+                "Web Performance Hacks",
+                "Theming with CSS Variables",
+                "Component Theory for Functional Uses",
+                "Design System Abstraction for Content Administration",
+                "Front End State Management",
+                "Web Components: Show and Tell",
+                "Managing Multiple Sites with Web Components",
+                "SEO, Analytics, and Accessability",
+                "Component Nesting",
+                "Authentication",
+                "Routing with Mobx",
+                "Styling Slots",
+                "Micro-Front End Architecture"
+            ]
+        },
+        {
             "name": "hax-camp-22",
             "date": "May 9-10, 2022",
             "location": "Penn State Innovation Hub",
