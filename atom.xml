@@ -3,7 +3,7 @@
   <title>hax-camp-22</title>
   <link href="hax.camp/atom.xml" rel="self" />
   <subtitle>Welcome to &lt;hax-camp&gt;: an unconference dedicated to all things web components</subtitle>
-  <updated>2022-04-13T03:22:03.783-00:00</updated>
+  <updated>2022-04-20T03:50:25.028-00:00</updated>
   <author>
       <name>mayormaier</name>
   </author>
@@ -11,8 +11,8 @@
   <entry>
     <title></title>
     <id>hax.camp/housing/</id>
-    <updated>2022-04-13T03:22:02.767-00:00</updated>
-    <published>2022-04-13T03:22:02.767-00:00</published>
+    <updated>2022-04-20T03:50:24.116-00:00</updated>
+    <published>2022-04-20T03:50:24.116-00:00</published>
     <summary></summary>
     <link href="hax.camp/housing/"/>
     <content type="html">
@@ -42,8 +42,8 @@
   <entry>
     <title></title>
     <id>hax.camp/raw-markdown/about/</id>
-    <updated>2022-04-13T03:22:02.767-00:00</updated>
-    <published>2022-04-13T03:22:02.767-00:00</published>
+    <updated>2022-04-20T03:50:24.116-00:00</updated>
+    <published>2022-04-20T03:50:24.116-00:00</published>
     <summary></summary>
     <link href="hax.camp/raw-markdown/about/"/>
     <content type="html">
@@ -79,8 +79,8 @@
   <entry>
     <title></title>
     <id>hax.camp/raw-markdown/details/</id>
-    <updated>2022-04-13T03:22:02.771-00:00</updated>
-    <published>2022-04-13T03:22:02.771-00:00</published>
+    <updated>2022-04-20T03:50:24.116-00:00</updated>
+    <published>2022-04-20T03:50:24.116-00:00</published>
     <summary></summary>
     <link href="hax.camp/raw-markdown/details/"/>
     <content type="html">
@@ -99,8 +99,8 @@
   <entry>
     <title></title>
     <id>hax.camp/raw-markdown/location/</id>
-    <updated>2022-04-13T03:22:02.771-00:00</updated>
-    <published>2022-04-13T03:22:02.771-00:00</published>
+    <updated>2022-04-20T03:50:24.116-00:00</updated>
+    <published>2022-04-20T03:50:24.116-00:00</published>
     <summary></summary>
     <link href="hax.camp/raw-markdown/location/"/>
     <content type="html">
@@ -111,8 +111,8 @@
   <entry>
     <title></title>
     <id>hax.camp/raw-markdown/teaser/</id>
-    <updated>2022-04-13T03:22:02.771-00:00</updated>
-    <published>2022-04-13T03:22:02.771-00:00</published>
+    <updated>2022-04-20T03:50:24.116-00:00</updated>
+    <published>2022-04-20T03:50:24.116-00:00</published>
     <summary></summary>
     <link href="hax.camp/raw-markdown/teaser/"/>
     <content type="html">
@@ -135,8 +135,8 @@
   <entry>
     <title></title>
     <id>hax.camp/raw-markdown/test/</id>
-    <updated>2022-04-13T03:22:02.771-00:00</updated>
-    <published>2022-04-13T03:22:02.771-00:00</published>
+    <updated>2022-04-20T03:50:24.116-00:00</updated>
+    <published>2022-04-20T03:50:24.116-00:00</published>
     <summary></summary>
     <link href="hax.camp/raw-markdown/test/"/>
     <content type="html">
@@ -147,8 +147,8 @@
   <entry>
     <title></title>
     <id>hax.camp/raw-markdown/who/</id>
-    <updated>2022-04-13T03:22:02.771-00:00</updated>
-    <published>2022-04-13T03:22:02.771-00:00</published>
+    <updated>2022-04-20T03:50:24.116-00:00</updated>
+    <published>2022-04-20T03:50:24.116-00:00</published>
     <summary></summary>
     <link href="hax.camp/raw-markdown/who/"/>
     <content type="html">
@@ -211,8 +211,8 @@
   <entry>
     <title></title>
     <id>hax.camp/register/</id>
-    <updated>2022-04-13T03:22:02.771-00:00</updated>
-    <published>2022-04-13T03:22:02.771-00:00</published>
+    <updated>2022-04-20T03:50:24.116-00:00</updated>
+    <published>2022-04-20T03:50:24.116-00:00</published>
     <summary></summary>
     <link href="hax.camp/register/"/>
     <content type="html">
@@ -242,8 +242,8 @@
   <entry>
     <title>What is HAXCamp?</title>
     <id>hax.camp/content/about/</id>
-    <updated>2022-04-13T03:22:03.783-00:00</updated>
-    <published>2022-04-13T03:22:03.783-00:00</published>
+    <updated>2022-04-20T03:50:25.028-00:00</updated>
+    <published>2022-04-20T03:50:25.028-00:00</published>
     <summary></summary>
     <link href="hax.camp/content/about/"/>
     <content type="html">
@@ -254,8 +254,8 @@
   <entry>
     <title>Apply for HAXCamp Housing!</title>
     <id>hax.camp/content/housing/</id>
-    <updated>2022-04-13T03:22:03.783-00:00</updated>
-    <published>2022-04-13T03:22:03.783-00:00</published>
+    <updated>2022-04-20T03:50:25.028-00:00</updated>
+    <published>2022-04-20T03:50:25.028-00:00</published>
     <summary></summary>
     <link href="hax.camp/content/housing/"/>
     <content type="html">
@@ -265,8 +265,8 @@
   <entry>
     <title>Where is HAXCamp?</title>
     <id>hax.camp/content/location/</id>
-    <updated>2022-04-13T03:22:03.783-00:00</updated>
-    <published>2022-04-13T03:22:03.783-00:00</published>
+    <updated>2022-04-20T03:50:25.028-00:00</updated>
+    <published>2022-04-20T03:50:25.028-00:00</published>
     <summary></summary>
     <link href="hax.camp/content/location/"/>
     <content type="html">
@@ -278,8 +278,8 @@
   <entry>
     <title>Register for Camp!</title>
     <id>hax.camp/content/register/</id>
-    <updated>2022-04-13T03:22:03.783-00:00</updated>
-    <published>2022-04-13T03:22:03.783-00:00</published>
+    <updated>2022-04-20T03:50:25.028-00:00</updated>
+    <published>2022-04-20T03:50:25.028-00:00</published>
     <summary></summary>
     <link href="hax.camp/content/register/"/>
     <content type="html">
@@ -309,10 +309,75 @@
     </content>
   </entry>
   <entry>
+    <title>HAXCamp Schedule</title>
+    <id>hax.camp/content/schedule/</id>
+    <updated>2022-04-20T03:50:25.028-00:00</updated>
+    <published>2022-04-20T03:50:25.028-00:00</published>
+    <summary></summary>
+    <link href="hax.camp/content/schedule/"/>
+    <content type="html">
+          &lt;p style=&quot;width: 100%;&quot;&gt;The schedule will be fully built out &lt;i&gt;by attendees&lt;/i&gt;
+    the first 45 minutes of each day. We&#39;ll take a photo and post it here and twitter after the schedule has been created. &lt;i&gt;Unconferences&lt;/i&gt;
+    can be nebulous so here&#39;s an idea of what to expect!&lt;/p&gt;
+
+   &lt;h3&gt;Example / planned discussions&lt;/h3&gt;
+   &lt;ul style=&quot;width: 100%;&quot;&gt;
+        &lt;li&gt;&lt;b&gt;Library usage discussion&lt;/b&gt;
+            - Who&#39;s using what, experiences, likes / dislikes. LitElement vs VanillaJS vs any others!&lt;/li&gt;
+        &lt;li&gt;&lt;b&gt;Theming web components&lt;/b&gt;
+            - custom properties vs css variables&lt;/li&gt;
+        &lt;li&gt;&lt;b&gt;Light DOM vs shadow DOM&lt;/b&gt;
+        &lt;span&gt;
+            - Pros &amp; cons, lessons learned&lt;/span&gt;&lt;br/&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;b&gt;making hello-world&lt;/b&gt;
+            - Creating a hello-world element with &lt;a href=&quot;https://open-wc.org/&quot;&gt;open-wc tooling&lt;/a&gt;
+        &lt;/li&gt;
+        &lt;li&gt;&lt;b&gt;Tooling workflows&lt;/b&gt;
+            - Rollup? Webpack? ESbuild?
+            &lt;li&gt;&lt;b&gt;HAX End users&lt;/b&gt;
+            - hax.psu tour, discussion and roadmap prioritization for overall project&lt;/li&gt;
+        &lt;li&gt;&lt;b&gt;A11y at scale&lt;/b&gt;
+            - Scaling out web components to an organization while maintaining accessibility and performance&lt;/li&gt;
+        &lt;li&gt;&lt;b&gt;Vercel / Microfrontend development&lt;/b&gt;
+        &lt;span&gt;
+            - Project show cases, code deep dives, planning for the future&lt;/span&gt;&lt;br/&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;b&gt;Bundle vs unbundle&lt;/b&gt;
+            - When to do one vs the other, CDN discussions&lt;/li&gt;
+        &lt;li&gt;Anything you bring to the table! These are just suggestions based on who&#39;s going to be there!&lt;/li&gt;
+   &lt;/ul&gt;
+
+   &lt;h3&gt;Example schedule Day 1&lt;/h3&gt;
+   &lt;ul style=&quot;width: 100%;&quot;&gt;
+       &lt;li&gt;8:30 - 9:00 - coffee and registration&lt;/li&gt;
+       &lt;li&gt;9:05 - 9:15 - Welcome to hax-camp PSU!&lt;/li&gt;
+       &lt;li&gt;9:15 - 10:15 - Introductions and schedule formation&lt;/li&gt;
+       &lt;li&gt;10:25 - 11:15 - Slot 1 discussions / presentations&lt;/li&gt;
+       &lt;li&gt;11:25 - 12:15 - Slot 2 discussions / presentations&lt;/li&gt;
+       &lt;li&gt;12:20 - 1:50 - Go get lunch / lunch discussions&lt;/li&gt;
+       &lt;li&gt;1:55 - 2:45 - Slot 3 discussions / presentations&lt;/li&gt;
+       &lt;li&gt;2:50 - 3:40 - Slot 4 discussions / presentations&lt;/li&gt;
+       &lt;li&gt;3:45 - 4:00 - Debrief / Main room clean up&lt;/li&gt;
+       &lt;li&gt;4:15 - 6:45 - Dinner discussions nearby&lt;/li&gt;
+   &lt;/ul&gt;
+
+   &lt;h3&gt;Example schedule day 2&lt;/h3&gt;
+   &lt;ul style=&quot;width: 100%;&quot;&gt;
+       &lt;li&gt;9:00 - 9:25 - coffee and registration&lt;/li&gt;
+       &lt;li&gt;9:30 - 10:15 - Schedule formation&lt;/li&gt;
+       &lt;li&gt;10:25 - 11:15 - Slot 1 discussions / presentations&lt;/li&gt;
+       &lt;li&gt;11:25 - 12:15 - Slot 2 discussions / presentations&lt;/li&gt;
+       &lt;li&gt;12:20 - 1:50 - Go get lunch / lunch discussions&lt;/li&gt;
+       &lt;li&gt;1:55 - 2:45 - Slot 3 discussions / presentations&lt;/li&gt;
+       &lt;li&gt;2:50 - 3:40 - Slot 4 discussions / presentations&lt;/li&gt;
+       &lt;li&gt;3:45 - 4:00 - Saying goodbye / Main room clean up&lt;/li&gt;
+   &lt;/ul&gt;
+    </content>
+  </entry>
+  <entry>
     <title>Welcome to HAXCamp 2022!</title>
     <id>hax.camp/content/welcome/</id>
-    <updated>2022-04-13T03:22:03.783-00:00</updated>
-    <published>2022-04-13T03:22:03.783-00:00</published>
+    <updated>2022-04-20T03:50:25.028-00:00</updated>
+    <published>2022-04-20T03:50:25.028-00:00</published>
     <summary></summary>
     <link href="hax.camp/content/welcome/"/>
     <content type="html">
@@ -325,8 +390,8 @@
   <entry>
     <title>Who&#39;s Coming to HAXCamp?</title>
     <id>hax.camp/content/who-is-coming/</id>
-    <updated>2022-04-13T03:22:03.783-00:00</updated>
-    <published>2022-04-13T03:22:03.783-00:00</published>
+    <updated>2022-04-20T03:50:25.028-00:00</updated>
+    <published>2022-04-20T03:50:25.028-00:00</published>
     <summary></summary>
     <link href="hax.camp/content/who-is-coming/"/>
     <content type="html">

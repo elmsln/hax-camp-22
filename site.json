@@ -1,5 +1,5 @@
 {
-  "id": "#dc66b33b-6290-f67c-7c9f-26dc50c814d5",
+  "id": "#cdb7d4f0-2061-7ce1-f8f0-c825d975b7e7",
   "title": "hax-camp-22",
   "author": "mayormaier",
   "description": "Welcome to <hax-camp>: an unconference dedicated to all things web components",
@@ -13,8 +13,8 @@
     },
     "site": {
       "name": "hax-camp-22",
-      "created": 1649820148442,
-      "updated": 1649820148442,
+      "created": 1650426646249,
+      "updated": 1650426646249,
       "git": {
         "autoPush": false,
         "branch": "master",
@@ -58,8 +58,8 @@
       "description": "Welcome to HAXCamp 2022!",
       "parent": null,
       "metadata": {
-        "created": 1649820124,
-        "updated": 1649820124,
+        "created": 1650426625,
+        "updated": 1650426625,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -82,8 +82,8 @@
       "description": "What is HAXCamp?",
       "parent": null,
       "metadata": {
-        "created": 1649820124,
-        "updated": 1649820124,
+        "created": 1650426625,
+        "updated": 1650426625,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -106,8 +106,8 @@
       "description": "Where is HAXCamp?",
       "parent": null,
       "metadata": {
-        "created": 1649820124,
-        "updated": 1649820124,
+        "created": 1650426625,
+        "updated": 1650426625,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -130,8 +130,8 @@
       "description": "Who's Coming to HAXCamp?",
       "parent": null,
       "metadata": {
-        "created": 1649820124,
-        "updated": 1649820124,
+        "created": 1650426625,
+        "updated": 1650426625,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -145,6 +145,30 @@
       }
     },
     {
+      "id": "--content-schedule-html",
+      "indent": 0,
+      "location": "./pages/schedule.html",
+      "slug": "content/schedule/",
+      "order": 5,
+      "title": "HAXCamp Schedule",
+      "description": "HAXCamp Schedule",
+      "parent": null,
+      "metadata": {
+        "created": 1650426625,
+        "updated": 1650426625,
+        "readtime": 2,
+        "contentDetails": {},
+        "files": [],
+        "haxcmsServiceWorker": true,
+        "tags": [
+          "content"
+        ],
+        "layout": "content.liquid",
+        "title": "HAXCamp Schedule",
+        "order": 5
+      }
+    },
+    {
       "id": "--content-housing-md",
       "indent": 0,
       "location": "./pages/housing.md",
@@ -154,8 +178,8 @@
       "description": "Apply for HAXCamp Housing!",
       "parent": null,
       "metadata": {
-        "created": 1649820124,
-        "updated": 1649820124,
+        "created": 1650426625,
+        "updated": 1650426625,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -173,13 +197,13 @@
       "indent": 0,
       "location": "./pages/register.html",
       "slug": "content/register/",
-      "order": 11,
+      "order": 13,
       "title": "Register for Camp!",
       "description": "Register for Camp!",
       "parent": null,
       "metadata": {
-        "created": 1649820124,
-        "updated": 1649820124,
+        "created": 1650426625,
+        "updated": 1650426625,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
