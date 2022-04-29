@@ -1,5 +1,5 @@
 ---
-title: Apply for HAXCamp Housing!
+title: Housing During HAXCamp
 order: 6
 ---
 
