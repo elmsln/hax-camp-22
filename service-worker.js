@@ -39,67 +39,71 @@
 var precacheConfig = [
   [
     "/housing/",
-    "zXhAsXGaIYqsWFYO"
+    "s41XCulzd1PysqNd"
   ],
   [
     "/raw-markdown/about/",
-    "zXhAsXGaIYqsWFYO"
+    "s41XCulzd1PysqNd"
   ],
   [
     "/raw-markdown/details/",
-    "zXhAsXGaIYqsWFYO"
+    "s41XCulzd1PysqNd"
   ],
   [
     "/raw-markdown/location/",
-    "zXhAsXGaIYqsWFYO"
+    "s41XCulzd1PysqNd"
   ],
   [
     "/raw-markdown/teaser/",
-    "zXhAsXGaIYqsWFYO"
+    "s41XCulzd1PysqNd"
   ],
   [
     "/raw-markdown/test/",
-    "zXhAsXGaIYqsWFYO"
+    "s41XCulzd1PysqNd"
   ],
   [
     "/raw-markdown/who/",
-    "zXhAsXGaIYqsWFYO"
+    "s41XCulzd1PysqNd"
   ],
   [
     "/register/",
-    "zXhAsXGaIYqsWFYO"
+    "s41XCulzd1PysqNd"
+  ],
+  [
+    "/content/coc/",
+    "JR8yKOacPjTVjffW"
   ],
   [
     "/content/about/",
-    "mgHSgekzE3yHhYW4"
+    "JR8yKOacPjTVjffW"
   ],
   [
     "/content/housing/",
-    "mgHSgekzE3yHhYW4"
+    "JR8yKOacPjTVjffW"
   ],
   [
     "/content/location/",
-    "mgHSgekzE3yHhYW4"
-  ],
-  [
-    "/content/schedule/",
-    "mgHSgekzE3yHhYW4"
-  ],
-  [
-    "/content/welcome/",
-    "mgHSgekzE3yHhYW4"
+    "JR8yKOacPjTVjffW"
   ],
   [
     "/content/register/",
-    "mgHSgekzE3yHhYW4"
+    "JR8yKOacPjTVjffW"
+  ],
+  [
+    "/content/schedule/",
+    "JR8yKOacPjTVjffW"
+  ],
+  [
+    "/content/welcome/",
+    "JR8yKOacPjTVjffW"
   ],
   [
     "/content/who-is-coming/",
-    "mgHSgekzE3yHhYW4"
+    "JR8yKOacPjTVjffW"
   ],
   [
     "/",
-    "zXhAsXGaIYqsWFYO"
+    "s41XCulzd1PysqNd"
   ]
 ];
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');

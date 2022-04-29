@@ -1,4 +1,5 @@
 {
   "template": "notemplate.html",
-  "title": "Register for Camp!"
+  "title": "Register for Camp!",
+  "order": 7
 }

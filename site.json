@@ -1,5 +1,5 @@
 {
-  "id": "#cdb7d4f0-2061-7ce1-f8f0-c825d975b7e7",
+  "id": "#533b9924-78f0-3f88-37da-8565a9a55f97",
   "title": "hax-camp-22",
   "author": "mayormaier",
   "description": "Welcome to <hax-camp>: an unconference dedicated to all things web components",
@@ -13,8 +13,8 @@
     },
     "site": {
       "name": "hax-camp-22",
-      "created": 1650426646249,
-      "updated": 1650426646249,
+      "created": 1651259878662,
+      "updated": 1651259878662,
       "git": {
         "autoPush": false,
         "branch": "master",
@@ -58,8 +58,8 @@
       "description": "Welcome to HAXCamp 2022!",
       "parent": null,
       "metadata": {
-        "created": 1650426625,
-        "updated": 1650426625,
+        "created": 1651259857,
+        "updated": 1651259857,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -82,8 +82,8 @@
       "description": "What is HAXCamp?",
       "parent": null,
       "metadata": {
-        "created": 1650426625,
-        "updated": 1650426625,
+        "created": 1651259857,
+        "updated": 1651259857,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -106,8 +106,8 @@
       "description": "Where is HAXCamp?",
       "parent": null,
       "metadata": {
-        "created": 1650426625,
-        "updated": 1650426625,
+        "created": 1651259857,
+        "updated": 1651259857,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -130,8 +130,8 @@
       "description": "Who's Coming to HAXCamp?",
       "parent": null,
       "metadata": {
-        "created": 1650426625,
-        "updated": 1650426625,
+        "created": 1651259857,
+        "updated": 1651259857,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -154,8 +154,8 @@
       "description": "HAXCamp Schedule",
       "parent": null,
       "metadata": {
-        "created": 1650426625,
-        "updated": 1650426625,
+        "created": 1651259857,
+        "updated": 1651259857,
         "readtime": 2,
         "contentDetails": {},
         "files": [],
@@ -174,12 +174,12 @@
       "location": "./pages/housing.md",
       "slug": "content/housing/",
       "order": 6,
-      "title": "Apply for HAXCamp Housing!",
-      "description": "Apply for HAXCamp Housing!",
+      "title": "Housing During HAXCamp",
+      "description": "Housing During HAXCamp",
       "parent": null,
       "metadata": {
-        "created": 1650426625,
-        "updated": 1650426625,
+        "created": 1651259857,
+        "updated": 1651259857,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -188,7 +188,7 @@
           "content"
         ],
         "layout": "content.liquid",
-        "title": "Apply for HAXCamp Housing!",
+        "title": "Housing During HAXCamp",
         "order": 6
       }
     },
@@ -197,13 +197,13 @@
       "indent": 0,
       "location": "./pages/register.html",
       "slug": "content/register/",
-      "order": 13,
+      "order": 7,
       "title": "Register for Camp!",
       "description": "Register for Camp!",
       "parent": null,
       "metadata": {
-        "created": 1650426625,
-        "updated": 1650426625,
+        "created": 1651259857,
+        "updated": 1651259857,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -213,7 +213,32 @@
         ],
         "layout": "content.liquid",
         "template": "notemplate.html",
-        "title": "Register for Camp!"
+        "title": "Register for Camp!",
+        "order": 7
+      }
+    },
+    {
+      "id": "--content-coc-html",
+      "indent": 0,
+      "location": "./pages/coc.html",
+      "slug": "content/coc/",
+      "order": 8,
+      "title": "Code of Conduct",
+      "description": "Code of Conduct",
+      "parent": null,
+      "metadata": {
+        "created": 1651259857,
+        "updated": 1651259857,
+        "readtime": 2,
+        "contentDetails": {},
+        "files": [],
+        "haxcmsServiceWorker": true,
+        "tags": [
+          "content"
+        ],
+        "layout": "content.liquid",
+        "title": "Code of Conduct",
+        "order": 8
       }
     }
   ]
