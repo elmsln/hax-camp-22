@@ -1,5 +1,5 @@
 {
-  "id": "#533b9924-78f0-3f88-37da-8565a9a55f97",
+  "id": "#3dec8782-cf8a-94a3-2100-78b41c29a273",
   "title": "hax-camp-22",
   "author": "mayormaier",
   "description": "Welcome to <hax-camp>: an unconference dedicated to all things web components",
@@ -13,8 +13,8 @@
     },
     "site": {
       "name": "hax-camp-22",
-      "created": 1651259878662,
-      "updated": 1651259878662,
+      "created": 1651331992228,
+      "updated": 1651331992228,
       "git": {
         "autoPush": false,
         "branch": "master",
@@ -58,8 +58,8 @@
       "description": "Welcome to HAXCamp 2022!",
       "parent": null,
       "metadata": {
-        "created": 1651259857,
-        "updated": 1651259857,
+        "created": 1651331969,
+        "updated": 1651331969,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -82,8 +82,8 @@
       "description": "What is HAXCamp?",
       "parent": null,
       "metadata": {
-        "created": 1651259857,
-        "updated": 1651259857,
+        "created": 1651331969,
+        "updated": 1651331969,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -106,8 +106,8 @@
       "description": "Where is HAXCamp?",
       "parent": null,
       "metadata": {
-        "created": 1651259857,
-        "updated": 1651259857,
+        "created": 1651331969,
+        "updated": 1651331969,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -130,8 +130,8 @@
       "description": "Who's Coming to HAXCamp?",
       "parent": null,
       "metadata": {
-        "created": 1651259857,
-        "updated": 1651259857,
+        "created": 1651331969,
+        "updated": 1651331969,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -154,8 +154,8 @@
       "description": "HAXCamp Schedule",
       "parent": null,
       "metadata": {
-        "created": 1651259857,
-        "updated": 1651259857,
+        "created": 1651331969,
+        "updated": 1651331969,
         "readtime": 2,
         "contentDetails": {},
         "files": [],
@@ -178,8 +178,8 @@
       "description": "Housing During HAXCamp",
       "parent": null,
       "metadata": {
-        "created": 1651259857,
-        "updated": 1651259857,
+        "created": 1651331969,
+        "updated": 1651331969,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -202,8 +202,8 @@
       "description": "Register for Camp!",
       "parent": null,
       "metadata": {
-        "created": 1651259857,
-        "updated": 1651259857,
+        "created": 1651331969,
+        "updated": 1651331969,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -227,8 +227,8 @@
       "description": "Code of Conduct",
       "parent": null,
       "metadata": {
-        "created": 1651259857,
-        "updated": 1651259857,
+        "created": 1651331969,
+        "updated": 1651331969,
         "readtime": 2,
         "contentDetails": {},
         "files": [],
