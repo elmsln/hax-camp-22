@@ -1,6 +1,6 @@
 ---
 title: Where is HAXCamp?
-order: 3
+order: 4
 ---
 
 <md-block source="/raw-markdown/location.md" style="font-family: helvetica, sans-serif; word-break: normal !important;"></md-block>
