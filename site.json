@@ -1,5 +1,5 @@
 {
-  "id": "#3dec8782-cf8a-94a3-2100-78b41c29a273",
+  "id": "#7aceade5-8c7a-e21a-9be6-e0ebe7b8991f",
   "title": "hax-camp-22",
   "author": "mayormaier",
   "description": "Welcome to <hax-camp>: an unconference dedicated to all things web components",
@@ -13,8 +13,8 @@
     },
     "site": {
       "name": "hax-camp-22",
-      "created": 1651331992228,
-      "updated": 1651331992228,
+      "created": 1651968374094,
+      "updated": 1651968374094,
       "git": {
         "autoPush": false,
         "branch": "master",
@@ -58,8 +58,8 @@
       "description": "Welcome to HAXCamp 2022!",
       "parent": null,
       "metadata": {
-        "created": 1651331969,
-        "updated": 1651331969,
+        "created": 1651968353,
+        "updated": 1651968353,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -73,89 +73,17 @@
       }
     },
     {
-      "id": "--content-about-md",
-      "indent": 0,
-      "location": "./pages/about.md",
-      "slug": "content/about/",
-      "order": 2,
-      "title": "What is HAXCamp?",
-      "description": "What is HAXCamp?",
-      "parent": null,
-      "metadata": {
-        "created": 1651331969,
-        "updated": 1651331969,
-        "readtime": 1,
-        "contentDetails": {},
-        "files": [],
-        "haxcmsServiceWorker": true,
-        "tags": [
-          "content"
-        ],
-        "layout": "content.liquid",
-        "title": "What is HAXCamp?",
-        "order": 2
-      }
-    },
-    {
-      "id": "--content-location-md",
-      "indent": 0,
-      "location": "./pages/location.md",
-      "slug": "content/location/",
-      "order": 3,
-      "title": "Where is HAXCamp?",
-      "description": "Where is HAXCamp?",
-      "parent": null,
-      "metadata": {
-        "created": 1651331969,
-        "updated": 1651331969,
-        "readtime": 1,
-        "contentDetails": {},
-        "files": [],
-        "haxcmsServiceWorker": true,
-        "tags": [
-          "content"
-        ],
-        "layout": "content.liquid",
-        "title": "Where is HAXCamp?",
-        "order": 3
-      }
-    },
-    {
-      "id": "--content-who-is-coming-html",
-      "indent": 0,
-      "location": "./pages/who-is-coming.html",
-      "slug": "content/who-is-coming/",
-      "order": 4,
-      "title": "Who's Coming to HAXCamp?",
-      "description": "Who's Coming to HAXCamp?",
-      "parent": null,
-      "metadata": {
-        "created": 1651331969,
-        "updated": 1651331969,
-        "readtime": 1,
-        "contentDetails": {},
-        "files": [],
-        "haxcmsServiceWorker": true,
-        "tags": [
-          "content"
-        ],
-        "layout": "content.liquid",
-        "title": "Who's Coming to HAXCamp?",
-        "order": 4
-      }
-    },
-    {
       "id": "--content-schedule-html",
       "indent": 0,
       "location": "./pages/schedule.html",
       "slug": "content/schedule/",
-      "order": 5,
+      "order": 2,
       "title": "HAXCamp Schedule",
       "description": "HAXCamp Schedule",
       "parent": null,
       "metadata": {
-        "created": 1651331969,
-        "updated": 1651331969,
+        "created": 1651968353,
+        "updated": 1651968353,
         "readtime": 2,
         "contentDetails": {},
         "files": [],
@@ -165,21 +93,21 @@
         ],
         "layout": "content.liquid",
         "title": "HAXCamp Schedule",
-        "order": 5
+        "order": 2
       }
     },
     {
-      "id": "--content-housing-md",
+      "id": "--content-about-md",
       "indent": 0,
-      "location": "./pages/housing.md",
-      "slug": "content/housing/",
-      "order": 6,
-      "title": "Housing During HAXCamp",
-      "description": "Housing During HAXCamp",
+      "location": "./pages/about.md",
+      "slug": "content/about/",
+      "order": 3,
+      "title": "What is HAXCamp?",
+      "description": "What is HAXCamp?",
       "parent": null,
       "metadata": {
-        "created": 1651331969,
-        "updated": 1651331969,
+        "created": 1651968353,
+        "updated": 1651968353,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -188,8 +116,56 @@
           "content"
         ],
         "layout": "content.liquid",
-        "title": "Housing During HAXCamp",
-        "order": 6
+        "title": "What is HAXCamp?",
+        "order": 3
+      }
+    },
+    {
+      "id": "--content-location-md",
+      "indent": 0,
+      "location": "./pages/location.md",
+      "slug": "content/location/",
+      "order": 4,
+      "title": "Where is HAXCamp?",
+      "description": "Where is HAXCamp?",
+      "parent": null,
+      "metadata": {
+        "created": 1651968353,
+        "updated": 1651968353,
+        "readtime": 1,
+        "contentDetails": {},
+        "files": [],
+        "haxcmsServiceWorker": true,
+        "tags": [
+          "content"
+        ],
+        "layout": "content.liquid",
+        "title": "Where is HAXCamp?",
+        "order": 4
+      }
+    },
+    {
+      "id": "--content-who-is-coming-html",
+      "indent": 0,
+      "location": "./pages/who-is-coming.html",
+      "slug": "content/who-is-coming/",
+      "order": 5,
+      "title": "Who's Coming to HAXCamp?",
+      "description": "Who's Coming to HAXCamp?",
+      "parent": null,
+      "metadata": {
+        "created": 1651968353,
+        "updated": 1651968353,
+        "readtime": 1,
+        "contentDetails": {},
+        "files": [],
+        "haxcmsServiceWorker": true,
+        "tags": [
+          "content"
+        ],
+        "layout": "content.liquid",
+        "title": "Who's Coming to HAXCamp?",
+        "order": 5
       }
     },
     {
@@ -202,8 +178,8 @@
       "description": "Register for Camp!",
       "parent": null,
       "metadata": {
-        "created": 1651331969,
-        "updated": 1651331969,
+        "created": 1651968353,
+        "updated": 1651968353,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -227,8 +203,8 @@
       "description": "Code of Conduct",
       "parent": null,
       "metadata": {
-        "created": 1651331969,
-        "updated": 1651331969,
+        "created": 1651968353,
+        "updated": 1651968353,
         "readtime": 2,
         "contentDetails": {},
         "files": [],

@@ -1,19 +1,11 @@
 [
   {
-   "id":"Housing During HAXCamp",
-   "title":"Housing During HAXCamp",
-   "created": "",
-   "location":"/content/housing/",
-   "description":"Loading…",
-   "text":"Loading…"
-  },
-  {
    "id":"Welcome to HAXCamp 2022!",
    "title":"Welcome to HAXCamp 2022!",
    "created": "",
    "location":"/content/welcome/",
-   "description":"Get ready for Camp! We're excited to bring HAXCamp to Penn State on May 9-10, 2022.",
-   "text":"Get ready for Camp! We're excited to bring HAXCamp to Penn State on May 9-10, 2022."
+   "description":"Get ready for Camp! We're excited to bring HAXCamp to Penn State on May 9-10, 2022.Looking to get in contact with the HAX family? Connect with us on slack!Also, we'll be using this trello board for ideation during the event.",
+   "text":"Get ready for Camp! We're excited to bring HAXCamp to Penn State on May 9-10, 2022.Looking to get in contact with the HAX family? Connect with us on slack!Also, we'll be using this trello board for ideation during the event."
   },
   {
    "id":"What is HAXCamp?",

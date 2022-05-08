@@ -38,72 +38,64 @@
 'use strict';
 var precacheConfig = [
   [
-    "/housing/",
-    "B4SDgIbA6YlwJse1"
-  ],
-  [
     "/raw-markdown/about/",
-    "B4SDgIbA6YlwJse1"
+    "PpQw1BY1Mj67jLdz"
   ],
   [
     "/raw-markdown/details/",
-    "B4SDgIbA6YlwJse1"
+    "PpQw1BY1Mj67jLdz"
   ],
   [
     "/raw-markdown/location/",
-    "B4SDgIbA6YlwJse1"
+    "PpQw1BY1Mj67jLdz"
   ],
   [
     "/raw-markdown/teaser/",
-    "B4SDgIbA6YlwJse1"
+    "PpQw1BY1Mj67jLdz"
   ],
   [
     "/raw-markdown/test/",
-    "B4SDgIbA6YlwJse1"
+    "PpQw1BY1Mj67jLdz"
   ],
   [
     "/raw-markdown/who/",
-    "B4SDgIbA6YlwJse1"
+    "PpQw1BY1Mj67jLdz"
   ],
   [
     "/register/",
-    "B4SDgIbA6YlwJse1"
+    "PpQw1BY1Mj67jLdz"
   ],
   [
     "/content/about/",
-    "gyXNCa8tP2grwQoZ"
-  ],
-  [
-    "/content/housing/",
-    "gyXNCa8tP2grwQoZ"
-  ],
-  [
-    "/content/register/",
-    "gyXNCa8tP2grwQoZ"
-  ],
-  [
-    "/content/schedule/",
-    "gyXNCa8tP2grwQoZ"
+    "PpQw1BY1Mj67jLdz"
   ],
   [
     "/content/location/",
-    "gyXNCa8tP2grwQoZ"
-  ],
-  [
-    "/content/welcome/",
-    "gyXNCa8tP2grwQoZ"
-  ],
-  [
-    "/content/who-is-coming/",
-    "gyXNCa8tP2grwQoZ"
+    "PpQw1BY1Mj67jLdz"
   ],
   [
     "/content/coc/",
-    "gyXNCa8tP2grwQoZ"
+    "PpQw1BY1Mj67jLdz"
+  ],
+  [
+    "/content/register/",
+    "PpQw1BY1Mj67jLdz"
+  ],
+  [
+    "/content/schedule/",
+    "PpQw1BY1Mj67jLdz"
+  ],
+  [
+    "/content/welcome/",
+    "PpQw1BY1Mj67jLdz"
+  ],
+  [
+    "/content/who-is-coming/",
+    "PpQw1BY1Mj67jLdz"
   ],
   [
     "/",
-    "B4SDgIbA6YlwJse1"
+    "PpQw1BY1Mj67jLdz"
   ]
 ];
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');
